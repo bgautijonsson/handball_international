@@ -1,0 +1,156 @@
+date,home,away,home_score,away_score
+15.12. 17:00,Denmark W,Norway W,23,31
+15.12. 14:15,France W,Hungary W,24,25
+13.12. 19:30,France W,Denmark W,22,24
+13.12. 16:45,Hungary W,Norway W,22,30
+13.12. 14:00,Sweden W,Netherlands W,33,32
+11.12. 19:30,Switzerland W,Norway W,24,40
+11.12. 17:00,Denmark W,Netherlands W,30,26
+11.12. 14:30,Slovenia W,Germany W,16,35
+10.12. 19:30,Sweden W,Montenegro W,25,24
+10.12. 17:00,Hungary W,France W,27,30
+10.12. 14:30,Romania W,Poland W,24,29
+09.12. 19:30,Denmark W,Slovenia W,33,26
+09.12. 17:00,Norway W,Germany W,32,27
+09.12. 14:30,Switzerland W,Netherlands W,29,37
+08.12. 19:30,Sweden W,France W,27,31
+08.12. 17:00,Hungary W,Romania W,37,29
+08.12. 14:30,Montenegro W,Poland W,30,28
+07.12. 19:30,Netherlands W,Norway W,21,31
+07.12. 17:00,Denmark W,Germany W,30,22
+07.12. 14:30,Switzerland W,Slovenia W,25,34
+06.12. 19:30,Hungary W,Poland W,31,21
+06.12. 17:00,France W,Montenegro W,31,23
+06.12. 14:30,Sweden W,Romania W,23,25
+05.12. 19:30,Denmark W,Norway W,24,27
+05.12. 19:30,Hungary W,Montenegro W,26,20
+05.12. 17:00,France W,Romania W,30,25
+05.12. 17:00,Netherlands W,Slovenia W,26,22
+05.12. 14:30,Sweden W,Poland W,33,25
+05.12. 14:30,Switzerland W,Germany W,27,36
+03.12. 19:30,Croatia W,Switzerland W,22,26
+03.12. 19:30,Czech Republic W,Montenegro W,21,28
+03.12. 19:30,Iceland W,Germany W,19,30
+03.12. 17:00,Faroe Islands W,Denmark W,24,33
+03.12. 17:00,Serbia W,Romania W,25,27
+03.12. 17:00,Ukraine W,Netherlands W,23,43
+02.12. 19:30,Portugal W,France W,16,28
+02.12. 19:30,Slovakia W,Norway W,15,38
+02.12. 19:30,Turkey W,Sweden W,19,47
+02.12. 17:00,North Macedonia W,Hungary W,19,29
+02.12. 17:00,Poland W,Spain W,26,23
+02.12. 17:00,Slovenia W,Austria W,25,24
+01.12. 19:30,Iceland W,Ukraine W,27,24
+01.12. 19:30,Serbia W,Czech Republic W,24,27
+01.12. 17:00,Denmark W,Switzerland W,35,30
+01.12. 17:00,Montenegro W,Romania W,27,25
+01.12. 17:00,Netherlands W,Germany W,29,22
+01.12. 14:30,Croatia W,Faroe Islands W,17,17
+30.11. 19:30,North Macedonia W,Turkey W,25,25
+30.11. 19:30,Slovenia W,Slovakia W,37,24
+30.11. 17:00,France W,Spain W,24,22
+30.11. 17:00,Norway W,Austria W,38,24
+30.11. 17:00,Sweden W,Hungary W,25,32
+30.11. 14:30,Poland W,Portugal W,22,21
+29.11. 19:30,Denmark W,Croatia W,34,26
+29.11. 19:30,Germany W,Ukraine W,30,17
+29.11. 19:30,Montenegro W,Serbia W,24,18
+29.11. 17:00,Netherlands W,Iceland W,27,25
+29.11. 17:00,Romania W,Czech Republic W,29,28
+29.11. 17:00,Switzerland W,Faroe Islands W,28,25
+28.11. 19:30,France W,Poland W,35,22
+28.11. 19:30,Norway W,Slovenia W,33,26
+28.11. 19:30,Sweden W,North Macedonia W,28,18
+28.11. 17:00,Austria W,Slovakia W,37,24
+28.11. 17:00,Hungary W,Turkey W,30,24
+28.11. 17:00,Spain W,Portugal W,30,24
+07.04. 16:00,Croatia W,Bosnia & Herzegovina W,33,19
+07.04. 16:00,Czech Republic W,Portugal W,25,22
+07.04. 16:00,France W,Latvia W,53,9
+07.04. 16:00,Germany W,Israel W,46,9
+07.04. 16:00,Iceland W,Faroe Islands W,24,20
+07.04. 16:00,Montenegro W,Bulgaria W,35,17
+07.04. 16:00,Netherlands W,Finland W,35,22
+07.04. 16:00,North Macedonia W,Lithuania W,34,24
+07.04. 16:00,Poland W,Kosovo W,28,17
+07.04. 16:00,Romania W,Greece W,31,24
+07.04. 16:00,Serbia W,Turkey W,30,22
+07.04. 16:00,Slovakia W,Ukraine W,25,25
+07.04. 16:00,Slovenia W,Italy W,35,21
+07.04. 16:00,Spain W,Azerbaijan W,42,16
+07.04. 16:00,Sweden W,Luxembourg W,47,18
+06.04. 15:00,Israel W,Germany W,12,35
+04.04. 18:00,Bosnia & Herzegovina W,Romania W,16,37
+04.04. 18:00,Portugal W,Netherlands W,25,36
+04.04. 17:00,Ukraine W,Germany W,21,43
+04.04. 16:10,Latvia W,Slovenia W,16,34
+04.04. 15:45,Kosovo W,Poland W,27,34
+04.04. 15:30,Finland W,Czech Republic W,23,43
+04.04. 14:30,Israel W,Slovakia W,24,35
+03.04. 18:00,Faroe Islands W,Sweden W,27,31
+03.04. 16:45,Luxembourg W,Iceland W,15,31
+03.04. 16:00,Italy W,France W,13,36
+03.04. 16:00,Lithuania W,Spain W,20,34
+03.04. 15:00,Greece W,Croatia W,13,24
+03.04. 14:00,Bulgaria W,Serbia W,17,35
+03.04. 13:00,Azerbaijan W,North Macedonia W,22,37
+03.04. 13:00,Turkey W,Montenegro W,28,30
+03.03. 19:30,Portugal W,Finland W,38,22
+03.03. 17:30,Italy W,Latvia W,43,8
+03.03. 17:15,Germany W,Slovakia W,32,18
+03.03. 17:00,Faroe Islands W,Luxembourg W,39,21
+03.03. 17:00,Montenegro W,Serbia W,26,25
+03.03. 17:00,Spain W,North Macedonia W,24,20
+03.03. 16:00,Croatia W,Romania W,23,25
+03.03. 16:00,France W,Slovenia W,41,22
+03.03. 15:00,Greece W,Bosnia & Herzegovina W,27,23
+03.03. 14:00,Lithuania W,Azerbaijan W,41,26
+03.03. 14:00,Turkey W,Bulgaria W,38,13
+03.03. 12:30,Netherlands W,Czech Republic W,42,25
+02.03. 17:00,Ukraine W,Israel W,32,28
+02.03. 15:00,Denmark W,Poland W,39,31
+02.03. 13:00,Sweden W,Iceland W,37,23
+29.02. 19:30,Israel W,Ukraine W,27,28
+29.02. 17:10,Latvia W,Italy W,14,32
+29.02. 17:00,North Macedonia W,Spain W,19,31
+29.02. 17:00,Serbia W,Montenegro W,30,31
+29.02. 17:00,Slovakia W,Germany W,18,40
+29.02. 16:30,Finland W,Portugal W,21,28
+29.02. 16:00,Slovenia W,France W,20,35
+28.02. 19:30,Iceland W,Sweden W,24,37
+28.02. 18:45,Czech Republic W,Netherlands W,29,30
+28.02. 18:00,Bosnia & Herzegovina W,Greece W,22,24
+28.02. 18:00,Poland W,Denmark W,22,26
+28.02. 17:45,Luxembourg W,Faroe Islands W,16,34
+28.02. 17:00,Slovakia W,Israel W,31,22
+28.02. 16:00,Bulgaria W,Turkey W,24,30
+28.02. 15:30,Romania W,Croatia W,26,24
+28.02. 13:00,Azerbaijan W,Lithuania W,35,33
+15.10. 16:00,Italy W,Slovenia W,18,31
+15.10. 15:00,Ukraine W,Slovakia W,25,20
+15.10. 14:30,Turkey W,Serbia W,29,29
+15.10. 14:00,Bulgaria W,Montenegro W,20,34
+15.10. 14:00,Faroe Islands W,Iceland W,23,28
+15.10. 14:00,Luxembourg W,Sweden W,17,39
+15.10. 14:00,Portugal W,Czech Republic W,26,30
+15.10. 13:00,Lithuania W,North Macedonia W,28,31
+14.10. 18:15,Kosovo W,Denmark W,19,40
+14.10. 18:00,Bosnia & Herzegovina W,Croatia W,17,31
+14.10. 15:00,Greece W,Romania W,20,32
+14.10. 14:10,Latvia W,France W,8,55
+14.10. 13:00,Azerbaijan W,Spain W,18,38
+14.10. 13:00,Finland W,Netherlands W,13,31
+12.10. 19:00,Denmark W,Kosovo W,44,17
+12.10. 18:15,Germany W,Ukraine W,31,24
+12.10. 17:30,Netherlands W,Portugal W,38,27
+12.10. 16:30,Sweden W,Faroe Islands W,37,20
+11.10. 19:30,Iceland W,Luxembourg W,32,14
+11.10. 19:10,France W,Italy W,50,16
+11.10. 18:30,Spain W,Lithuania W,47,14
+11.10. 16:00,Croatia W,Greece W,32,22
+11.10. 16:00,Montenegro W,Turkey W,39,23
+11.10. 16:00,North Macedonia W,Azerbaijan W,40,17
+11.10. 16:00,Serbia W,Bulgaria W,40,16
+11.10. 15:15,Czech Republic W,Finland W,31,21
+11.10. 15:00,Slovenia W,Latvia W,51,13
+11.10. 14:30,Romania W,Bosnia & Herzegovina W,49,18

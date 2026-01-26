@@ -1,0 +1,180 @@
+date,home,away,home_score,away_score
+30.01. 17:00,Sweden,Spain,27,26
+30.01. 14:30AET,France,Denmark,32,35
+28.01. 19:45,France,Sweden,33,34
+28.01. 17:00,Spain,Denmark,29,25
+28.01. 14:30AET,Iceland,Norway,33,34
+26.01. 19:30,Denmark,France,29,30
+26.01. 17:00,Netherlands,Croatia,28,28
+26.01. 14:30,Montenegro,Iceland,24,34
+25.01. 19:30,Sweden,Norway,24,23
+25.01. 17:00,Germany,Russia,30,29
+25.01. 14:30,Poland,Spain,27,28
+24.01. 19:30,Montenegro,France,27,36
+24.01. 17:00,Denmark,Netherlands,35,23
+24.01. 14:30,Iceland,Croatia,22,23
+23.01. 19:30,Spain,Norway,23,27
+23.01. 17:00,Germany,Sweden,21,25
+23.01. 14:30,Poland,Russia,29,29
+22.01. 19:30,Denmark,Croatia,27,25
+22.01. 17:00,France,Iceland,21,29
+22.01. 14:30,Montenegro,Netherlands,30,34
+21.01. 19:30,Germany,Norway,23,28
+21.01. 17:00,Poland,Sweden,18,28
+21.01. 14:30,Russia,Spain,25,26
+20.01. 19:30,Denmark,Iceland,28,24
+20.01. 19:30,Poland,Norway,31,42
+20.01. 17:00,France,Netherlands,34,24
+20.01. 17:00,Germany,Spain,23,29
+20.01. 14:30,Montenegro,Croatia,32,26
+20.01. 14:30,Russia,Sweden,23,29
+18.01. 19:30,Belarus,Austria,29,26
+18.01. 19:30,Netherlands,Portugal,32,31
+18.01. 17:00,Iceland,Hungary,31,30
+18.01. 17:00,Poland,Germany,23,30
+17.01. 19:30,Czech Republic,Sweden,27,27
+17.01. 19:30,France,Serbia,29,25
+17.01. 19:30,Lithuania,Norway,29,35
+17.01. 19:30,North Macedonia,Denmark,21,31
+17.01. 17:00,Bosnia & Herzegovina,Spain,24,28
+17.01. 17:00,Montenegro,Slovenia,33,32
+17.01. 17:00,Slovakia,Russia,27,36
+17.01. 17:00,Ukraine,Croatia,25,38
+16.01. 19:30,Belarus,Poland,20,29
+16.01. 19:30,Iceland,Netherlands,29,28
+16.01. 17:00,Germany,Austria,34,29
+16.01. 17:00,Portugal,Hungary,30,31
+15.01. 19:30,Croatia,Serbia,23,20
+15.01. 19:30,Norway,Russia,22,23
+15.01. 19:30,Slovenia,Denmark,23,34
+15.01. 19:30,Spain,Sweden,32,28
+15.01. 17:00,Czech Republic,Bosnia & Herzegovina,27,19
+15.01. 17:00,France,Ukraine,36,23
+15.01. 17:00,North Macedonia,Montenegro,24,28
+15.01. 17:00,Slovakia,Lithuania,31,26
+14.01. 19:30,Austria,Poland,31,36
+14.01. 19:30,Portugal,Iceland,24,28
+14.01. 17:00,Germany,Belarus,33,29
+13.01. 19:30,Croatia,France,22,27
+13.01. 19:30,Denmark,Montenegro,30,21
+13.01. 19:30,Hungary,Netherlands,28,31
+13.01. 19:30,Norway,Slovakia,35,25
+13.01. 19:30,Sweden,Bosnia & Herzegovina,30,18
+13.01. 17:00,Russia,Lithuania,29,27
+13.01. 17:00,Serbia,Ukraine,31,23
+13.01. 17:00,Slovenia,North Macedonia,27,25
+13.01. 17:00,Spain,Czech Republic,28,26
+02.05. 16:00,Austria,Bosnia & Herzegovina,27,23
+02.05. 16:00,Belarus,Latvia,30,26
+02.05. 16:00,Czech Republic,Ukraine,27,22
+02.05. 16:00,Denmark,Finland,46,24
+02.05. 16:00,Faroe Islands,Russia,23,28
+02.05. 16:00,France,Greece,46,30
+02.05. 16:00,Germany,Estonia,35,20
+02.05. 16:00,Iceland,Israel,39,29
+02.05. 16:00,Montenegro,Romania,23,19
+02.05. 16:00,Netherlands,Poland,32,30
+02.05. 16:00,North Macedonia,Switzerland,29,28
+02.05. 16:00,Norway,Italy,37,16
+02.05. 16:00,Portugal,Lithuania,30,25
+02.05. 16:00Awrd,Serbia,Belgium,10,0
+02.05. 16:00,Slovenia,Turkey,39,24
+02.05. 16:00,Sweden,Kosovo,39,16
+30.04. 18:45,Faroe Islands,Czech Republic,27,26
+30.04. 16:00,Montenegro,Sweden,22,34
+29.04. 18:00,Poland,Slovenia,27,26
+29.04. 17:00,Israel,Portugal,29,41
+29.04. 17:00,Italy,Belarus,31,32
+29.04. 16:30,Estonia,Austria,27,31
+29.04. 16:15,Norway,Latvia,36,17
+29.04. 16:00Awrd,Belgium,France,0,10
+29.04. 16:00,Lithuania,Iceland,29,27
+29.04. 16:00,Turkey,Netherlands,24,32
+29.04. 14:10,Bosnia & Herzegovina,Germany,24,26
+29.04. 12:00,Greece,Serbia,25,27
+28.04. 17:30,Kosovo,Montenegro,22,27
+28.04. 16:40,Latvia,Norway,23,28
+28.04. 16:30,Russia,Faroe Islands,31,24
+28.04. 16:30,Switzerland,Denmark,29,30
+28.04. 15:00,Finland,North Macedonia,22,27
+28.04. 15:00,Romania,Sweden,23,31
+28.04. 15:00,Ukraine,Czech Republic,26,28
+27.04. 17:30,Israel,Iceland,20,30
+27.04. 17:00,Greece,France,31,40
+27.04. 16:00,Turkey,Slovenia,22,30
+26.04. 18:00,Israel,Lithuania,34,28
+14.03. 19:15,Czech Republic,Russia,27,27
+14.03. 18:00,Faroe Islands,Ukraine,25,26
+14.03. 17:15,Poland,Netherlands,26,27
+14.03. 16:00,Bosnia & Herzegovina,Austria,27,21
+14.03. 16:00,Romania,Kosovo,25,30
+14.03. 15:00,Denmark,North Macedonia,37,21
+14.03. 14:00,Lithuania,Israel,31,28
+14.03. 13:00,Switzerland,Finland,32,30
+13.03. 13:10,Latvia,Belarus,27,39
+12.03. 19:15,Czech Republic,Faroe Islands,28,20
+11.03. 19:00,North Macedonia,Denmark,33,29
+11.03. 16:00,Finland,Switzerland,19,32
+10.03. 18:30,Kosovo,Romania,23,23
+10.03. 16:30,Russia,Czech Republic,28,27
+10.03. 15:30,Ukraine,Faroe Islands,25,21
+10.03. 15:00,Belarus,Italy,37,32
+09.03. 20:00Awrd,France,Belgium,10,0
+09.03. 19:10,Slovenia,Poland,32,29
+09.03. 17:05,Sweden,Montenegro,27,24
+16.01. 19:10Awrd,Belgium,Serbia,0,10
+13.01. 16:00,Serbia,Greece,31,21
+10.01. 19:00,Bosnia & Herzegovina,Estonia,21,19
+10.01. 19:00,Slovenia,Netherlands,27,27
+10.01. 17:10,Germany,Austria,34,20
+10.01. 16:00,Iceland,Portugal,32,23
+10.01. 13:10,Latvia,Italy,31,29
+09.01. 19:00,Poland,Turkey,35,24
+09.01. 18:00,France,Serbia,26,26
+09.01. 17:00Awrd,Belgium,Greece,0,10
+08.01. 17:15,Norway,Belarus,27,19
+07.01. 19:30,Italy,Latvia,28,17
+07.01. 15:00Awrd,Greece,Belgium,10,0
+06.01. 19:30,Portugal,Iceland,26,24
+06.01. 17:30,Estonia,Bosnia & Herzegovina,24,21
+06.01. 17:15,Netherlands,Slovenia,23,34
+06.01. 16:00,Turkey,Poland,24,29
+06.01. 12:45,Austria,Germany,27,36
+05.01. 16:00,Serbia,France,27,24
+05.01. 14:30,Belarus,Norway,33,25
+08.11. 17:00,Italy,Norway,24,39
+08.11. 16:25,Romania,Montenegro,36,27
+08.11. 16:00,Kosovo,Sweden,16,30
+08.11. 14:15,Estonia,Germany,23,35
+08.11. 14:00,Lithuania,Portugal,26,34
+07.11. 17:30,Switzerland,North Macedonia,23,25
+07.11. 15:00,Finland,Denmark,22,40
+07.11. 12:00,Russia,Ukraine,30,28
+05.11. 19:00,Denmark,Switzerland,31,26
+05.11. 17:10,Sweden,Romania,33,30
+05.11. 15:15,Germany,Bosnia & Herzegovina,25,21
+05.11. 15:00,Ukraine,Russia,27,27
+04.11. 19:45,Iceland,Lithuania,36,20
+04.11. 19:30,Montenegro,Kosovo,32,25
+04.11. 19:30,Portugal,Israel,31,22
+04.11. 19:25,Austria,Estonia,31,28
+04.11. 19:00,Netherlands,Turkey,27,26
+04.11. 19:00,North Macedonia,Finland,33,24
+19.01. 15:00,Cyprus,Belgium,16,31
+19.01. 14:00,Finland,Georgia,37,21
+19.01. 11:45,Estonia,Luxembourg,31,20
+16.01. 18:30,Luxembourg,Estonia,33,38
+16.01. 15:00,Georgia,Finland,24,24
+15.01. 19:10,Belgium,Cyprus,24,7
+13.01. 16:00,Luxembourg,Great Britain,29,19
+13.01. 15:30,Azerbaijan,Malta,27,24
+13.01. 13:00,Cyprus,Georgia,25,24
+13.01. 13:00,Ireland,Bulgaria,28,35
+12.01. 17:30,Malta,Cyprus,20,38
+12.01. 17:00,Bulgaria,Luxembourg,17,36
+12.01. 15:00,Azerbaijan,Georgia,25,30
+12.01. 14:00,Ireland,Great Britain,26,32
+11.01. 19:00,Luxembourg,Ireland,35,18
+11.01. 18:30,Georgia,Malta,48,21
+11.01. 16:00,Cyprus,Azerbaijan,25,17
+11.01. 16:00,Great Britain,Bulgaria,20,24

@@ -1,0 +1,77 @@
+date,home,away,home_score,away_score
+07.08. 12:00,France,Denmark,25,23
+07.08. 08:00,Egypt,Spain,31,33
+05.08. 12:00,Spain,Denmark,23,27
+05.08. 08:00,France,Egypt,27,23
+03.08. 11:45,Germany,Egypt,26,31
+03.08. 08:00,Denmark,Norway,31,25
+03.08. 04:15,Sweden,Spain,33,34
+03.08. 00:30,France,Bahrain,42,28
+01.08. 12:30,Denmark,Sweden,30,33
+01.08. 10:30,Germany,Brazil,29,25
+01.08. 07:15,Norway,France,32,29
+01.08. 05:15,Spain,Argentina,36,27
+01.08. 02:00,Egypt,Bahrain,30,20
+01.08. 00:00,Portugal,Japan,30,31
+30.07. 12:30,Germany,Norway,28,23
+30.07. 10:30,Portugal,Denmark,28,34
+30.07. 07:15,Sweden,Egypt,22,27
+30.07. 05:15,France,Spain,36,31
+30.07. 02:00,Bahrain,Japan,32,30
+30.07. 00:00,Argentina,Brazil,23,25
+28.07. 12:30,France,Germany,30,29
+28.07. 10:30,Brazil,Spain,25,32
+28.07. 07:15,Norway,Argentina,27,23
+28.07. 05:15,Japan,Egypt,29,33
+28.07. 02:00,Sweden,Portugal,29,28
+28.07. 00:00,Denmark,Bahrain,31,21
+26.07. 12:30,Japan,Sweden,26,28
+26.07. 10:30,Bahrain,Portugal,25,26
+26.07. 07:15,Spain,Norway,28,27
+26.07. 05:15,Egypt,Denmark,27,32
+26.07. 02:00,Argentina,Germany,25,33
+26.07. 00:00,Brazil,France,29,34
+24.07. 12:30,Denmark,Japan,47,30
+24.07. 10:30,Portugal,Egypt,31,37
+24.07. 07:15,Germany,Spain,27,28
+24.07. 05:15,Sweden,Bahrain,32,31
+24.07. 02:00,France,Argentina,33,27
+24.07. 00:00,Norway,Brazil,27,24
+14.03. 20:00,Portugal,France,29,28
+14.03. 19:00,South Korea,Norway,31,44
+14.03. 17:30,Croatia,Tunisia,30,27
+14.03. 17:15,Sweden,Slovenia,32,25
+14.03. 16:30,Brazil,Chile,26,24
+14.03. 14:45,Algeria,Germany,26,34
+13.03. 20:00,France,Tunisia,40,29
+13.03. 19:00,Norway,Chile,38,23
+13.03. 17:30,Croatia,Portugal,25,24
+13.03. 17:00,Sweden,Algeria,36,25
+13.03. 16:30,Brazil,South Korea,30,24
+13.03. 14:35,Germany,Slovenia,36,27
+12.03. 20:00,France,Croatia,30,26
+12.03. 19:00,Norway,Brazil,32,20
+12.03. 17:30,Tunisia,Portugal,27,34
+12.03. 16:45,Slovenia,Algeria,36,28
+12.03. 16:30,Chile,South Korea,35,36
+12.03. 14:15,Germany,Sweden,25,25
+26.10. 15:00,Bahrain,South Korea,34,29
+26.10. 13:00,Qatar,Saudi Arabia,31,21
+25.10. 15:00,Kuwait,Iran,25,27
+25.10. 13:00,India,Hong Kong,26,30
+24.10. 15:00,Qatar,Bahrain,26,28
+24.10. 13:00,South Korea,Saudi Arabia,29,26
+24.10. 11:00,Iran,Hong Kong,48,16
+24.10. 09:00,India,Kuwait,21,34
+22.10. 15:00,Iran,Kuwait,36,36
+22.10. 13:00,Bahrain,South Korea,30,31
+21.10. 15:00,Qatar,Saudi Arabia,29,20
+21.10. 13:00,India,Hong Kong,32,29
+20.10. 15:00,Iran,Bahrain,26,29
+20.10. 13:00,Kuwait,South Korea,32,36
+19.10. 15:00,India,Qatar,10,40
+19.10. 13:00,Hong Kong,Saudi Arabia,16,41
+18.10. 15:00,Bahrain,Kuwait,26,21
+18.10. 13:00,South Korea,Iran,27,28
+17.10. 15:00,Qatar,Hong Kong,49,14
+17.10. 13:00,Saudi Arabia,India,35,24

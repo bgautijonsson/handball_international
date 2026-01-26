@@ -1,0 +1,2615 @@
+season,division,date,home,away,home_goals,away_goals
+2026,1,2026-01-25,Switzerland,Croatia,24,28
+2026,1,2026-01-25,Iceland,Sweden,35,27
+2026,1,2026-01-25,Slovenia,Hungary,35,32
+2026,1,2026-01-24,Germany,Norway,30,28
+2026,1,2026-01-24,Spain,Denmark,31,36
+2026,1,2026-01-24,France,Portugal,46,38
+2026,1,2026-01-23,Slovenia,Sweden,31,35
+2026,1,2026-01-23,Switzerland,Hungary,29,29
+2026,1,2026-01-23,Iceland,Croatia,29,30
+2026,1,2026-01-22,France,Denmark,29,32
+2026,1,2026-01-22,Spain,Norway,34,35
+2026,1,2026-01-22,Germany,Portugal,32,30
+2026,1,2026-01-21,Sweden,Croatia,33,25
+2026,1,2026-01-21,Netherlands,Georgia,31,26
+2026,1,2026-01-20,Denmark,Portugal,29,31
+2026,1,2026-01-20,Hungary,Iceland,23,24
+2026,1,2026-01-20,Slovenia,Faroe Islands,30,27
+2026,1,2026-01-20,Montenegro,Switzerland,26,43
+2026,1,2026-01-20,North Macedonia,Romania,24,23
+2026,1,2026-01-20,Poland,Italy,28,29
+2026,1,2026-01-19,France,Norway,38,34
+2026,1,2026-01-19,Georgia,Sweden,29,38
+2026,1,2026-01-19,Germany,Spain,34,32
+2026,1,2026-01-19,Austria,Serbia,26,25
+2026,1,2026-01-19,Czech Republic,Ukraine,38,29
+2026,1,2026-01-19,Netherlands,Croatia,29,35
+2026,1,2026-01-18,Italy,Hungary,26,32
+2026,1,2026-01-18,Romania,Denmark,24,39
+2026,1,2026-01-18,Switzerland,Slovenia,35,38
+2026,1,2026-01-18,Montenegro,Faroe Islands,24,37
+2026,1,2026-01-18,North Macedonia,Portugal,29,29
+2026,1,2026-01-18,Poland,Iceland,23,31
+2026,1,2026-01-17,Czech Republic,Norway,25,29
+2026,1,2026-01-17,Serbia,Germany,30,27
+2026,1,2026-01-17,Sweden,Netherlands,36,31
+2026,1,2026-01-17,Austria,Spain,25,30
+2026,1,2026-01-17,Croatia,Georgia,32,29
+2026,1,2026-01-17,Ukraine,France,26,46
+2026,1,2026-01-16,Denmark,North Macedonia,36,24
+2026,1,2026-01-16,Faroe Islands,Switzerland,28,28
+2026,1,2026-01-16,Hungary,Poland,29,21
+2026,1,2026-01-16,Iceland,Italy,39,26
+2026,1,2026-01-16,Portugal,Romania,40,34
+2026,1,2026-01-16,Slovenia,Montenegro,41,40
+2026,1,2026-01-15,Germany,Austria,30,27
+2026,1,2026-01-15,Norway,Ukraine,39,22
+2026,1,2026-01-15,France,Czech Republic,42,28
+2026,1,2026-01-15,Spain,Serbia,29,27
+2026,2,2026-01-11,Spain,Portugal,31,34
+2026,2,2026-01-11,Germany,Croatia,33,27
+2026,2,2026-01-11,Faroe Islands,Italy,38,34
+2026,2,2026-01-11,France,Iceland,31,29
+2026,2,2026-01-11,Poland,Serbia,32,32
+2026,2,2026-01-11,Slovakia,Egypt,30,39
+2026,2,2026-01-11,Austria,Slovenia,31,36
+2026,2,2026-01-11,Tunisia,Iran,26,24
+2026,2,2026-01-10,Spain,Tunisia,37,28
+2026,2,2026-01-10,Switzerland,North Macedonia,29,29
+2026,2,2026-01-10,Egypt,Iran,43,24
+2026,2,2026-01-10,Poland,Serbia,33,32
+2026,2,2026-01-10,Netherlands,Norway,30,33
+2026,2,2026-01-10,Bahrain,Ukraine,31,33
+2026,2,2026-01-10,Denmark,Greece,38,24
+2026,2,2026-01-09,France,Austria,34,29
+2026,2,2026-01-09,Switzerland,Bahrain,33,30
+2026,2,2026-01-09,Faroe Islands,Italy,34,36
+2026,2,2026-01-09,Slovakia,Tunisia,35,30
+2026,2,2026-01-09,Hungary,Romania,33,23
+2026,2,2026-01-09,Iceland,Slovenia,32,26
+2026,2,2026-01-09,Montenegro,Bosnia & Herzegovina,36,25
+2026,2,2026-01-09,Ukraine,North Macedonia,26,31
+2026,2,2026-01-09,Portugal,Iran,41,20
+2026,2,2026-01-08,Netherlands,Greece,32,26
+2026,2,2026-01-08,Croatia,Germany,29,32
+2026,2,2026-01-08,North Macedonia,Bahrain,32,28
+2026,2,2026-01-08,Spain,Slovakia,43,26
+2026,2,2026-01-08,Norway,Denmark,26,34
+2026,2,2026-01-08,Switzerland,Ukraine,38,27
+2026,2,2026-01-08,Portugal,Egypt,31,31
+2026,2,2026-01-07,Sweden,Brazil,33,24
+2026,2,2026-01-06,Austria,Czech Republic,29,30
+2026,2,2026-01-06,Italy,Romania,35,34
+2026,2,2026-01-06,Slovenia,Kuwait,36,23
+2026,2,2026-01-05,Sweden,Brazil,34,27
+2025,2,2025-12-15,Qatar,Saudi Arabia,25,26
+2025,4,2025-11-05,Italy,Turkey,37,27
+2025,4,2025-11-05,Kosovo,Slovakia,28,25
+2025,4,2025-11-04,Estonia,Latvia,28,22
+2025,4,2025-11-04,Finland,Great Britain,33,12
+2025,2,2025-11-02,Germany,Iceland,29,31
+2025,2,2025-11-02,Romania,Slovakia,33,25
+2025,2,2025-11-02,Georgia,Ukraine,28,32
+2025,2,2025-11-02,Belarus,Russia,34,28
+2025,4,2025-11-02,Great Britain,Finland,16,25
+2025,4,2025-11-02,Latvia,Estonia,29,30
+2025,4,2025-11-02,Slovakia,Kosovo,33,23
+2025,2,2025-11-01,France,Italy,38,28
+2025,2,2025-11-01,Austria,Hungary,27,31
+2025,2,2025-11-01,Montenegro,Belgium,27,27
+2025,2,2025-11-01,Switzerland,Croatia,30,28
+2025,2,2025-11-01,Sweden,Spain,34,31
+2025,2,2025-11-01,Portugal,Egypt,30,27
+2025,2,2025-11-01,Romania,Georgia,27,30
+2025,2,2025-11-01,North Macedonia,Japan,31,32
+2025,2,2025-11-01,Ukraine,Slovakia,31,32
+2025,2,2025-11-01,Argentina,Chile,26,24
+2025,4,2025-11-01,Turkey,Italy,37,28
+2025,2,2025-10-31,Brazil,Mexico,46,20
+2025,2,2025-10-31,Poland,Czech Republic,29,30
+2025,2,2025-10-31,Serbia,Slovenia,34,35
+2025,2,2025-10-31,Montenegro,Belgium,34,30
+2025,2,2025-10-31,Romania,Ukraine,33,30
+2025,2,2025-10-31,Russia,Iraq,37,20
+2025,2,2025-10-31,Slovakia,Georgia,28,31
+2025,2,2025-10-31,Argentina,Brazil,29,30
+2025,2,2025-10-30,Chile,Mexico,36,21
+2025,2,2025-10-30,Portugal,Egypt,28,32
+2025,2,2025-10-30,Germany,Iceland,42,31
+2025,2,2025-10-30,Switzerland,Croatia,26,29
+2025,2,2025-10-30,Sweden,Spain,30,34
+2025,4,2025-05-12,North Macedonia,Faroe Islands,34,26
+2025,4,2025-05-12,Montenegro,Italy,32,34
+2025,4,2025-05-12,Slovakia,Poland,25,33
+2025,4,2025-05-12,Hungary,Lithuania,36,23
+2025,4,2025-05-12,Bosnia & Herzegovina,Portugal,26,26
+2025,4,2025-05-12,Serbia,Spain,25,22
+2025,4,2025-05-12,Czech Republic,Romania,29,20
+2025,4,2025-05-12,Austria,Georgia,37,31
+2025,4,2025-05-12,Netherlands,Greece,31,25
+2025,4,2025-05-12,Switzerland,Slovenia,34,38
+2026,1,2025-05-11,Austria,Switzerland,34,33
+2026,1,2025-05-11,Croatia,Luxembourg,30,20
+2026,1,2025-05-11,Czech Republic,Belgium,25,22
+2026,1,2025-05-11,Faroe Islands,Ukraine,35,27
+2026,1,2025-05-11,Germany,Turkey,44,26
+2026,1,2025-05-11,Greece,Bosnia & Herzegovina,30,23
+2026,1,2025-05-11,Hungary,Finland,37,24
+2026,1,2025-05-11,Iceland,Georgia,33,21
+2026,1,2025-05-11,Israel,Portugal,33,34
+2026,1,2025-05-11,Montenegro,Slovakia,33,28
+2026,1,2025-05-11,Netherlands,Kosovo,34,29
+2026,1,2025-05-11,North Macedonia,Lithuania,26,17
+2026,1,2025-05-11,Poland,Romania,30,29
+2026,1,2025-05-11,Serbia,Italy,28,24
+2026,1,2025-05-11,Slovenia,Estonia,36,30
+2026,1,2025-05-11,Spain,Latvia,41,25
+2025,4,2025-05-11,Estonia,Iceland,24,37
+2025,4,2025-05-09,Portugal,Bosnia & Herzegovina,29,19
+2025,4,2025-05-09,Italy,Montenegro,32,26
+2025,4,2025-05-09,Lithuania,Hungary,26,33
+2025,4,2025-05-09,Poland,Slovakia,28,29
+2025,4,2025-05-09,Slovenia,Switzerland,26,27
+2025,4,2025-05-09,Georgia,Austria,25,27
+2026,1,2025-05-08,Kosovo,Faroe Islands,23,25
+2026,1,2025-05-08,Ukraine,Netherlands,27,35
+2026,1,2025-05-08,Italy,Spain,29,33
+2026,1,2025-05-08,Latvia,Serbia,26,27
+2026,1,2025-05-08,Estonia,North Macedonia,17,36
+2026,1,2025-05-08,Romania,Portugal,28,24
+2026,1,2025-05-08,Finland,Montenegro,28,33
+2026,1,2025-05-08,Georgia,Greece,29,26
+2026,1,2025-05-08,Israel,Poland,33,31
+2025,4,2025-05-08,Iceland,Estonia,50,25
+2025,4,2025-05-08,Spain,Serbia,32,28
+2025,4,2025-05-08,Faroe Islands,North Macedonia,34,27
+2025,4,2025-05-08,Romania,Czech Republic,31,30
+2025,4,2025-05-08,Greece,Netherlands,31,27
+2026,1,2025-05-07,Belgium,Croatia,22,34
+2026,1,2025-05-07,Bosnia & Herzegovina,Iceland,25,34
+2026,1,2025-05-07,Switzerland,Germany,32,32
+2026,1,2025-05-07,Luxembourg,Czech Republic,22,35
+2026,1,2025-05-07,Lithuania,Slovenia,28,31
+2026,1,2025-05-07,Slovakia,Hungary,24,39
+2026,1,2025-05-07,Turkey,Austria,29,34
+2025,4,2025-03-17,Italy,Belgium,33,31
+2025,4,2025-03-17,Lithuania,Finland,30,29
+2025,4,2025-03-17,Ukraine,Estonia,33,41
+2025,4,2025-03-17,Israel,Slovakia,24,26
+2026,1,2025-03-16,Bosnia & Herzegovina,Georgia,20,22
+2026,1,2025-03-16,Spain,Serbia,28,26
+2026,1,2025-03-16,Portugal,Poland,33,27
+2026,1,2025-03-16,Slovenia,North Macedonia,38,27
+2026,1,2025-03-16,Romania,Israel,29,26
+2026,1,2025-03-16,Ukraine,Kosovo,36,25
+2026,1,2025-03-16,Croatia,Czech Republic,36,20
+2026,1,2025-03-16,Hungary,Montenegro,29,29
+2026,1,2025-03-16,Italy,Latvia,41,30
+2026,1,2025-03-16,Slovakia,Finland,25,26
+2026,1,2025-03-16,Switzerland,Turkey,30,27
+2026,1,2025-03-16,Lithuania,Estonia,35,28
+2026,1,2025-03-16,Netherlands,Faroe Islands,31,32
+2026,1,2025-03-16,Belgium,Luxembourg,24,27
+2026,1,2025-03-15,Iceland,Greece,33,21
+2026,1,2025-03-15,Germany,Austria,31,26
+2025,4,2025-03-15,Slovakia,Israel,26,25
+2025,4,2025-03-14,Finland,Lithuania,20,20
+2026,1,2025-03-13,Israel,Romania,29,29
+2026,1,2025-03-13,Kosovo,Ukraine,31,30
+2026,1,2025-03-13,Latvia,Italy,30,35
+2026,1,2025-03-13,Austria,Germany,26,26
+2026,1,2025-03-13,Poland,Portugal,36,36
+2026,1,2025-03-13,Serbia,Spain,27,25
+2026,1,2025-03-13,Finland,Slovakia,22,21
+2026,1,2025-03-13,Georgia,Bosnia & Herzegovina,28,26
+2025,4,2025-03-13,Belgium,Italy,25,29
+2025,4,2025-03-13,Estonia,Ukraine,32,29
+2026,1,2025-03-12,Faroe Islands,Netherlands,32,32
+2026,1,2025-03-12,North Macedonia,Slovenia,26,32
+2026,1,2025-03-12,Luxembourg,Belgium,22,32
+2026,1,2025-03-12,Turkey,Switzerland,34,38
+2026,1,2025-03-12,Czech Republic,Croatia,29,35
+2026,1,2025-03-12,Estonia,Lithuania,20,30
+2026,1,2025-03-12,Greece,Iceland,25,34
+2026,1,2025-03-12,Montenegro,Hungary,26,29
+2025,4,2025-02-02,Croatia,Denmark,26,32
+2025,4,2025-02-02,France,Portugal,35,34
+2025,4,2025-01-31,Denmark,Portugal,40,27
+2025,4,2025-01-30,France,Croatia,28,31
+2025,4,2025-01-29,Portugal,Germany,31,30
+2025,4,2025-01-29,Denmark,Brazil,33,21
+2025,4,2025-01-28,France,Egypt,34,33
+2025,4,2025-01-28,Poland,USA,24,22
+2025,4,2025-01-28,Croatia,Hungary,31,30
+2025,4,2025-01-28,Kuwait,Japan,37,32
+2025,4,2025-01-28,Algeria,Bahrain,26,29
+2025,4,2025-01-28,Guinea,Cuba,33,31
+2025,4,2025-01-26,Croatia,Slovenia,29,26
+2025,4,2025-01-26,Norway,Sweden,29,24
+2025,4,2025-01-26,Cape Verde,Egypt,24,31
+2025,4,2025-01-26,Spain,Brazil,25,26
+2025,4,2025-01-26,Bahrain,USA,28,30
+2025,4,2025-01-26,Iceland,Argentina,30,21
+2025,4,2025-01-26,Portugal,Chile,46,28
+2025,4,2025-01-26,Japan,Cuba,32,23
+2025,4,2025-01-25,France,North Macedonia,32,25
+2025,4,2025-01-25,Germany,Tunisia,31,19
+2025,4,2025-01-25,Czech Republic,Denmark,22,28
+2025,4,2025-01-25,Qatar,Hungary,23,29
+2025,4,2025-01-25,Guinea,Poland,28,40
+2025,4,2025-01-25,Italy,Switzerland,25,33
+2025,4,2025-01-25,Netherlands,Austria,37,37
+2025,4,2025-01-25,Algeria,Kuwait,31,38
+2025,4,2025-01-24,Chile,Norway,22,39
+2025,4,2025-01-24,Croatia,Iceland,32,26
+2025,4,2025-01-24,Egypt,Slovenia,26,25
+2025,4,2025-01-24,Sweden,Brazil,24,27
+2025,4,2025-01-24,USA,Cuba,27,26
+2025,4,2025-01-24,Argentina,Cape Verde,30,26
+2025,4,2025-01-24,Spain,Portugal,29,35
+2025,4,2025-01-24,Japan,Bahrain,31,27
+2025,4,2025-01-23,Denmark,Switzerland,39,28
+2025,4,2025-01-23,Hungary,Austria,29,26
+2025,4,2025-01-23,Italy,Germany,27,34
+2025,4,2025-01-23,Netherlands,France,28,35
+2025,4,2025-01-23,Poland,Kuwait,42,32
+2025,4,2025-01-23,North Macedonia,Qatar,39,34
+2025,4,2025-01-23,Tunisia,Czech Republic,26,32
+2025,4,2025-01-23,Algeria,Guinea,32,23
+2025,4,2025-01-22,Egypt,Iceland,24,27
+2025,4,2025-01-22,Norway,Spain,25,24
+2025,4,2025-01-22,Cape Verde,Croatia,24,44
+2025,4,2025-01-22,Sweden,Portugal,37,37
+2025,4,2025-01-22,USA,Japan,27,25
+2025,4,2025-01-22,Brazil,Chile,28,24
+2025,4,2025-01-22,Slovenia,Argentina,34,23
+2025,4,2025-01-22,Cuba,Bahrain,26,39
+2025,4,2025-01-21,Hungary,France,30,37
+2025,4,2025-01-21,Denmark,Germany,40,30
+2025,4,2025-01-21,Czech Republic,Italy,18,25
+2025,4,2025-01-21,Qatar,Netherlands,37,38
+2025,4,2025-01-21,Poland,Algeria,38,32
+2025,4,2025-01-21,Austria,North Macedonia,29,29
+2025,4,2025-01-21,Switzerland,Tunisia,37,26
+2025,4,2025-01-21,Kuwait,Guinea,26,24
+2025,4,2025-01-20,Slovenia,Iceland,18,23
+2025,4,2025-01-20,Sweden,Spain,29,29
+2025,4,2025-01-20,Cuba,Cape Verde,28,38
+2025,4,2025-01-20,Japan,Chile,26,31
+2025,4,2025-01-19,Egypt,Croatia,28,24
+2025,4,2025-01-19,Hungary,Netherlands,36,32
+2025,4,2025-01-19,Norway,Portugal,28,31
+2025,4,2025-01-19,Argentina,Bahrain,26,25
+2025,4,2025-01-19,Brazil,USA,31,24
+2025,4,2025-01-19,Germany,Czech Republic,29,22
+2025,4,2025-01-19,North Macedonia,Guinea,29,20
+2025,4,2025-01-19,Poland,Switzerland,28,30
+2025,4,2025-01-18,Chile,Sweden,30,42
+2025,4,2025-01-18,Denmark,Italy,39,20
+2025,4,2025-01-18,Iceland,Cuba,40,19
+2025,4,2025-01-18,Qatar,Kuwait,25,22
+2025,4,2025-01-18,Algeria,Tunisia,25,26
+2025,4,2025-01-18,Cape Verde,Slovenia,24,36
+2025,4,2025-01-18,France,Austria,35,27
+2025,4,2025-01-18,Spain,Japan,39,20
+2025,4,2025-01-18,Israel,Luxembourg,35,27
+2025,4,2025-01-17,Croatia,Argentina,33,18
+2025,4,2025-01-17,Guinea,Hungary,18,35
+2025,4,2025-01-17,Switzerland,Germany,29,31
+2025,4,2025-01-17,USA,Norway,17,33
+2025,4,2025-01-17,Bahrain,Egypt,24,35
+2025,4,2025-01-17,Czech Republic,Poland,19,19
+2025,4,2025-01-17,Netherlands,North Macedonia,37,32
+2025,4,2025-01-17,Portugal,Brazil,30,26
+2025,4,2025-01-17,Luxembourg,Israel,31,28
+2025,4,2025-01-16,Austria,Qatar,28,26
+2025,4,2025-01-16,Iceland,Cape Verde,34,21
+2025,4,2025-01-16,Sweden,Japan,39,21
+2025,4,2025-01-16,Tunisia,Denmark,21,32
+2025,4,2025-01-16,Italy,Algeria,32,23
+2025,4,2025-01-16,Kuwait,France,19,43
+2025,4,2025-01-16,Slovenia,Cuba,41,19
+2025,4,2025-01-16,Spain,Chile,31,22
+2025,4,2025-01-15,Croatia,Bahrain,36,22
+2025,4,2025-01-15,Germany,Poland,35,28
+2025,4,2025-01-15,Hungary,North Macedonia,27,27
+2025,4,2025-01-15,Norway,Brazil,26,29
+2025,4,2025-01-15,Czech Republic,Switzerland,17,17
+2025,4,2025-01-15,Egypt,Argentina,39,25
+2025,4,2025-01-15,Netherlands,Guinea,40,23
+2025,4,2025-01-15,Portugal,USA,30,21
+2025,4,2025-01-14,Austria,Kuwait,37,26
+2025,4,2025-01-14,Denmark,Algeria,47,22
+2025,4,2025-01-14,France,Qatar,37,19
+2025,4,2025-01-14,Italy,Tunisia,32,25
+2025,2,2025-01-11,Spain,Norway,33,31
+2025,2,2025-01-11,Argentina,Romania,30,31
+2025,2,2025-01-11,Slovakia,Egypt,24,39
+2025,2,2025-01-11,Germany,Brazil,28,26
+2025,2,2025-01-11,Sweden,Iceland,26,24
+2025,2,2025-01-10,France,Portugal,44,38
+2025,2,2025-01-10,Poland,Tunisia,33,24
+2025,2,2025-01-10,Croatia,Slovenia,33,25
+2025,2,2025-01-10,Spain,Slovakia,34,30
+2025,2,2025-01-10,Hungary,Serbia,28,23
+2025,2,2025-01-10,Romania,Egypt,30,33
+2025,2,2025-01-10,Austria,Japan,27,28
+2025,2,2025-01-10,Denmark,Bahrain,39,20
+2025,2,2025-01-09,Denmark,Bahrain,33,17
+2025,2,2025-01-09,Poland,Japan,30,29
+2025,2,2025-01-09,Portugal,Czech Republic,32,31
+2025,2,2025-01-09,Slovakia,Argentina,26,30
+2025,2,2025-01-09,Sweden,Iceland,31,31
+2025,2,2025-01-09,Germany,Brazil,32,25
+2025,2,2025-01-09,Norway,Romania,37,26
+2025,2,2025-01-09,Austria,Tunisia,32,30
+2025,2,2025-01-08,Poland,Austria,31,19
+2025,2,2025-01-08,Croatia,North Macedonia,27,25
+2025,2,2025-01-08,Spain,Argentina,32,18
+2025,2,2025-01-08,France,Czech Republic,37,28
+2025,2,2025-01-08,Egypt,Norway,29,33
+2025,2,2025-01-08,Japan,Tunisia,34,33
+2025,2,2025-01-08,Serbia,Hungary,31,31
+2025,2,2025-01-07,Slovenia,Qatar,38,30
+2025,2,2025-01-05,Switzerland,Netherlands,34,33
+2025,2,2025-01-05,Romania,Georgia,34,35
+2025,2,2025-01-05,Italy,Kosovo,28,25
+2025,2,2025-01-05,Turkey,Serbia,30,35
+2025,2,2025-01-04,Switzerland,Kosovo,34,24
+2025,2,2025-01-04,Romania,Serbia,31,31
+2025,2,2025-01-04,Netherlands,Italy,31,26
+2025,2,2025-01-04,Georgia,Turkey,32,27
+2025,2,2025-01-03,Kosovo,Netherlands,24,36
+2025,2,2025-01-03,Switzerland,Italy,29,31
+2025,2,2025-01-03,Romania,Turkey,35,26
+2025,2,2025-01-03,Serbia,Georgia,35,25
+2024,3,2024-10-28,Bahrain,Japan,29,32
+2024,3,2024-10-26,Qatar,Bahrain,29,30
+2024,3,2024-10-26,Saudi Arabia,Iran,28,30
+2024,3,2024-10-24,Qatar,Saudi Arabia,33,24
+2024,3,2024-10-24,Bahrain,Iran,28,24
+2024,3,2024-10-22,Kuwait,Bahrain,26,34
+2024,3,2024-10-21,Kuwait,Japan,30,32
+2024,3,2024-10-19,Japan,Bahrain,27,26
+2024,3,2024-10-19,Kuwait,Iran,28,29
+2024,3,2024-10-18,Japan,Iran,25,20
+2024,1,2024-10-16,Bosnia & Herzegovina,Montenegro,25,36
+2024,1,2024-10-16,Kosovo,Slovenia,24,29
+2024,1,2024-10-16,Faroe Islands,Austria,28,30
+2024,1,2024-10-16,Italy,France,29,40
+2024,1,2024-10-16,Slovakia,Serbia,21,27
+2024,1,2024-10-16,Greece,Netherlands,32,28
+2024,1,2024-10-16,Romania,Ukraine,34,26
+2024,1,2024-10-16,Georgia,Hungary,24,41
+2024,1,2024-10-16,Luxembourg,Portugal,21,32
+2024,1,2024-10-16,Turkey,North Macedonia,27,36
+2024,1,2024-10-16,Finland,Norway,22,35
+2024,1,2024-10-16,Latvia,Poland,19,37
+2024,1,2024-10-16,Israel,Czech Republic,19,29
+2024,1,2024-10-16,Belgium,Croatia,27,30
+2024,1,2024-10-16,Lithuania,Switzerland,26,27
+2024,1,2024-10-15,Estonia,Iceland,25,37
+2024,1,2024-10-13,France,Latvia,35,18
+2024,1,2024-10-13,Portugal,Turkey,44,27
+2024,1,2024-10-13,Netherlands,Belgium,25,24
+2024,1,2024-10-13,Slovenia,Bosnia & Herzegovina,28,20
+2024,1,2024-10-13,Poland,Italy,30,23
+2024,1,2024-10-13,Norway,Slovakia,38,26
+2024,1,2024-10-13,Austria,Romania,36,32
+2024,1,2024-10-12,Iceland,Israel,36,21
+2024,1,2024-10-12,Ukraine,Faroe Islands,29,25
+2024,1,2024-10-12,North Macedonia,Luxembourg,38,24
+2024,1,2024-10-12,Hungary,Lithuania,36,23
+2024,1,2024-10-12,Czech Republic,Estonia,31,23
+2024,1,2024-10-12,Croatia,Greece,33,25
+2024,1,2024-10-12,Montenegro,Kosovo,29,20
+2024,1,2024-10-12,Serbia,Finland,34,24
+2024,1,2024-10-12,Switzerland,Georgia,24,23
+2024,3,2024-08-11,Germany,Denmark,26,39
+2024,3,2024-08-11,Spain,Slovenia,23,22
+2024,3,2024-08-09,Slovenia,Denmark,30,31
+2024,3,2024-08-09,Germany,Spain,25,24
+2024,3,2024-08-07,Norway,Slovenia,28,33
+2024,3,2024-08-07,Denmark,Sweden,32,31
+2024,3,2024-08-07,Germany,France,35,34
+2024,3,2024-08-07,Spain,Egypt,29,28
+2024,3,2024-08-04,Spain,Croatia,32,31
+2024,3,2024-08-04,Denmark,Norway,32,25
+2024,3,2024-08-04,Hungary,France,20,24
+2024,3,2024-08-04,Germany,Slovenia,36,29
+2024,3,2024-08-04,Egypt,Argentina,34,27
+2024,3,2024-08-04,Sweden,Japan,40,27
+2024,3,2024-08-02,Norway,Egypt,25,26
+2024,3,2024-08-02,Japan,Slovenia,28,29
+2024,3,2024-08-02,Germany,Spain,33,31
+2024,3,2024-08-02,Croatia,Sweden,27,38
+2024,3,2024-08-02,Argentina,France,21,28
+2024,3,2024-08-02,Hungary,Denmark,25,28
+2024,3,2024-07-31,Denmark,Argentina,38,27
+2024,3,2024-07-31,France,Egypt,26,26
+2024,3,2024-07-31,Slovenia,Sweden,29,24
+2024,3,2024-07-31,Spain,Japan,37,33
+2024,3,2024-07-31,Croatia,Germany,31,26
+2024,3,2024-07-31,Norway,Hungary,26,25
+2024,3,2024-07-29,Argentina,Hungary,25,35
+2024,3,2024-07-29,France,Norway,22,27
+2024,3,2024-07-29,Sweden,Spain,29,26
+2024,3,2024-07-29,Egypt,Denmark,27,30
+2024,3,2024-07-29,Slovenia,Croatia,31,29
+2024,3,2024-07-29,Japan,Germany,26,37
+2024,3,2024-07-27,Denmark,France,37,29
+2024,3,2024-07-27,Germany,Sweden,30,27
+2024,3,2024-07-27,Norway,Argentina,36,31
+2024,3,2024-07-27,Croatia,Japan,30,29
+2024,3,2024-07-27,Hungary,Egypt,32,35
+2024,3,2024-07-27,Spain,Slovenia,25,22
+2024,2,2024-07-23,France,Slovenia,39,30
+2024,2,2024-07-21,Germany,Japan,35,25
+2024,2,2024-07-19,Germany,Hungary,33,29
+2024,2,2024-07-18,Denmark,Argentina,34,20
+2024,2,2024-07-18,Sweden,Egypt,32,26
+2024,2,2024-07-18,Norway,Spain,35,29
+2024,2,2024-07-17,France,Croatia,31,26
+2024,2,2024-07-16,Denmark,Argentina,34,24
+2024,2,2024-07-16,Norway,Spain,35,29
+2024,2,2024-07-13,Germany,France,35,30
+2024,2,2024-07-13,Hungary,Slovenia,29,25
+2024,2,2024-07-08,Slovenia,Egypt,27,27
+2024,2,2024-07-06,Spain,Argentina,40,29
+2024,2,2024-07-06,Croatia,Egypt,36,29
+2024,2,2024-05-12,Sweden,Germany,34,28
+2024,2,2024-05-11,France,USA,38,29
+2024,1,2024-04-30,Austria,Faroe Islands,38,33
+2024,1,2024-04-30,Croatia,Belgium,34,29
+2024,1,2024-04-30,Czech Republic,Israel,27,24
+2024,1,2024-04-30,France,Italy,41,27
+2024,1,2024-04-30,Hungary,Georgia,30,31
+2024,1,2024-04-30,Iceland,Estonia,30,23
+2024,1,2024-04-30,Montenegro,Bosnia & Herzegovina,23,25
+2024,1,2024-04-30,Netherlands,Greece,32,26
+2024,1,2024-04-30,North Macedonia,Turkey,30,27
+2024,1,2024-04-30,Norway,Finland,32,23
+2024,1,2024-04-30,Poland,Latvia,31,14
+2024,1,2024-04-30,Portugal,Luxembourg,36,18
+2024,1,2024-04-30,Serbia,Slovakia,37,26
+2024,1,2024-04-30,Slovenia,Kosovo,33,28
+2024,1,2024-04-30,Switzerland,Lithuania,27,20
+2024,1,2024-04-30,Ukraine,Romania,31,26
+2024,1,2024-04-27,Kosovo,Montenegro,24,26
+2024,1,2024-04-27,Bosnia & Herzegovina,Slovenia,27,26
+2024,1,2024-04-27,Finland,Serbia,29,30
+2024,1,2024-04-27,Israel,Iceland,26,37
+2024,1,2024-04-27,Italy,Poland,29,31
+2024,1,2024-04-27,Lithuania,Hungary,31,46
+2024,1,2024-04-27,Estonia,Czech Republic,30,32
+2024,1,2024-04-26,Luxembourg,North Macedonia,23,28
+2024,1,2024-04-26,Belgium,Netherlands,23,28
+2024,1,2024-04-26,Faroe Islands,Ukraine,33,26
+2024,1,2024-04-26,Latvia,France,19,38
+2024,1,2024-04-26,Slovakia,Norway,23,33
+2024,1,2024-04-26,Greece,Croatia,26,31
+2024,1,2024-04-26,Turkey,Portugal,35,37
+2024,1,2024-04-26,Romania,Austria,30,35
+2024,1,2024-04-26,Georgia,Switzerland,19,26
+2024,2,2024-03-17,Poland,Serbia,28,36
+2024,3,2024-03-17,Hungary,Portugal,30,27
+2024,3,2024-03-17,Tunisia,Norway,24,41
+2024,3,2024-03-17,Spain,Brazil,28,26
+2024,3,2024-03-17,Croatia,Algeria,34,22
+2024,3,2024-03-17,Bahrain,Slovenia,26,32
+2024,3,2024-03-17,Austria,Germany,31,34
+2024,2,2024-03-16,France,Egypt,39,31
+2024,2,2024-03-16,Denmark,Switzerland,30,25
+2024,2,2024-03-16,Montenegro,Georgia,29,19
+2024,2,2024-03-16,Argentina,Japan,35,23
+2024,3,2024-03-16,Norway,Hungary,29,25
+2024,3,2024-03-16,Algeria,Austria,26,41
+2024,3,2024-03-16,Portugal,Tunisia,37,29
+2024,3,2024-03-16,Germany,Croatia,30,33
+2024,2,2024-03-15,Netherlands,Czech Republic,29,29
+2024,2,2024-03-15,Montenegro,Georgia,34,20
+2024,2,2024-03-15,Poland,Serbia,25,26
+2024,3,2024-03-15,Spain,Slovenia,32,22
+2024,3,2024-03-15,Bahrain,Brazil,24,25
+2024,2,2024-03-14,France,Argentina,32,23
+2024,2,2024-03-14,Japan,Egypt,30,37
+2024,3,2024-03-14,Hungary,Tunisia,33,24
+2024,3,2024-03-14,Slovenia,Brazil,27,26
+2024,3,2024-03-14,Croatia,Austria,35,29
+2024,3,2024-03-14,Norway,Portugal,32,29
+2024,3,2024-03-14,Spain,Bahrain,39,27
+2024,3,2024-03-14,Germany,Algeria,41,29
+2024,1,2024-03-12,Croatia,Netherlands,25,25
+2024,1,2024-03-12,Portugal,North Macedonia,32,27
+2024,1,2024-03-12,Slovenia,Montenegro,37,30
+2024,1,2024-03-12,Bosnia & Herzegovina,Kosovo,25,18
+2024,1,2024-03-12,Greece,Belgium,26,24
+2024,1,2024-03-12,Iceland,Czech Republic,28,19
+2024,1,2024-03-12,Israel,Estonia,29,27
+2024,1,2024-03-12,Norway,Serbia,35,25
+2024,1,2024-03-12,Hungary,Switzerland,36,27
+2024,1,2024-03-12,Slovakia,Finland,32,25
+2024,1,2024-03-12,Lithuania,Georgia,35,27
+2024,1,2024-03-12,Turkey,Luxembourg,31,20
+2024,1,2024-03-12,Latvia,Italy,23,29
+2024,1,2024-03-11,France,Poland,30,27
+2024,1,2024-03-11,Austria,Ukraine,31,28
+2024,1,2024-03-11,Romania,Faroe Islands,25,17
+2024,1,2024-03-09,North Macedonia,Portugal,23,29
+2024,1,2024-03-09,Switzerland,Hungary,32,37
+2024,1,2024-03-09,Ukraine,Austria,31,38
+2024,1,2024-03-09,Estonia,Israel,30,28
+2024,1,2024-03-09,Finland,Slovakia,30,27
+2024,1,2024-03-09,Montenegro,Slovenia,29,32
+2024,1,2024-03-09,Serbia,Norway,25,24
+2024,1,2024-03-09,Italy,Latvia,36,23
+2024,1,2024-03-08,Czech Republic,Iceland,22,17
+2024,1,2024-03-08,Kosovo,Bosnia & Herzegovina,22,25
+2024,1,2024-03-08,Belgium,Greece,24,26
+2024,1,2024-03-08,Faroe Islands,Romania,28,26
+2024,1,2024-03-08,Netherlands,Croatia,32,27
+2024,1,2024-03-08,Luxembourg,Turkey,29,30
+2024,1,2024-03-08,Poland,France,28,38
+2024,1,2024-03-08,Georgia,Lithuania,32,18
+2024,1,2024-01-28,France,Denmark,33,31
+2024,1,2024-01-28,Sweden,Germany,34,31
+2024,1,2024-01-26,Germany,Denmark,26,29
+2024,1,2024-01-26,France,Sweden,34,30
+2024,1,2024-01-26,Hungary,Slovenia,23,22
+2024,1,2024-01-24,Germany,Croatia,24,30
+2024,1,2024-01-24,France,Hungary,35,32
+2024,1,2024-01-24,Austria,Iceland,24,26
+2024,1,2024-01-23,Norway,Sweden,33,23
+2024,1,2024-01-23,Slovenia,Denmark,28,25
+2024,1,2024-01-23,Netherlands,Portugal,33,33
+2024,1,2024-01-22,Germany,Hungary,35,28
+2024,1,2024-01-22,France,Austria,33,28
+2024,1,2024-01-22,Croatia,Iceland,30,35
+2024,1,2024-01-22,Belgium,Luxembourg,27,27
+2024,1,2024-01-21,Norway,Denmark,23,29
+2024,1,2024-01-21,Sweden,Portugal,40,33
+2024,1,2024-01-21,Slovenia,Netherlands,37,34
+2024,1,2024-01-20,Germany,Austria,22,22
+2024,1,2024-01-20,Hungary,Croatia,29,26
+2024,1,2024-01-20,France,Iceland,39,32
+2024,1,2024-01-20,Luxembourg,Belgium,26,32
+2024,1,2024-01-19,Denmark,Sweden,28,27
+2024,1,2024-01-19,Norway,Netherlands,35,32
+2024,1,2024-01-19,Slovenia,Portugal,30,33
+2024,1,2024-01-18,Germany,Iceland,26,24
+2024,1,2024-01-18,France,Croatia,34,32
+2024,1,2024-01-18,Hungary,Austria,29,30
+2024,1,2024-01-17,Slovenia,Sweden,22,28
+2024,1,2024-01-17,Denmark,Netherlands,39,27
+2024,1,2024-01-17,Norway,Portugal,32,37
+2024,1,2024-01-16,France,Germany,33,30
+2024,1,2024-01-16,Iceland,Hungary,25,33
+2024,1,2024-01-16,Spain,Austria,33,33
+2024,1,2024-01-16,Croatia,Romania,31,25
+2024,1,2024-01-16,North Macedonia,Switzerland,29,27
+2024,1,2024-01-16,Serbia,Montenegro,29,30
+2024,1,2024-01-15,Denmark,Portugal,37,27
+2024,1,2024-01-15,Norway,Slovenia,27,28
+2024,1,2024-01-15,Sweden,Netherlands,29,28
+2024,1,2024-01-15,Bosnia & Herzegovina,Georgia,19,22
+2024,1,2024-01-15,Czech Republic,Greece,29,20
+2024,1,2024-01-15,Poland,Faroe Islands,32,28
+2024,1,2024-01-14,Croatia,Austria,28,28
+2024,1,2024-01-14,North Macedonia,Germany,25,34
+2024,1,2024-01-14,Serbia,Hungary,27,28
+2024,1,2024-01-14,Montenegro,Iceland,30,31
+2024,1,2024-01-14,Romania,Spain,24,36
+2024,1,2024-01-14,Switzerland,France,26,26
+2024,1,2024-01-13,Faroe Islands,Norway,26,26
+2024,1,2024-01-13,Georgia,Sweden,26,42
+2024,1,2024-01-13,Greece,Denmark,28,40
+2024,1,2024-01-13,Bosnia & Herzegovina,Netherlands,20,36
+2024,1,2024-01-13,Czech Republic,Portugal,27,30
+2024,1,2024-01-13,Poland,Slovenia,25,32
+2024,1,2024-01-12,Hungary,Montenegro,26,24
+2024,1,2024-01-12,Spain,Croatia,29,39
+2024,1,2024-01-12,Austria,Romania,31,24
+2024,1,2024-01-12,Iceland,Serbia,27,27
+2024,1,2024-01-11,Denmark,Czech Republic,23,14
+2024,1,2024-01-11,Norway,Poland,32,21
+2024,1,2024-01-11,Sweden,Bosnia & Herzegovina,29,20
+2024,1,2024-01-11,Netherlands,Georgia,34,29
+2024,1,2024-01-11,Portugal,Greece,31,24
+2024,1,2024-01-11,Slovenia,Faroe Islands,32,29
+2024,2,2024-01-11,Tunisia,Algeria,24,16
+2024,1,2024-01-10,Germany,Switzerland,27,14
+2024,1,2024-01-10,France,North Macedonia,39,29
+2024,1,2024-01-09,Finland,Georgia,30,23
+2024,2,2024-01-08,Austria,Iceland,30,37
+2024,2,2024-01-07,Sweden,Japan,43,23
+2024,2,2024-01-07,Russia,Belarus,31,32
+2024,2,2024-01-06,Faroe Islands,Belgium,34,29
+2024,2,2024-01-06,Spain,Serbia,32,26
+2024,2,2024-01-06,Austria,Iceland,28,33
+2024,2,2024-01-06,Germany,Portugal,35,31
+2024,2,2024-01-06,Switzerland,Argentina,35,27
+2024,2,2024-01-06,Croatia,Slovenia,32,26
+2024,2,2024-01-06,Poland,Slovakia,38,20
+2024,2,2024-01-06,Bosnia & Herzegovina,Romania,19,29
+2024,2,2024-01-06,Russia,Iran,26,29
+2024,1,2024-01-05,Georgia,Finland,22,22
+2024,2,2024-01-05,Faroe Islands,Belgium,41,31
+2024,2,2024-01-05,Switzerland,Bosnia & Herzegovina,39,21
+2024,2,2024-01-05,Spain,Slovakia,36,18
+2024,2,2024-01-05,Hungary,Czech Republic,25,26
+2024,2,2024-01-05,Romania,Argentina,30,23
+2024,2,2024-01-05,Serbia,Poland,33,38
+2024,2,2024-01-05,Slovenia,Montenegro,37,32
+2024,2,2024-01-05,Sweden,Japan,42,30
+2024,2,2024-01-05,Belarus,Iran,29,28
+2024,2,2024-01-04,Argentina,Bosnia & Herzegovina,32,23
+2024,2,2024-01-04,Slovakia,Serbia,24,31
+2024,2,2024-01-04,Spain,Poland,31,25
+2024,2,2024-01-04,Switzerland,Romania,37,31
+2024,2,2024-01-04,Croatia,Montenegro,29,25
+2024,2,2024-01-04,North Macedonia,Greece,33,30
+2024,2,2024-01-04,Germany,Portugal,34,33
+2024,2,2024-01-02,Algeria,Qatar,27,29
+2024,2,2024-01-01,Qatar,Iraq,34,29
+2023,2,2023-12-31,Algeria,Iraq,39,35
+2023,2,2023-12-30,Qatar,Algeria,32,25
+2023,2,2023-12-29,Poland,Argentina,34,26
+2023,2,2023-12-29,Georgia,Romania,25,31
+2023,2,2023-12-29,Slovenia,Austria,34,33
+2023,2,2023-12-29,Slovakia,Greece,23,35
+2023,2,2023-12-28,Romania,Greece,31,27
+2023,2,2023-12-28,Slovakia,Georgia,27,32
+2023,2,2023-12-27,Poland,Argentina,27,26
+2023,4,2023-11-07,Estonia,Georgia,31,27
+2023,4,2023-11-07,Kosovo,Belgium,28,28
+2023,4,2023-11-07,Greece,Turkey,24,20
+2023,4,2023-11-07,Great Britain,Finland,22,38
+2023,4,2023-11-06,Estonia,Great Britain,34,22
+2023,4,2023-11-06,Finland,Georgia,29,29
+2023,2,2023-11-05,Germany,Egypt,28,27
+2023,2,2023-11-05,Hungary,Poland,36,26
+2023,2,2023-11-05,Slovenia,Serbia,28,28
+2023,2,2023-11-05,Czech Republic,Bosnia & Herzegovina,30,18
+2023,4,2023-11-05,Georgia,Great Britain,32,26
+2023,4,2023-11-05,Finland,Estonia,35,30
+2023,2,2023-11-04,Iceland,Faroe Islands,30,29
+2023,2,2023-11-04,Slovenia,Serbia,30,26
+2023,2,2023-11-04,Greece,North Macedonia,22,23
+2023,2,2023-11-04,France,Romania,40,21
+2023,2,2023-11-04,Tunisia,Portugal,32,33
+2023,2,2023-11-04,Hungary,Poland,31,27
+2023,2,2023-11-04,Austria,Switzerland,32,27
+2023,2,2023-11-03,Iceland,Faroe Islands,39,24
+2023,2,2023-11-03,Germany,Egypt,31,31
+2023,2,2023-11-03,Tunisia,Austria,31,31
+2023,2,2023-11-03,Switzerland,Portugal,26,29
+2023,4,2023-11-03,Belgium,Greece,27,29
+2023,4,2023-11-03,Turkey,Kosovo,25,23
+2023,2,2023-11-02,Sweden,Ukraine,46,26
+2023,2,2023-11-02,Tunisia,Switzerland,31,22
+2023,2,2023-11-02,Montenegro,Romania,38,28
+2023,2,2023-11-02,Portugal,Austria,27,34
+2023,4,2023-06-30,Mexico,Cuba,30,35
+2023,4,2023-06-28,USA,Cuba,32,28
+2023,4,2023-06-27,Mexico,USA,20,30
+2023,4,2023-06-26,Cuba,Mexico,25,33
+2023,2,2023-04-28,Tunisia,Japan,30,28
+2023,2,2023-04-26,Tunisia,Argentina,24,23
+2023,4,2023-04-17,North Macedonia,Czech Republic,27,25
+2023,4,2023-04-17,Montenegro,Greece,33,25
+2023,4,2023-04-17,Netherlands,Portugal,28,35
+2023,4,2023-04-16,Faroe Islands,Germany,27,33
+2023,4,2023-04-16,Croatia,Finland,36,22
+2023,4,2023-04-16,Iceland,Austria,34,26
+2023,4,2023-04-16,Serbia,Slovenia,23,20
+2023,4,2023-04-16,Hungary,Israel,31,22
+2023,4,2023-04-16,Belgium,Russia,0,0
+2023,4,2023-04-14,Portugal,Netherlands,30,33
+2023,4,2023-04-13,Czech Republic,North Macedonia,24,24
+2023,4,2023-04-13,Slovenia,Serbia,31,34
+2023,4,2023-04-13,Germany,Faroe Islands,34,26
+2023,4,2023-04-13,Greece,Montenegro,25,23
+2023,4,2023-04-13,Austria,Iceland,30,34
+2023,4,2023-04-13,Finland,Croatia,21,34
+2023,4,2023-04-13,Israel,Hungary,32,33
+2023,4,2023-04-13,Russia,Belgium,0,0
+2023,4,2023-03-20,Estonia,Austria,24,27
+2023,4,2023-03-20,Belarus,Faroe Islands,0,0
+2023,4,2023-03-20,Lithuania,Israel,25,27
+2023,4,2023-03-20,Slovenia,Italy,28,21
+2023,4,2023-03-20,Switzerland,Portugal,28,33
+2023,4,2023-03-20,Finland,Ukraine,10,0
+2023,4,2023-03-19,Belgium,Slovakia,31,26
+2023,4,2023-03-19,Bosnia & Herzegovina,Greece,26,28
+2023,4,2023-03-19,Romania,North Macedonia,24,22
+2023,4,2023-03-17,Portugal,Switzerland,33,26
+2023,4,2023-03-17,Austria,Estonia,35,33
+2023,4,2023-03-17,North Macedonia,Romania,30,22
+2023,4,2023-03-16,Faroe Islands,Belarus,0,0
+2023,4,2023-03-16,Slovakia,Belgium,28,26
+2023,4,2023-03-16,Israel,Lithuania,28,24
+2023,4,2023-03-16,Italy,Slovenia,28,29
+2023,4,2023-03-16,Greece,Bosnia & Herzegovina,24,17
+2023,4,2023-03-16,Finland,Ukraine,10,0
+2023,2,2023-03-12,Belarus,Russia,29,29
+2023,2,2023-03-11,Belarus,Russia,29,26
+2023,4,2023-01-29,France,Denmark,29,34
+2023,4,2023-01-29,Sweden,Spain,36,39
+2023,4,2023-01-29,Egypt,Hungary,36,35
+2023,4,2023-01-29,Germany,Norway,28,24
+2023,4,2023-01-27,France,Sweden,31,26
+2023,4,2023-01-27,Spain,Denmark,23,26
+2023,4,2023-01-27,Norway,Hungary,33,25
+2023,4,2023-01-27,Germany,Egypt,35,34
+2023,4,2023-01-25,Chile,Tunisia,26,38
+2023,4,2023-01-25,France,Germany,35,28
+2023,4,2023-01-25,Sweden,Egypt,26,22
+2023,4,2023-01-25,Denmark,Hungary,40,23
+2023,4,2023-01-25,Norway,Spain,34,35
+2023,4,2023-01-23,Egypt,Denmark,25,30
+2023,4,2023-01-23,Germany,Norway,26,28
+2023,4,2023-01-23,Croatia,Bahrain,43,32
+2023,4,2023-01-23,Serbia,Netherlands,32,30
+2023,4,2023-01-23,Qatar,Argentina,22,26
+2023,4,2023-01-23,USA,Belgium,24,22
+2023,4,2023-01-23,Tunisia,Algeria,30,25
+2023,4,2023-01-22,Spain,France,26,28
+2023,4,2023-01-22,Sweden,Portugal,32,30
+2023,4,2023-01-22,Brazil,Iceland,37,41
+2023,4,2023-01-22,Iran,Poland,22,26
+2023,4,2023-01-22,Cape Verde,Hungary,30,42
+2023,4,2023-01-22,Montenegro,Slovenia,23,31
+2023,4,2023-01-21,Netherlands,Germany,26,33
+2023,4,2023-01-21,USA,Denmark,24,33
+2023,4,2023-01-21,Croatia,Belgium,34,26
+2023,4,2023-01-21,Qatar,Norway,17,30
+2023,4,2023-01-21,North Macedonia,Tunisia,28,33
+2023,4,2023-01-21,Bahrain,Egypt,22,26
+2023,4,2023-01-21,Serbia,Argentina,28,22
+2023,4,2023-01-20,Iceland,Sweden,30,35
+2023,4,2023-01-20,Montenegro,Poland,20,27
+2023,4,2023-01-20,Brazil,Hungary,25,28
+2023,4,2023-01-20,Iran,France,29,41
+2023,4,2023-01-20,Cape Verde,Portugal,23,35
+2023,4,2023-01-20,Slovenia,Spain,26,31
+2023,4,2023-01-19,Denmark,Croatia,32,32
+2023,4,2023-01-19,Norway,Serbia,31,28
+2023,4,2023-01-19,Egypt,Belgium,33,28
+2023,4,2023-01-19,Germany,Argentina,39,19
+2023,4,2023-01-19,Qatar,Netherlands,30,32
+2023,4,2023-01-19,USA,Bahrain,27,32
+2023,4,2023-01-19,Algeria,North Macedonia,25,40
+2023,4,2023-01-18,Spain,Poland,27,23
+2023,4,2023-01-18,Sweden,Hungary,37,28
+2023,4,2023-01-18,Cape Verde,Iceland,30,40
+2023,4,2023-01-18,France,Montenegro,35,24
+2023,4,2023-01-18,Iran,Slovenia,21,38
+2023,4,2023-01-18,Portugal,Brazil,28,28
+2023,4,2023-01-18,Chile,Saudi Arabia,26,23
+2023,4,2023-01-17,Netherlands,Norway,26,27
+2023,4,2023-01-17,Qatar,Serbia,24,34
+2023,4,2023-01-17,Tunisia,Denmark,21,34
+2023,4,2023-01-17,Algeria,Germany,21,37
+2023,4,2023-01-17,Belgium,Bahrain,28,30
+2023,4,2023-01-17,Egypt,USA,35,16
+2023,4,2023-01-17,North Macedonia,Argentina,26,35
+2023,4,2023-01-16,Iran,Spain,22,35
+2023,4,2023-01-16,Poland,Saudi Arabia,27,24
+2023,4,2023-01-16,Portugal,Hungary,27,20
+2023,4,2023-01-16,Brazil,Cape Verde,30,28
+2023,4,2023-01-16,Montenegro,Chile,35,33
+2023,4,2023-01-16,Slovenia,France,31,35
+2023,4,2023-01-16,Faroe Islands,Latvia,26,19
+2023,4,2023-01-16,Italy,Luxembourg,29,28
+2023,4,2023-01-16,Turkey,Greece,20,28
+2023,2,2023-01-15,Czech Republic,Slovakia,29,23
+2023,4,2023-01-15,Croatia,USA,40,22
+2023,4,2023-01-15,Denmark,Bahrain,36,21
+2023,4,2023-01-15,Norway,Argentina,32,21
+2023,4,2023-01-15,Qatar,Algeria,29,24
+2023,4,2023-01-15,Belgium,Tunisia,31,29
+2023,4,2023-01-15,Germany,Serbia,34,33
+2023,4,2023-01-15,North Macedonia,Netherlands,24,34
+2023,4,2023-01-15,Italy,Faroe Islands,26,27
+2023,4,2023-01-15,Belgium,Kosovo,33,29
+2023,4,2023-01-15,Latvia,Luxembourg,30,30
+2023,2,2023-01-14,Czech Republic,Slovakia,33,27
+2023,4,2023-01-14,Iceland,Hungary,28,30
+2023,4,2023-01-14,Poland,Slovenia,23,32
+2023,4,2023-01-14,Spain,Chile,34,26
+2023,4,2023-01-14,Sweden,Cape Verde,34,27
+2023,4,2023-01-14,France,Saudi Arabia,41,23
+2023,4,2023-01-14,Montenegro,Iran,34,31
+2023,4,2023-01-14,Luxembourg,Faroe Islands,31,26
+2023,4,2023-01-14,Latvia,Italy,23,36
+2023,4,2023-01-13,Croatia,Egypt,22,31
+2023,4,2023-01-13,Denmark,Belgium,43,28
+2023,4,2023-01-13,Norway,North Macedonia,39,27
+2023,4,2023-01-13,Serbia,Algeria,36,27
+2023,4,2023-01-13,Argentina,Netherlands,19,29
+2023,4,2023-01-13,Bahrain,Tunisia,27,27
+2023,4,2023-01-13,Germany,Qatar,31,27
+2023,4,2023-01-13,Greece,Belgium,42,24
+2023,4,2023-01-12,Iceland,Portugal,30,26
+2023,4,2023-01-12,Spain,Montenegro,30,25
+2023,4,2023-01-12,Sweden,Brazil,26,18
+2023,4,2023-01-12,Chile,Iran,24,25
+2023,4,2023-01-12,Saudi Arabia,Slovenia,19,33
+2023,4,2023-01-12,Kosovo,Turkey,26,24
+2023,4,2023-01-11,France,Poland,26,24
+2023,2,2023-01-09,Sweden,Serbia,28,30
+2023,4,2023-01-09,Greece,Kosovo,26,25
+2023,2,2023-01-08,Croatia,Israel,37,23
+2023,2,2023-01-08,Slovakia,Chile,40,29
+2023,2,2023-01-08,Switzerland,Austria,29,28
+2023,2,2023-01-08,Germany,Iceland,33,31
+2023,2,2023-01-08,Japan,Cape Verde,31,19
+2023,2,2023-01-08,Finland,Estonia,31,29
+2023,2,2023-01-08,Lithuania,Latvia,24,15
+2023,4,2023-01-08,Belgium,Turkey,37,28
+2023,2,2023-01-07,North Macedonia,Israel,38,37
+2023,2,2023-01-07,Switzerland,Cape Verde,29,29
+2023,2,2023-01-07,France,Egypt,33,32
+2023,2,2023-01-07,Spain,Argentina,31,20
+2023,2,2023-01-07,Austria,Japan,39,30
+2023,2,2023-01-07,Germany,Iceland,30,31
+2023,2,2023-01-07,Denmark,Saudi Arabia,41,27
+2023,2,2023-01-07,Hungary,Slovenia,29,32
+2023,2,2023-01-07,Bahrain,Romania,24,27
+2023,2,2023-01-07,Netherlands,Czech Republic,30,33
+2023,4,2023-01-07,Romania,Israel,33,30
+2023,2,2023-01-06,Croatia,North Macedonia,40,34
+2023,2,2023-01-06,Switzerland,Japan,35,31
+2023,2,2023-01-06,Poland,Belgium,29,18
+2023,2,2023-01-06,Spain,Bahrain,34,21
+2023,2,2023-01-06,Cape Verde,Austria,31,39
+2023,2,2023-01-06,Tunisia,Algeria,29,23
+2023,2,2023-01-06,Romania,Argentina,31,26
+2023,2,2023-01-06,Sweden,Serbia,35,34
+2023,2,2023-01-05,Denmark,Saudi Arabia,43,16
+2023,2,2023-01-05,Belgium,Iran,35,31
+2023,2,2023-01-05,Slovenia,Hungary,27,28
+2023,2,2023-01-05,Spain,Romania,42,29
+2023,2,2023-01-05,Qatar,Montenegro,23,23
+2023,2,2023-01-05,Argentina,Bahrain,31,27
+2023,2,2023-01-05,Russia,Belarus,28,23
+2023,4,2023-01-05,Kosovo,Greece,20,21
+2023,4,2023-01-05,Turkey,Belgium,30,25
+2023,2,2023-01-04,France,Netherlands,43,32
+2023,2,2023-01-04,Egypt,Czech Republic,33,30
+2023,2,2023-01-04,Poland,Iran,32,27
+2023,2,2023-01-04,Tunisia,Algeria,32,30
+2023,2,2023-01-03,Qatar,Montenegro,30,28
+2022,2,2022-12-30,Poland,Brazil,31,23
+2022,2,2022-12-29,Croatia,Italy,40,26
+2022,2,2022-12-29,Egypt,Slovakia,33,29
+2022,2,2022-12-29,Algeria,Romania,25,33
+2022,2,2022-12-29,Latvia,Czech Republic,24,34
+2022,2,2022-12-29,Tunisia,Brazil,29,24
+2022,2,2022-12-28,Romania,Slovakia,30,31
+2022,2,2022-12-28,Latvia,Czech Republic,24,24
+2022,2,2022-12-28,Poland,Tunisia,31,32
+2022,2,2022-12-28,Egypt,Algeria,38,27
+2022,2,2022-12-28,North Macedonia,Montenegro,30,31
+2022,2,2022-12-27,North Macedonia,Montenegro,38,33
+2022,2,2022-12-17,Bahrain,Saudi Arabia,29,26
+2022,1,2022-11-08,Italy,Norway,24,39
+2022,1,2022-11-08,Romania,Montenegro,36,27
+2022,1,2022-11-08,Kosovo,Sweden,16,30
+2022,1,2022-11-08,Estonia,Germany,23,35
+2022,1,2022-11-08,Lithuania,Portugal,26,34
+2022,1,2022-11-07,Switzerland,North Macedonia,23,25
+2022,1,2022-11-07,Finland,Denmark,22,40
+2022,1,2022-11-07,Russia,Ukraine,30,28
+2022,1,2022-11-05,Denmark,Switzerland,31,26
+2022,1,2022-11-05,Sweden,Romania,33,30
+2022,1,2022-11-05,Germany,Bosnia & Herzegovina,25,21
+2022,1,2022-11-05,Ukraine,Russia,27,27
+2022,1,2022-11-04,Iceland,Lithuania,36,20
+2022,1,2022-11-04,Montenegro,Kosovo,32,25
+2022,1,2022-11-04,Portugal,Israel,31,22
+2022,1,2022-11-04,Austria,Estonia,31,28
+2022,1,2022-11-04,Netherlands,Turkey,27,26
+2022,1,2022-11-04,North Macedonia,Finland,33,24
+2022,2,2022-10-14,Bahrain,Egypt,25,26
+2022,2,2022-10-13,Tunisia,Qatar,22,22
+2022,1,2022-05-02,Austria,Bosnia & Herzegovina,27,23
+2022,1,2022-05-02,Belarus,Latvia,30,26
+2022,1,2022-05-02,Czech Republic,Ukraine,27,22
+2022,1,2022-05-02,Denmark,Finland,46,24
+2022,1,2022-05-02,Faroe Islands,Russia,23,28
+2022,1,2022-05-02,France,Greece,46,30
+2022,1,2022-05-02,Germany,Estonia,35,20
+2022,1,2022-05-02,Iceland,Israel,39,29
+2022,1,2022-05-02,Montenegro,Romania,23,19
+2022,1,2022-05-02,Netherlands,Poland,32,30
+2022,1,2022-05-02,North Macedonia,Switzerland,29,28
+2022,1,2022-05-02,Norway,Italy,37,16
+2022,1,2022-05-02,Portugal,Lithuania,30,25
+2022,1,2022-05-02,Serbia,Belgium,10,0
+2022,1,2022-05-02,Slovenia,Turkey,39,24
+2022,1,2022-05-02,Sweden,Kosovo,39,16
+2022,1,2022-04-30,Faroe Islands,Czech Republic,27,26
+2022,1,2022-04-30,Montenegro,Sweden,22,34
+2022,1,2022-04-29,Poland,Slovenia,27,26
+2022,1,2022-04-29,Israel,Portugal,29,41
+2022,1,2022-04-29,Italy,Belarus,31,32
+2022,1,2022-04-29,Estonia,Austria,27,31
+2022,1,2022-04-29,Norway,Latvia,36,17
+2022,1,2022-04-29,Belgium,France,0,10
+2022,1,2022-04-29,Lithuania,Iceland,29,27
+2022,1,2022-04-29,Turkey,Netherlands,24,32
+2022,1,2022-04-29,Bosnia & Herzegovina,Germany,24,26
+2022,1,2022-04-29,Greece,Serbia,25,27
+2022,1,2022-04-28,Kosovo,Montenegro,22,27
+2022,1,2022-04-28,Latvia,Norway,23,28
+2022,1,2022-04-28,Russia,Faroe Islands,31,24
+2022,1,2022-04-28,Switzerland,Denmark,29,30
+2022,1,2022-04-28,Finland,North Macedonia,22,27
+2022,1,2022-04-28,Romania,Sweden,23,31
+2022,1,2022-04-28,Ukraine,Czech Republic,26,28
+2022,1,2022-04-27,Israel,Iceland,20,30
+2022,1,2022-04-27,Greece,France,31,40
+2022,1,2022-04-27,Turkey,Slovenia,22,30
+2022,1,2022-04-26,Israel,Lithuania,34,28
+2022,2,2022-04-16,Tunisia,Brazil,31,30
+2022,2,2022-04-16,France,Spain,31,32
+2022,2,2022-04-16,Sweden,Denmark,23,31
+2022,2,2022-04-14,Tunisia,Brazil,31,30
+2022,2,2022-04-14,France,Spain,44,33
+2022,2,2022-04-14,Denmark,Poland,30,20
+2022,2,2022-03-20,Poland,Sweden,24,28
+2022,2,2022-03-19,Germany,Hungary,31,31
+2022,2,2022-03-17,Poland,Sweden,24,27
+2022,1,2022-03-14,Czech Republic,Russia,27,27
+2022,1,2022-03-14,Faroe Islands,Ukraine,25,26
+2022,1,2022-03-14,Poland,Netherlands,26,27
+2022,1,2022-03-14,Bosnia & Herzegovina,Austria,27,21
+2022,1,2022-03-14,Romania,Kosovo,25,30
+2022,1,2022-03-14,Denmark,North Macedonia,37,21
+2022,1,2022-03-14,Lithuania,Israel,31,28
+2022,1,2022-03-14,Switzerland,Finland,32,30
+2022,1,2022-03-13,Latvia,Belarus,27,39
+2022,1,2022-03-12,Czech Republic,Faroe Islands,28,20
+2022,1,2022-03-11,North Macedonia,Denmark,33,29
+2022,1,2022-03-11,Finland,Switzerland,19,32
+2022,1,2022-03-10,Kosovo,Romania,23,23
+2022,1,2022-03-10,Russia,Czech Republic,28,27
+2022,1,2022-03-10,Ukraine,Faroe Islands,25,21
+2022,1,2022-03-10,Belarus,Italy,37,32
+2022,1,2022-03-09,France,Belgium,10,0
+2022,1,2022-03-09,Slovenia,Poland,32,29
+2022,1,2022-03-09,Sweden,Montenegro,27,24
+2022,1,2022-01-30,Sweden,Spain,27,26
+2022,1,2022-01-30,France,Denmark,32,35
+2022,1,2022-01-28,France,Sweden,33,34
+2022,1,2022-01-28,Spain,Denmark,29,25
+2022,1,2022-01-28,Iceland,Norway,33,34
+2022,1,2022-01-26,Denmark,France,29,30
+2022,1,2022-01-26,Netherlands,Croatia,28,28
+2022,1,2022-01-26,Montenegro,Iceland,24,34
+2022,1,2022-01-25,Sweden,Norway,24,23
+2022,1,2022-01-25,Germany,Russia,30,29
+2022,1,2022-01-25,Poland,Spain,27,28
+2022,1,2022-01-24,Montenegro,France,27,36
+2022,1,2022-01-24,Denmark,Netherlands,35,23
+2022,1,2022-01-24,Iceland,Croatia,22,23
+2022,1,2022-01-23,Spain,Norway,23,27
+2022,1,2022-01-23,Germany,Sweden,21,25
+2022,1,2022-01-23,Poland,Russia,29,29
+2022,1,2022-01-22,Denmark,Croatia,27,25
+2022,1,2022-01-22,France,Iceland,21,29
+2022,1,2022-01-22,Montenegro,Netherlands,30,34
+2022,1,2022-01-21,Germany,Norway,23,28
+2022,1,2022-01-21,Poland,Sweden,18,28
+2022,1,2022-01-21,Russia,Spain,25,26
+2022,1,2022-01-20,Denmark,Iceland,28,24
+2022,1,2022-01-20,Poland,Norway,31,42
+2022,1,2022-01-20,France,Netherlands,34,24
+2022,1,2022-01-20,Germany,Spain,23,29
+2022,1,2022-01-20,Montenegro,Croatia,32,26
+2022,1,2022-01-20,Russia,Sweden,23,29
+2022,1,2022-01-19,Finland,Georgia,37,21
+2022,1,2022-01-19,Estonia,Luxembourg,31,20
+2022,1,2022-01-18,Belarus,Austria,29,26
+2022,1,2022-01-18,Netherlands,Portugal,32,31
+2022,1,2022-01-18,Iceland,Hungary,31,30
+2022,1,2022-01-18,Poland,Germany,23,30
+2022,1,2022-01-17,Czech Republic,Sweden,27,27
+2022,1,2022-01-17,France,Serbia,29,25
+2022,1,2022-01-17,Lithuania,Norway,29,35
+2022,1,2022-01-17,North Macedonia,Denmark,21,31
+2022,1,2022-01-17,Bosnia & Herzegovina,Spain,24,28
+2022,1,2022-01-17,Montenegro,Slovenia,33,32
+2022,1,2022-01-17,Slovakia,Russia,27,36
+2022,1,2022-01-17,Ukraine,Croatia,25,38
+2022,1,2022-01-16,Belarus,Poland,20,29
+2022,1,2022-01-16,Iceland,Netherlands,29,28
+2022,1,2022-01-16,Germany,Austria,34,29
+2022,1,2022-01-16,Portugal,Hungary,30,31
+2022,1,2022-01-16,Belgium,Serbia,0,10
+2022,1,2022-01-16,Luxembourg,Estonia,33,38
+2022,1,2022-01-16,Georgia,Finland,24,24
+2022,1,2022-01-15,Croatia,Serbia,23,20
+2022,1,2022-01-15,Norway,Russia,22,23
+2022,1,2022-01-15,Slovenia,Denmark,23,34
+2022,1,2022-01-15,Spain,Sweden,32,28
+2022,1,2022-01-15,Czech Republic,Bosnia & Herzegovina,27,19
+2022,1,2022-01-15,France,Ukraine,36,23
+2022,1,2022-01-15,North Macedonia,Montenegro,24,28
+2022,1,2022-01-15,Slovakia,Lithuania,31,26
+2022,1,2022-01-14,Austria,Poland,31,36
+2022,1,2022-01-14,Portugal,Iceland,24,28
+2022,1,2022-01-14,Germany,Belarus,33,29
+2022,1,2022-01-13,Croatia,France,22,27
+2022,1,2022-01-13,Denmark,Montenegro,30,21
+2022,1,2022-01-13,Hungary,Netherlands,28,31
+2022,1,2022-01-13,Norway,Slovakia,35,25
+2022,1,2022-01-13,Sweden,Bosnia & Herzegovina,30,18
+2022,1,2022-01-13,Russia,Lithuania,29,27
+2022,1,2022-01-13,Serbia,Ukraine,31,23
+2022,1,2022-01-13,Slovenia,North Macedonia,27,25
+2022,1,2022-01-13,Spain,Czech Republic,28,26
+2022,1,2022-01-13,Serbia,Greece,31,21
+2022,1,2022-01-13,Luxembourg,Great Britain,29,19
+2022,1,2022-01-10,Bosnia & Herzegovina,Estonia,21,19
+2022,1,2022-01-10,Slovenia,Netherlands,27,27
+2022,1,2022-01-10,Germany,Austria,34,20
+2022,1,2022-01-10,Iceland,Portugal,32,23
+2022,1,2022-01-10,Latvia,Italy,31,29
+2022,1,2022-01-09,Poland,Turkey,35,24
+2022,1,2022-01-09,France,Serbia,26,26
+2022,1,2022-01-09,Belgium,Greece,0,10
+2022,2,2022-01-09,Germany,France,35,34
+2022,1,2022-01-08,Norway,Belarus,27,19
+2022,2,2022-01-08,Spain,Poland,26,25
+2022,2,2022-01-08,Hungary,Bahrain,36,30
+2022,2,2022-01-08,Croatia,Russia,26,28
+2022,2,2022-01-08,Denmark,Norway,35,25
+2022,1,2022-01-07,Italy,Latvia,28,17
+2022,1,2022-01-07,Greece,Belgium,10,0
+2022,2,2022-01-07,Poland,Iran,35,29
+2022,2,2022-01-07,Croatia,Russia,30,24
+2022,2,2022-01-07,Germany,Switzerland,30,26
+2022,1,2022-01-06,Portugal,Iceland,26,24
+2022,1,2022-01-06,Estonia,Bosnia & Herzegovina,24,21
+2022,1,2022-01-06,Netherlands,Slovenia,23,34
+2022,1,2022-01-06,Turkey,Poland,24,29
+2022,1,2022-01-06,Austria,Germany,27,36
+2022,2,2022-01-06,Spain,Iran,36,22
+2022,2,2022-01-06,Sweden,Netherlands,34,30
+2022,1,2022-01-05,Serbia,France,27,24
+2022,1,2022-01-05,Belarus,Norway,33,25
+2022,2,2022-01-03,North Macedonia,Israel,31,28
+2021,2,2021-12-30,Poland,Netherlands,33,27
+2021,2,2021-12-30,Tunisia,Japan,36,31
+2021,2,2021-12-30,Italy,Saudi Arabia,31,32
+2021,2,2021-12-30,Qatar,Egypt,27,38
+2021,2,2021-12-29,Poland,Japan,28,27
+2021,2,2021-12-29,Slovenia,Croatia,33,26
+2021,2,2021-12-29,Italy,Belgium,35,25
+2021,2,2021-12-29,Romania,Turkey,35,25
+2021,2,2021-12-29,Tunisia,Netherlands,28,33
+2021,2,2021-12-29,North Macedonia,Kuwait,22,21
+2021,2,2021-12-29,Latvia,Estonia,27,22
+2021,2,2021-12-28,Latvia,Lithuania,31,31
+2021,2,2021-12-28,Egypt,Qatar,26,23
+2021,2,2021-12-28,Poland,Tunisia,26,30
+2021,2,2021-12-28,Belgium,Saudi Arabia,24,25
+2021,2,2021-12-28,Netherlands,Japan,30,33
+2021,2,2021-12-27,North Macedonia,Kuwait,31,21
+2021,2,2021-12-27,Romania,Turkey,26,24
+2021,2,2021-11-07,Germany,Portugal,30,32
+2021,2,2021-11-07,Czech Republic,Austria,30,21
+2021,2,2021-11-06,Spain,Romania,35,31
+2021,2,2021-11-06,Croatia,Slovenia,34,31
+2021,2,2021-11-06,Egypt,North Macedonia,31,26
+2021,2,2021-11-06,Israel,Italy,33,32
+2021,2,2021-11-06,Tunisia,Switzerland,22,28
+2021,2,2021-11-06,Qatar,Iran,35,24
+2021,2,2021-11-06,Sweden,Poland,32,28
+2021,2,2021-11-06,Belarus,Russia,31,27
+2021,2,2021-11-06,Cape Verde,Montenegro,29,30
+2021,2,2021-11-06,Saudi Arabia,Kuwait,29,28
+2021,2,2021-11-05,USA,Luxembourg,30,24
+2021,2,2021-11-05,Germany,Portugal,30,28
+2021,2,2021-11-05,Slovakia,Serbia,21,32
+2021,2,2021-11-05,Austria,Czech Republic,35,30
+2021,2,2021-11-05,Tunisia,Montenegro,30,28
+2021,2,2021-11-05,Hungary,Bosnia & Herzegovina,26,24
+2021,2,2021-11-05,Egypt,North Macedonia,32,25
+2021,2,2021-11-05,Belarus,Russia,35,27
+2021,2,2021-11-05,Switzerland,Cape Verde,22,24
+2021,2,2021-11-04,Spain,Romania,33,29
+2021,2,2021-11-04,Sweden,Poland,31,24
+2021,2,2021-11-04,Israel,Italy,36,37
+2021,2,2021-11-04,Tunisia,Cape Verde,28,27
+2021,2,2021-11-04,Qatar,Saudi Arabia,25,18
+2021,2,2021-11-04,Montenegro,Switzerland,35,31
+2021,2,2021-11-04,Kuwait,Iran,32,27
+2021,2,2021-11-03,Luxembourg,Portugal,21,39
+2021,2,2021-11-02,Qatar,Kuwait,32,19
+2021,2,2021-11-02,Romania,Georgia,37,25
+2021,2,2021-11-02,Saudi Arabia,Iran,16,24
+2021,4,2021-10-27,Turkey,Belgium,33,24
+2021,4,2021-10-27,Greece,Israel,26,25
+2021,4,2021-10-26,Belgium,Estonia,25,20
+2021,4,2021-10-25,Estonia,Turkey,29,33
+2021,4,2021-10-23,Israel,Finland,33,32
+2021,2,2021-07-21,France,Denmark,28,33
+2021,2,2021-07-21,Portugal,Argentina,31,28
+2021,2,2021-07-20,Norway,Sweden,26,26
+2021,2,2021-07-19,Argentina,Bahrain,27,32
+2021,2,2021-07-18,Japan,France,32,47
+2021,2,2021-07-12,Denmark,Sweden,31,30
+2021,2,2021-07-11,Germany,Egypt,29,27
+2021,2,2021-07-10,Spain,Portugal,38,32
+2021,2,2021-07-10,Egypt,Brazil,32,25
+2021,2,2021-07-09,Germany,Brazil,36,26
+2021,2,2021-07-08,Portugal,Spain,32,31
+2021,2,2021-07-05,France,Egypt,31,30
+2021,2,2021-07-02,Portugal,Brazil,28,34
+2021,2,2021-06-29,Spain,Egypt,30,29
+2021,2,2021-06-20,Serbia,North Macedonia,33,23
+2021,2,2021-06-19,Serbia,North Macedonia,29,26
+2021,2,2021-03-13,Spain,Argentina,28,24
+2021,4,2021-01-31,Denmark,Sweden,26,24
+2021,4,2021-01-31,Spain,France,35,29
+2021,4,2021-01-29,Spain,Denmark,33,35
+2021,4,2021-01-29,France,Sweden,26,32
+2021,4,2021-01-27,France,Hungary,35,32
+2021,4,2021-01-27,Spain,Norway,31,26
+2021,4,2021-01-27,Sweden,Qatar,35,23
+2021,4,2021-01-27,Denmark,Egypt,39,38
+2021,4,2021-01-27,Tunisia,Austria,37,33
+2021,4,2021-01-25,Denmark,Croatia,38,26
+2021,4,2021-01-25,Poland,Germany,23,23
+2021,4,2021-01-25,Argentina,Qatar,25,26
+2021,4,2021-01-25,Spain,Hungary,36,28
+2021,4,2021-01-25,Bahrain,Japan,25,29
+2021,4,2021-01-24,Portugal,France,23,32
+2021,4,2021-01-24,Iceland,Norway,33,35
+2021,4,2021-01-24,Slovenia,Egypt,25,25
+2021,4,2021-01-24,Algeria,Switzerland,24,27
+2021,4,2021-01-24,Belarus,North Macedonia,30,26
+2021,4,2021-01-23,Germany,Brazil,31,24
+2021,4,2021-01-23,Japan,Denmark,27,34
+2021,4,2021-01-23,Argentina,Croatia,23,19
+2021,4,2021-01-23,Poland,Hungary,26,30
+2021,4,2021-01-23,Qatar,Bahrain,28,23
+2021,4,2021-01-22,Norway,Algeria,36,23
+2021,4,2021-01-22,Slovenia,Sweden,28,28
+2021,4,2021-01-22,Egypt,Belarus,35,26
+2021,4,2021-01-22,Iceland,France,26,28
+2021,4,2021-01-22,Austria,Chile,33,31
+2021,4,2021-01-22,Switzerland,Portugal,29,33
+2021,4,2021-01-21,Denmark,Qatar,32,23
+2021,4,2021-01-21,Spain,Germany,32,28
+2021,4,2021-01-21,Croatia,Bahrain,28,18
+2021,4,2021-01-21,Hungary,Brazil,29,23
+2021,4,2021-01-21,Japan,Argentina,24,28
+2021,4,2021-01-21,Cape Verde,Tunisia,0,10
+2021,4,2021-01-20,Portugal,Norway,28,29
+2021,4,2021-01-20,Sweden,Belarus,26,26
+2021,4,2021-01-20,France,Algeria,29,26
+2021,4,2021-01-20,North Macedonia,Slovenia,21,31
+2021,4,2021-01-20,Switzerland,Iceland,20,18
+2021,4,2021-01-19,Brazil,Poland,23,33
+2021,4,2021-01-19,Denmark,Argentina,31,20
+2021,4,2021-01-19,Germany,Hungary,28,29
+2021,4,2021-01-19,Croatia,Qatar,26,24
+2021,4,2021-01-19,Spain,Tunisia,36,30
+2021,4,2021-01-18,Norway,Austria,38,29
+2021,4,2021-01-18,France,Switzerland,25,24
+2021,4,2021-01-18,Portugal,Algeria,26,19
+2021,4,2021-01-18,Slovenia,Belarus,29,25
+2021,4,2021-01-18,Sweden,Egypt,24,23
+2021,4,2021-01-18,North Macedonia,Chile,32,29
+2021,4,2021-01-17,Poland,Spain,26,27
+2021,4,2021-01-17,Argentina,Bahrain,24,21
+2021,4,2021-01-17,Cape Verde,Germany,0,10
+2021,4,2021-01-17,Tunisia,Brazil,32,32
+2021,4,2021-01-17,Qatar,Japan,31,29
+2021,4,2021-01-16,Algeria,Iceland,24,39
+2021,4,2021-01-16,Chile,Sweden,26,41
+2021,4,2021-01-16,Switzerland,Norway,25,31
+2021,4,2021-01-16,Austria,France,28,35
+2021,4,2021-01-16,Egypt,North Macedonia,38,19
+2021,4,2021-01-15,Denmark,Bahrain,34,20
+2021,4,2021-01-15,Hungary,Cape Verde,34,27
+2021,4,2021-01-15,Tunisia,Poland,28,30
+2021,4,2021-01-15,Croatia,Japan,29,29
+2021,4,2021-01-15,Spain,Brazil,29,29
+2021,4,2021-01-14,Norway,France,24,28
+2021,4,2021-01-14,Portugal,Iceland,25,23
+2021,4,2021-01-14,Sweden,North Macedonia,32,20
+2021,4,2021-01-14,Austria,Switzerland,25,28
+2021,4,2021-01-13,Egypt,Chile,35,29
+2021,4,2021-01-12,Italy,Romania,24,29
+2021,4,2021-01-12,Faroe Islands,Luxembourg,24,22
+2021,4,2021-01-12,Kosovo,Georgia,30,21
+2021,4,2021-01-12,Lithuania,Slovakia,25,24
+2021,4,2021-01-11,Georgia,Italy,28,25
+2021,4,2021-01-11,Kosovo,Romania,21,32
+2021,4,2021-01-11,Luxembourg,Lithuania,22,32
+2021,4,2021-01-11,Israel,Greece,24,22
+2021,4,2021-01-11,Faroe Islands,Slovakia,26,27
+2021,2,2021-01-10,North Macedonia,Chile,28,24
+2021,4,2021-01-10,Italy,Kosovo,26,26
+2021,4,2021-01-10,Slovakia,Luxembourg,22,16
+2021,4,2021-01-10,Romania,Georgia,29,24
+2021,4,2021-01-10,Lithuania,Faroe Islands,36,25
+2021,2,2021-01-09,Denmark,Norway,34,36
+2021,4,2021-01-08,Finland,Israel,26,26
+2021,2,2021-01-07,Denmark,Norway,31,28
+2021,2,2021-01-06,Russia,Argentina,22,21
+2021,4,2021-01-05,Finland,Greece,32,28
+2021,4,2021-01-02,Greece,Finland,36,22
+2020,2,2020-12-29,Poland,Russia,25,23
+2020,2,2020-12-29,Qatar,Spain,26,28
+2020,2,2020-12-29,Slovakia,Czech Republic,21,28
+2020,2,2020-12-29,Tunisia,Argentina,27,28
+2020,2,2020-12-28,Poland,Algeria,24,21
+2020,2,2020-12-28,Argentina,Spain,31,33
+2020,2,2020-12-27,Russia,Algeria,30,24
+2020,2,2020-12-27,Qatar,Argentina,24,22
+2020,2,2020-12-27,Spain,Tunisia,30,30
+2020,2,2020-12-25,Qatar,Tunisia,33,30
+2020,2,2020-12-22,Poland,Algeria,26,24
+2020,2,2020-12-21,Poland,Algeria,23,26
+2020,1,2020-11-06,Kosovo,Turkey,24,24
+2020,1,2020-11-06,Georgia,Italy,25,28
+2020,1,2020-11-02,Italy,Georgia,26,19
+2020,1,2020-11-02,Turkey,Kosovo,26,22
+2020,1,2020-10-28,Kosovo,Germany,14,30
+2020,1,2020-10-28,Israel,Poland,25,24
+2020,1,2020-10-28,Estonia,Slovenia,20,31
+2020,1,2020-10-28,Ukraine,Montenegro,29,24
+2020,1,2020-10-28,Romania,France,21,31
+2020,1,2020-10-28,Greece,North Macedonia,28,26
+2020,1,2020-10-28,Belgium,Croatia,25,30
+2020,1,2020-10-28,Lithuania,Portugal,23,24
+2020,1,2020-10-28,Latvia,Netherlands,29,25
+2020,1,2020-10-28,Turkey,Iceland,22,33
+2020,1,2020-10-28,Switzerland,Serbia,29,24
+2020,1,2020-10-27,Bosnia & Herzegovina,Czech Republic,20,25
+2020,1,2020-10-27,Italy,Hungary,22,30
+2020,1,2020-10-27,Slovakia,Russia,21,22
+2020,1,2020-10-27,Faroe Islands,Denmark,17,35
+2020,1,2020-10-27,Finland,Belarus,20,27
+2020,3,2020-10-26,Qatar,Saudi Arabia,31,21
+2020,1,2020-10-25,France,Lithuania,42,27
+2020,1,2020-10-25,Croatia,Switzerland,31,28
+2020,1,2020-10-25,North Macedonia,Turkey,31,27
+2020,1,2020-10-25,Netherlands,Estonia,35,25
+2020,1,2020-10-25,Belarus,Bosnia & Herzegovina,29,30
+2020,3,2020-10-25,Kuwait,Iran,25,27
+2020,1,2020-10-24,Iceland,Greece,35,21
+2020,1,2020-10-24,Denmark,Ukraine,30,24
+2020,1,2020-10-24,Portugal,Romania,21,13
+2020,1,2020-10-24,Slovenia,Latvia,27,21
+2020,1,2020-10-24,Germany,Israel,37,21
+2020,1,2020-10-24,Hungary,Slovakia,30,22
+2020,1,2020-10-24,Russia,Italy,34,20
+2020,1,2020-10-24,Czech Republic,Finland,31,27
+2020,1,2020-10-24,Poland,Kosovo,37,13
+2020,1,2020-10-24,Serbia,Belgium,27,27
+2020,1,2020-10-24,Montenegro,Faroe Islands,24,24
+2020,3,2020-10-24,Qatar,Bahrain,26,28
+2020,3,2020-10-22,Iran,Kuwait,36,36
+2020,3,2020-10-21,Qatar,Saudi Arabia,29,20
+2020,3,2020-10-20,Iran,Bahrain,26,29
+2020,3,2020-10-18,Bahrain,Kuwait,26,21
+2020,3,2020-08-07,France,Denmark,25,23
+2020,3,2020-08-07,Egypt,Spain,31,33
+2020,3,2020-08-05,Spain,Denmark,23,27
+2020,3,2020-08-05,France,Egypt,27,23
+2020,3,2020-08-03,Germany,Egypt,26,31
+2020,3,2020-08-03,Denmark,Norway,31,25
+2020,3,2020-08-03,Sweden,Spain,33,34
+2020,3,2020-08-03,France,Bahrain,42,28
+2020,3,2020-08-01,Denmark,Sweden,30,33
+2020,3,2020-08-01,Germany,Brazil,29,25
+2020,3,2020-08-01,Norway,France,32,29
+2020,3,2020-08-01,Spain,Argentina,36,27
+2020,3,2020-08-01,Egypt,Bahrain,30,20
+2020,3,2020-08-01,Portugal,Japan,30,31
+2020,3,2020-07-30,Germany,Norway,28,23
+2020,3,2020-07-30,Portugal,Denmark,28,34
+2020,3,2020-07-30,Sweden,Egypt,22,27
+2020,3,2020-07-30,France,Spain,36,31
+2020,3,2020-07-30,Bahrain,Japan,32,30
+2020,3,2020-07-30,Argentina,Brazil,23,25
+2020,3,2020-07-28,France,Germany,30,29
+2020,3,2020-07-28,Brazil,Spain,25,32
+2020,3,2020-07-28,Norway,Argentina,27,23
+2020,3,2020-07-28,Japan,Egypt,29,33
+2020,3,2020-07-28,Sweden,Portugal,29,28
+2020,3,2020-07-28,Denmark,Bahrain,31,21
+2020,3,2020-07-26,Japan,Sweden,26,28
+2020,3,2020-07-26,Bahrain,Portugal,25,26
+2020,3,2020-07-26,Spain,Norway,28,27
+2020,3,2020-07-26,Egypt,Denmark,27,32
+2020,3,2020-07-26,Argentina,Germany,25,33
+2020,3,2020-07-26,Brazil,France,29,34
+2020,3,2020-07-24,Denmark,Japan,47,30
+2020,3,2020-07-24,Portugal,Egypt,31,37
+2020,3,2020-07-24,Germany,Spain,27,28
+2020,3,2020-07-24,Sweden,Bahrain,32,31
+2020,3,2020-07-24,France,Argentina,33,27
+2020,3,2020-07-24,Norway,Brazil,27,24
+2020,1,2020-06-16,Belarus,Finland,40,15
+2020,1,2020-06-16,Croatia,Belgium,28,19
+2020,1,2020-06-16,Czech Republic,Bosnia & Herzegovina,23,24
+2020,1,2020-06-16,Denmark,Faroe Islands,31,24
+2020,1,2020-06-16,France,Romania,34,25
+2020,1,2020-06-16,Germany,Kosovo,28,17
+2020,1,2020-06-16,Hungary,Italy,32,29
+2020,1,2020-06-16,Iceland,Turkey,32,22
+2020,1,2020-06-16,Montenegro,Ukraine,27,21
+2020,1,2020-06-16,Netherlands,Latvia,25,21
+2020,1,2020-06-16,North Macedonia,Greece,27,23
+2020,1,2020-06-16,Poland,Israel,26,23
+2020,1,2020-06-16,Portugal,Lithuania,28,28
+2020,1,2020-06-16,Russia,Slovakia,30,20
+2020,1,2020-06-16,Serbia,Switzerland,32,31
+2020,1,2020-06-16,Slovenia,Estonia,32,28
+2020,1,2020-06-13,Faroe Islands,Montenegro,21,24
+2020,1,2020-06-13,Italy,Russia,23,30
+2020,1,2020-06-13,Estonia,Netherlands,27,33
+2020,1,2020-06-13,Lithuania,France,17,37
+2020,1,2020-06-13,Romania,Portugal,19,24
+2020,1,2020-06-12,Belgium,Serbia,26,37
+2020,1,2020-06-12,Bosnia & Herzegovina,Belarus,25,31
+2020,1,2020-06-12,Kosovo,Poland,23,23
+2020,1,2020-06-12,Greece,Iceland,28,28
+2020,1,2020-06-12,Israel,Germany,25,40
+2020,1,2020-06-12,Latvia,Slovenia,25,24
+2020,1,2020-06-12,Switzerland,Croatia,28,33
+2020,1,2020-06-12,Slovakia,Hungary,20,21
+2020,1,2020-06-12,Turkey,North Macedonia,25,26
+2020,1,2020-06-12,Ukraine,Denmark,30,33
+2020,1,2020-06-12,Finland,Czech Republic,24,26
+2020,1,2020-04-14,Croatia,Serbia,27,23
+2020,1,2020-04-14,North Macedonia,Iceland,24,24
+2020,1,2020-04-14,Israel,Kosovo,30,24
+2020,1,2020-04-14,France,Portugal,33,24
+2020,1,2020-04-14,Bosnia & Herzegovina,Finland,31,19
+2020,1,2020-04-14,Slovakia,Italy,23,26
+2020,1,2020-04-14,Slovenia,Netherlands,30,23
+2020,1,2020-04-14,Belarus,Czech Republic,24,26
+2020,1,2020-04-14,Hungary,Russia,23,23
+2020,1,2020-04-14,Turkey,Greece,26,23
+2020,1,2020-04-14,Lithuania,Romania,24,23
+2020,1,2020-04-14,Latvia,Estonia,30,24
+2020,1,2020-04-14,Switzerland,Belgium,36,22
+2020,1,2020-04-13,Denmark,Montenegro,37,26
+2020,1,2020-04-13,Faroe Islands,Ukraine,26,27
+2020,1,2020-04-13,Germany,Poland,29,24
+2020,1,2020-04-11,Portugal,France,33,27
+2020,1,2020-04-11,Netherlands,Slovenia,26,27
+2020,1,2020-04-11,Estonia,Latvia,18,24
+2020,1,2020-04-11,Serbia,Croatia,25,25
+2020,1,2020-04-11,Finland,Bosnia & Herzegovina,26,30
+2020,1,2020-04-11,Russia,Hungary,19,25
+2020,1,2020-04-11,Romania,Lithuania,28,23
+2020,1,2020-04-10,Iceland,North Macedonia,33,34
+2020,1,2020-04-10,Montenegro,Denmark,32,31
+2020,1,2020-04-10,Belgium,Switzerland,25,28
+2020,1,2020-04-10,Kosovo,Israel,27,24
+2020,1,2020-04-10,Italy,Slovakia,26,23
+2020,1,2020-04-10,Czech Republic,Belarus,30,31
+2020,1,2020-04-10,Poland,Germany,18,26
+2020,1,2020-04-10,Ukraine,Faroe Islands,30,19
+2020,1,2020-04-10,Greece,Turkey,22,26
+2020,3,2020-03-14,Portugal,France,29,28
+2020,3,2020-03-14,Croatia,Tunisia,30,27
+2020,3,2020-03-14,Sweden,Slovenia,32,25
+2020,3,2020-03-14,Brazil,Chile,26,24
+2020,3,2020-03-14,Algeria,Germany,26,34
+2020,3,2020-03-13,France,Tunisia,40,29
+2020,3,2020-03-13,Norway,Chile,38,23
+2020,3,2020-03-13,Croatia,Portugal,25,24
+2020,3,2020-03-13,Sweden,Algeria,36,25
+2020,3,2020-03-13,Germany,Slovenia,36,27
+2020,3,2020-03-12,France,Croatia,30,26
+2020,3,2020-03-12,Norway,Brazil,32,20
+2020,3,2020-03-12,Tunisia,Portugal,27,34
+2020,3,2020-03-12,Slovenia,Algeria,36,28
+2020,3,2020-03-12,Germany,Sweden,25,25
+2020,1,2020-01-26,Spain,Croatia,22,20
+2020,1,2020-01-25,Slovenia,Norway,20,28
+2020,1,2020-01-25,Germany,Portugal,29,27
+2020,1,2020-01-24,Spain,Slovenia,34,32
+2020,1,2020-01-24,Norway,Croatia,28,29
+2020,1,2020-01-22,Czech Republic,Germany,22,26
+2020,1,2020-01-22,Iceland,Sweden,25,32
+2020,1,2020-01-22,Belarus,Austria,36,36
+2020,1,2020-01-22,Norway,Slovenia,33,30
+2020,1,2020-01-22,Croatia,Spain,22,22
+2020,1,2020-01-22,Portugal,Hungary,34,26
+2020,1,2020-01-21,Hungary,Sweden,18,24
+2020,1,2020-01-21,Norway,Iceland,31,28
+2020,1,2020-01-21,Portugal,Slovenia,24,29
+2020,1,2020-01-20,Austria,Germany,22,34
+2020,1,2020-01-20,Belarus,Spain,28,37
+2020,1,2020-01-20,Croatia,Czech Republic,22,21
+2020,1,2020-01-19,Norway,Sweden,23,20
+2020,1,2020-01-19,Slovenia,Hungary,28,29
+2020,1,2020-01-19,Portugal,Iceland,25,28
+2020,1,2020-01-18,Croatia,Germany,25,24
+2020,1,2020-01-18,Spain,Austria,30,26
+2020,1,2020-01-18,Belarus,Czech Republic,28,25
+2020,1,2020-01-17,Portugal,Sweden,35,25
+2020,1,2020-01-17,Norway,Hungary,36,29
+2020,1,2020-01-17,Slovenia,Iceland,30,27
+2020,1,2020-01-16,Belarus,Germany,23,31
+2020,1,2020-01-16,Croatia,Austria,27,23
+2020,1,2020-01-16,Spain,Czech Republic,31,25
+2020,1,2020-01-15,Russia,Denmark,28,31
+2020,1,2020-01-15,Iceland,Hungary,18,24
+2020,1,2020-01-15,Faroe Islands,Greece,24,26
+2020,1,2020-01-15,Italy,Luxembourg,26,24
+2020,1,2020-01-15,Turkey,Estonia,18,20
+2020,1,2020-01-14,Poland,Sweden,26,28
+2020,1,2020-01-14,Portugal,Norway,28,34
+2020,1,2020-01-14,Ukraine,Czech Republic,19,23
+2020,1,2020-01-14,Austria,North Macedonia,32,28
+2020,1,2020-01-14,Bosnia & Herzegovina,France,23,31
+2020,1,2020-01-14,Switzerland,Slovenia,25,29
+2020,1,2020-01-13,Denmark,Hungary,24,24
+2020,1,2020-01-13,Netherlands,Spain,25,36
+2020,1,2020-01-13,Serbia,Croatia,21,24
+2020,1,2020-01-13,Iceland,Russia,34,23
+2020,1,2020-01-13,Latvia,Germany,27,28
+2020,1,2020-01-13,Montenegro,Belarus,27,36
+2020,1,2020-01-12,Austria,Ukraine,34,30
+2020,1,2020-01-12,France,Norway,26,28
+2020,1,2020-01-12,Sweden,Slovenia,19,21
+2020,1,2020-01-12,Czech Republic,North Macedonia,27,25
+2020,1,2020-01-12,Portugal,Bosnia & Herzegovina,27,24
+2020,1,2020-01-12,Switzerland,Poland,31,24
+2020,1,2020-01-11,Denmark,Iceland,30,31
+2020,1,2020-01-11,Montenegro,Serbia,22,21
+2020,1,2020-01-11,Spain,Germany,33,26
+2020,1,2020-01-11,Croatia,Belarus,31,23
+2020,1,2020-01-11,Hungary,Russia,26,25
+2020,1,2020-01-11,Latvia,Netherlands,24,32
+2020,1,2020-01-11,Luxembourg,Italy,24,23
+2020,1,2020-01-11,Estonia,Turkey,18,28
+2020,1,2020-01-10,North Macedonia,Ukraine,26,25
+2020,1,2020-01-10,Norway,Bosnia & Herzegovina,32,26
+2020,1,2020-01-10,Sweden,Switzerland,34,21
+2020,1,2020-01-10,Czech Republic,Austria,29,32
+2020,1,2020-01-10,France,Portugal,25,28
+2020,1,2020-01-10,Slovenia,Poland,26,23
+2020,1,2020-01-09,Croatia,Montenegro,27,21
+2020,1,2020-01-09,Spain,Latvia,33,22
+2020,1,2020-01-09,Belarus,Serbia,35,30
+2020,1,2020-01-09,Germany,Netherlands,34,23
+2020,1,2020-01-08,Estonia,Kosovo,27,23
+2020,1,2020-01-07,Luxembourg,Georgia,35,29
+2020,2,2020-01-07,Sweden,Egypt,27,24
+2020,2,2020-01-06,Austria,Germany,28,32
+2020,2,2020-01-05,North Macedonia,Montenegro,25,24
+2020,2,2020-01-05,Sweden,Egypt,28,27
+2020,2,2020-01-05,France,Denmark,30,31
+2020,2,2020-01-05,Croatia,Qatar,33,28
+2020,2,2020-01-05,Switzerland,Netherlands,31,27
+2020,2,2020-01-05,Norway,Serbia,38,28
+2020,2,2020-01-05,Ukraine,Tunisia,32,34
+2020,2,2020-01-05,Spain,Russia,32,24
+2020,2,2020-01-05,Hungary,Czech Republic,22,31
+2020,2,2020-01-05,Poland,Portugal,27,34
+2020,1,2020-01-04,Kosovo,Estonia,17,31
+2020,1,2020-01-04,Georgia,Luxembourg,24,31
+2020,2,2020-01-04,Switzerland,Tunisia,29,26
+2020,2,2020-01-04,Spain,Poland,35,31
+2020,2,2020-01-04,Slovenia,Montenegro,37,22
+2020,2,2020-01-04,Germany,Iceland,33,25
+2020,2,2020-01-04,Ukraine,Netherlands,27,30
+2020,2,2020-01-04,Croatia,Bosnia & Herzegovina,33,33
+2020,2,2020-01-04,Hungary,Czech Republic,27,24
+2020,2,2020-01-04,Russia,Portugal,25,27
+2020,2,2020-01-03,France,Serbia,40,26
+2020,2,2020-01-03,Switzerland,Ukraine,32,22
+2020,2,2020-01-03,Slovenia,North Macedonia,33,28
+2020,2,2020-01-03,Spain,Portugal,30,25
+2020,2,2020-01-03,Denmark,Norway,28,26
+2020,2,2020-01-03,Bosnia & Herzegovina,Qatar,27,30
+2020,2,2020-01-03,Tunisia,Netherlands,30,29
+2020,2,2020-01-03,Russia,Poland,30,25
+2019,2,2019-12-29,Poland,Belarus,24,25
+2019,2,2019-12-29,Serbia,Egypt,29,17
+2019,2,2019-12-29,Romania,North Macedonia,20,24
+2019,2,2019-12-29,Czech Republic,Slovakia,23,20
+2019,2,2019-12-29,Algeria,Netherlands,26,28
+2019,2,2019-12-28,Serbia,Egypt,27,28
+2019,2,2019-12-28,Romania,Netherlands,27,25
+2019,2,2019-12-28,Slovakia,Czech Republic,24,21
+2019,2,2019-12-28,North Macedonia,Algeria,25,24
+2019,2,2019-12-26,North Macedonia,Kuwait,22,23
+2019,2,2019-12-25,North Macedonia,Kuwait,27,24
+2019,4,2019-10-29,Greece,Turkey,19,25
+2019,4,2019-10-29,Belgium,Netherlands,25,26
+2019,4,2019-10-29,Slovakia,Luxembourg,36,19
+2019,4,2019-10-28,Estonia,Bosnia & Herzegovina,29,25
+2019,4,2019-10-28,Finland,Russia,22,35
+2019,2,2019-10-27,Austria,Netherlands,26,24
+2019,2,2019-10-27,Slovenia,Serbia,30,24
+2019,2,2019-10-27,Sweden,Iceland,35,31
+2019,2,2019-10-26,Tunisia,Ukraine,29,27
+2019,2,2019-10-26,Egypt,Portugal,26,27
+2019,2,2019-10-26,Switzerland,Czech Republic,30,29
+2019,2,2019-10-26,Montenegro,Bosnia & Herzegovina,27,26
+2019,2,2019-10-26,Denmark,Norway,29,29
+2019,2,2019-10-26,North Macedonia,Georgia,29,28
+2019,2,2019-10-26,Germany,Croatia,24,23
+2019,2,2019-10-26,France,Spain,32,31
+2019,4,2019-10-26,Russia,Slovakia,32,22
+2019,2,2019-10-25,Poland,Russia,19,30
+2019,2,2019-10-25,North Macedonia,Georgia,25,21
+2019,2,2019-10-25,Switzerland,Czech Republic,35,25
+2019,2,2019-10-25,Austria,Serbia,32,30
+2019,2,2019-10-25,Montenegro,Bosnia & Herzegovina,26,21
+2019,2,2019-10-25,Slovenia,Netherlands,29,29
+2019,2,2019-10-25,Sweden,Iceland,26,27
+2019,4,2019-10-25,Bosnia & Herzegovina,Estonia,31,24
+2019,4,2019-10-25,Netherlands,Greece,29,20
+2019,4,2019-10-25,Luxembourg,Finland,23,23
+2019,4,2019-10-25,Turkey,Belgium,27,27
+2019,2,2019-10-24,Poland,Argentina,19,20
+2019,2,2019-10-24,Denmark,France,27,31
+2019,2,2019-10-24,Tunisia,Ukraine,25,20
+2019,2,2019-10-24,Egypt,Portugal,30,25
+2019,2,2019-10-24,Norway,Spain,27,28
+2019,2,2019-10-23,Argentina,Russia,24,22
+2019,2,2019-10-23,Croatia,Germany,25,26
+2019,2,2019-10-23,North Macedonia,Italy,26,26
+2019,2,2019-10-22,Turkey,North Macedonia,23,26
+2019,2,2019-10-21,Turkey,Italy,30,28
+2019,2,2019-10-20,Turkey,Italy,24,23
+2019,4,2019-06-14,Portugal,Serbia,25,25
+2019,4,2019-06-14,Montenegro,Croatia,32,31
+2019,4,2019-06-13,Iceland,Lithuania,34,31
+2019,4,2019-06-13,Austria,Belarus,31,26
+2019,4,2019-06-13,Sweden,Netherlands,26,20
+2019,4,2019-06-13,Hungary,Slovenia,22,26
+2019,4,2019-06-13,Romania,North Macedonia,26,25
+2019,4,2019-06-12,Switzerland,Norway,33,30
+2019,4,2019-06-12,Russia,Czech Republic,29,21
+2019,4,2019-06-10,North Macedonia,Romania,32,24
+2019,4,2019-06-10,Serbia,Portugal,28,21
+2019,4,2019-06-10,Belarus,Austria,28,28
+2019,4,2019-06-09,Croatia,Montenegro,32,19
+2019,4,2019-06-09,Slovenia,Hungary,24,29
+2019,4,2019-06-09,Norway,Switzerland,32,26
+2019,4,2019-06-09,Netherlands,Sweden,25,24
+2019,4,2019-06-08,Czech Republic,Russia,27,26
+2019,4,2019-06-08,Lithuania,Iceland,27,27
+2019,2,2019-03-09,Germany,Switzerland,27,29
+2019,4,2019-01-27,Norway,Denmark,22,31
+2019,4,2019-01-27,Germany,France,25,26
+2019,4,2019-01-26,Croatia,Sweden,28,34
+2019,4,2019-01-26,Spain,Egypt,36,31
+2019,4,2019-01-25,Germany,Norway,25,31
+2019,4,2019-01-25,Denmark,France,38,30
+2019,4,2019-01-23,Denmark,Sweden,30,26
+2019,4,2019-01-23,Germany,Spain,31,30
+2019,4,2019-01-23,France,Croatia,20,23
+2019,4,2019-01-23,Norway,Hungary,35,26
+2019,4,2019-01-23,Brazil,Iceland,32,29
+2019,4,2019-01-23,Tunisia,Egypt,23,30
+2019,4,2019-01-21,Croatia,Germany,21,22
+2019,4,2019-01-21,Egypt,Denmark,20,26
+2019,4,2019-01-21,Spain,Brazil,36,24
+2019,4,2019-01-21,Sweden,Norway,27,30
+2019,4,2019-01-20,Iceland,France,22,31
+2019,4,2019-01-20,Norway,Egypt,32,28
+2019,4,2019-01-20,Serbia,Argentina,28,30
+2019,4,2019-01-20,Brazil,Croatia,29,26
+2019,4,2019-01-20,Hungary,Tunisia,26,21
+2019,4,2019-01-20,Bahrain,Austria,27,29
+2019,4,2019-01-20,Russia,Qatar,28,34
+2019,4,2019-01-20,North Macedonia,Chile,32,30
+2019,4,2019-01-19,Denmark,Hungary,25,22
+2019,4,2019-01-19,Germany,Iceland,24,19
+2019,4,2019-01-19,Austria,Argentina,22,24
+2019,4,2019-01-19,France,Spain,33,30
+2019,4,2019-01-19,Tunisia,Sweden,23,35
+2019,4,2019-01-19,Serbia,Bahrain,32,27
+2019,4,2019-01-19,Chile,Qatar,27,37
+2019,4,2019-01-19,Russia,North Macedonia,30,28
+2019,4,2019-01-17,France,Russia,23,22
+2019,4,2019-01-17,Spain,Croatia,19,23
+2019,4,2019-01-17,Sweden,Hungary,33,30
+2019,4,2019-01-17,Denmark,Norway,30,26
+2019,4,2019-01-17,Germany,Serbia,31,23
+2019,4,2019-01-17,North Macedonia,Iceland,22,24
+2019,4,2019-01-17,Qatar,Argentina,26,25
+2019,4,2019-01-17,Austria,Tunisia,27,32
+2019,4,2019-01-17,Bahrain,Japan,23,22
+2019,4,2019-01-17,Chile,Saudi Arabia,32,27
+2019,4,2019-01-16,North Macedonia,Spain,21,32
+2019,4,2019-01-16,Qatar,Sweden,22,23
+2019,4,2019-01-16,Croatia,Bahrain,32,20
+2019,4,2019-01-16,Hungary,Egypt,30,30
+2019,4,2019-01-16,Japan,Iceland,21,25
+2019,4,2019-01-15,Austria,Denmark,17,28
+2019,4,2019-01-15,Germany,France,25,25
+2019,4,2019-01-15,Norway,Chile,41,20
+2019,4,2019-01-15,Saudi Arabia,Tunisia,20,24
+2019,4,2019-01-15,Russia,Brazil,23,25
+2019,4,2019-01-14,Spain,Japan,26,22
+2019,4,2019-01-14,Denmark,Saudi Arabia,34,22
+2019,4,2019-01-14,Argentina,Egypt,20,22
+2019,4,2019-01-14,Croatia,North Macedonia,31,22
+2019,4,2019-01-14,Russia,Germany,22,22
+2019,4,2019-01-14,Norway,Austria,34,24
+2019,4,2019-01-14,Hungary,Qatar,32,26
+2019,4,2019-01-14,Iceland,Bahrain,36,18
+2019,4,2019-01-14,Serbia,Brazil,22,24
+2019,4,2019-01-14,Tunisia,Chile,36,30
+2019,4,2019-01-14,Portugal,Poland,27,27
+2019,4,2019-01-14,Luxembourg,Slovakia,28,27
+2019,4,2019-01-14,Lithuania,Latvia,29,27
+2019,4,2019-01-14,Israel,Georgia,23,23
+2019,4,2019-01-14,Netherlands,Belgium,33,30
+2019,4,2019-01-14,Turkey,Greece,24,23
+2019,2,2019-01-13,Slovakia,Romania,27,20
+2019,4,2019-01-13,Sweden,Argentina,31,16
+2019,4,2019-01-13,Spain,Iceland,32,25
+2019,4,2019-01-13,Croatia,Japan,35,27
+2019,4,2019-01-13,Qatar,Egypt,28,23
+2019,4,2019-01-13,North Macedonia,Bahrain,28,23
+2019,4,2019-01-13,Italy,Faroe Islands,29,18
+2019,4,2019-01-13,Bosnia & Herzegovina,Switzerland,21,15
+2019,4,2019-01-13,Kosovo,Portugal,22,36
+2019,4,2019-01-13,Romania,Ukraine,26,26
+2019,4,2019-01-13,Georgia,Lithuania,20,24
+2019,4,2019-01-13,Israel,Latvia,28,29
+2019,4,2019-01-13,Russia,Finland,36,26
+2019,2,2019-01-12,Slovakia,Romania,23,22
+2019,2,2019-01-12,Switzerland,Poland,32,28
+2019,4,2019-01-12,France,Serbia,32,21
+2019,4,2019-01-12,Denmark,Tunisia,36,22
+2019,4,2019-01-12,Germany,Brazil,34,21
+2019,4,2019-01-12,Norway,Saudi Arabia,40,21
+2019,4,2019-01-12,Austria,Chile,24,32
+2019,4,2019-01-12,Italy,Ukraine,29,28
+2019,4,2019-01-12,Poland,Kosovo,30,19
+2019,4,2019-01-12,Lithuania,Israel,36,20
+2019,4,2019-01-12,Faroe Islands,Romania,20,28
+2019,4,2019-01-12,Latvia,Georgia,24,21
+2019,2,2019-01-11,Romania,Netherlands,30,27
+2019,2,2019-01-11,Switzerland,Poland,29,27
+2019,4,2019-01-11,Bahrain,Spain,23,33
+2019,4,2019-01-11,Brazil,France,22,24
+2019,4,2019-01-11,Egypt,Sweden,24,27
+2019,4,2019-01-11,Tunisia,Norway,24,34
+2019,4,2019-01-11,Argentina,Hungary,25,25
+2019,4,2019-01-11,Iceland,Croatia,27,31
+2019,4,2019-01-11,Saudi Arabia,Austria,22,29
+2019,4,2019-01-11,Serbia,Russia,30,30
+2019,4,2019-01-11,Japan,North Macedonia,29,38
+2019,4,2019-01-11,Romania,Italy,34,24
+2019,4,2019-01-11,Slovakia,Russia,26,32
+2019,4,2019-01-11,Greece,Netherlands,23,28
+2019,4,2019-01-11,Finland,Luxembourg,30,25
+2019,4,2019-01-11,Ukraine,Faroe Islands,30,22
+2019,2,2019-01-10,Slovakia,Netherlands,29,27
+2019,4,2019-01-10,Chile,Denmark,16,39
+2019,4,2019-01-10,Belgium,Turkey,27,21
+2019,4,2019-01-10,Switzerland,Bosnia & Herzegovina,21,24
+2019,2,2019-01-08,Israel,USA,34,25
+2019,2,2019-01-08,Czech Republic,Argentina,26,26
+2019,2,2019-01-07,France,Slovenia,29,21
+2019,4,2019-01-07,Switzerland,Estonia,39,21
+2019,4,2019-01-07,Greece,Belgium,24,26
+2019,4,2019-01-07,Slovakia,Finland,24,16
+2019,4,2019-01-07,Netherlands,Turkey,26,19
+2019,2,2019-01-06,Norway,Brazil,30,26
+2019,2,2019-01-06,Sweden,Russia,29,29
+2019,2,2019-01-06,Denmark,Hungary,25,28
+2019,2,2019-01-06,Iceland,Netherlands,27,23
+2019,2,2019-01-06,Switzerland,Tunisia,28,30
+2019,2,2019-01-06,Austria,Greece,32,25
+2019,2,2019-01-06,Germany,Argentina,28,13
+2019,2,2019-01-06,Japan,Portugal,25,27
+2019,4,2019-01-06,Russia,Luxembourg,28,17
+2019,2,2019-01-05,Italy,Croatia,20,28
+2019,2,2019-01-05,Switzerland,Portugal,28,25
+2019,2,2019-01-05,Norway,Netherlands,36,29
+2019,2,2019-01-05,Bahrain,Greece,27,19
+2019,2,2019-01-05,France,Slovenia,34,25
+2019,2,2019-01-05,Spain,Belarus,40,29
+2019,2,2019-01-05,Sweden,Russia,29,18
+2019,2,2019-01-05,Tunisia,Japan,34,31
+2019,2,2019-01-05,Brazil,Iceland,29,33
+2019,2,2019-01-05,North Macedonia,Serbia,28,27
+2019,2,2019-01-05,Poland,Saudi Arabia,28,19
+2019,2,2019-01-04,Switzerland,Japan,28,28
+2019,2,2019-01-04,Austria,Bahrain,31,22
+2019,2,2019-01-04,Croatia,Montenegro,34,22
+2019,2,2019-01-04,North Macedonia,Serbia,37,31
+2019,2,2019-01-04,Spain,Poland,34,28
+2019,2,2019-01-04,Portugal,Tunisia,28,31
+2019,2,2019-01-04,Saudi Arabia,Belarus,23,36
+2019,2,2019-01-04,Germany,Czech Republic,32,24
+2019,4,2019-01-04,Belgium,Greece,33,28
+2019,4,2019-01-04,Finland,Slovakia,22,27
+2019,4,2019-01-04,Turkey,Netherlands,30,27
+2019,2,2019-01-03,Netherlands,Brazil,32,35
+2019,2,2019-01-03,Denmark,Hungary,33,19
+2019,2,2019-01-03,Spain,Saudi Arabia,42,25
+2019,2,2019-01-03,Norway,Iceland,31,25
+2019,2,2019-01-03,Belarus,Poland,30,28
+2019,2,2019-01-03,Italy,Montenegro,24,32
+2019,4,2019-01-03,Luxembourg,Russia,19,27
+2019,4,2019-01-03,Estonia,Switzerland,22,26
+2018,2,2018-12-30,Serbia,Tunisia,29,25
+2018,2,2018-12-29,Poland,Romania,30,29
+2018,2,2018-12-29,Czech Republic,Japan,25,27
+2018,2,2018-12-29,Latvia,Egypt,24,38
+2018,2,2018-12-29,Belgium,Ukraine,28,23
+2018,2,2018-12-28,Czech Republic,Romania,26,27
+2018,2,2018-12-28,Latvia,Ukraine,26,33
+2018,2,2018-12-28,Poland,Japan,29,28
+2018,2,2018-12-28,Egypt,Belgium,28,19
+2018,2,2018-12-27,Latvia,Belgium,18,28
+2018,2,2018-12-27,Ukraine,Egypt,24,25
+2018,2,2018-12-12,Germany,Poland,35,23
+2018,1,2018-11-06,Bosnia & Herzegovina,Austria,22,23
+2018,1,2018-11-06,Montenegro,Russia,24,24
+2018,1,2018-11-06,Romania,Poland,28,23
+2018,1,2018-11-06,Lithuania,Norway,32,29
+2018,1,2018-11-06,Serbia,Belarus,27,36
+2018,1,2018-11-06,Latvia,Denmark,23,36
+2018,1,2018-11-06,Portugal,Slovenia,26,26
+2018,1,2018-11-06,Belgium,France,37,38
+2018,1,2018-11-06,Netherlands,Hungary,27,28
+2018,1,2018-11-05,Slovakia,Sweden,17,21
+2018,1,2018-11-05,Switzerland,Germany,22,23
+2018,1,2018-11-05,Ukraine,Iceland,27,25
+2018,1,2018-11-05,Czech Republic,North Macedonia,35,28
+2018,1,2018-11-05,Finland,Spain,21,36
+2018,1,2018-11-03,Denmark,Netherlands,29,20
+2018,1,2018-11-03,Poland,Serbia,32,37
+2018,1,2018-11-03,Sweden,Montenegro,36,21
+2018,1,2018-11-03,France,Lithuania,37,20
+2018,1,2018-11-02,Iceland,Czech Republic,25,24
+2018,1,2018-11-02,Spain,Bosnia & Herzegovina,30,21
+2018,1,2018-11-02,Austria,Finland,27,31
+2018,1,2018-11-02,Germany,Portugal,35,24
+2018,1,2018-11-02,Norway,Belgium,35,26
+2018,1,2018-11-02,North Macedonia,Ukraine,27,21
+2018,1,2018-11-02,Hungary,Latvia,24,16
+2018,1,2018-11-02,Slovenia,Switzerland,32,27
+2018,1,2018-11-02,Russia,Slovakia,31,31
+2018,1,2018-11-02,Belarus,Romania,23,26
+2018,1,2018-11-02,Georgia,Estonia,29,27
+2018,1,2018-11-01,Kosovo,Romania,16,30
+2018,1,2018-10-29,Estonia,Georgia,28,26
+2018,1,2018-10-29,Romania,Kosovo,36,24
+2018,2,2018-10-27,Sweden,Japan,32,24
+2018,2,2018-10-25,Sweden,Japan,32,24
+2018,2,2018-10-07,Finland,Faroe Islands,27,25
+2018,2,2018-10-06,Finland,Faroe Islands,29,24
+2018,2,2018-06-30,Japan,Brazil,29,31
+2018,2,2018-06-29,Japan,Brazil,31,32
+2018,2,2018-06-20,Netherlands,Bahrain,32,21
+2018,1,2018-06-18,Iceland,Ukraine,34,26
+2018,1,2018-06-18,North Macedonia,Czech Republic,33,20
+2018,1,2018-06-18,Denmark,Latvia,33,16
+2018,1,2018-06-18,Hungary,Netherlands,35,30
+2018,1,2018-06-18,Belarus,Serbia,27,27
+2018,1,2018-06-18,Germany,Switzerland,29,22
+2018,1,2018-06-18,Poland,Romania,32,31
+2018,1,2018-06-17,Austria,Bosnia & Herzegovina,34,32
+2018,1,2018-06-17,Slovenia,Portugal,28,18
+2018,1,2018-06-17,France,Belgium,32,28
+2018,1,2018-06-17,Norway,Lithuania,30,20
+2018,1,2018-06-17,Spain,Finland,46,16
+2018,1,2018-06-17,Sweden,Slovakia,31,17
+2018,1,2018-06-17,Russia,Montenegro,27,27
+2018,2,2018-06-17,Netherlands,Bahrain,34,24
+2018,2,2018-06-16,Japan,Germany,22,31
+2018,1,2018-06-15,Latvia,Hungary,23,35
+2018,1,2018-06-15,Romania,Belarus,22,32
+2018,1,2018-06-15,Ukraine,North Macedonia,27,27
+2018,1,2018-06-14,Serbia,Poland,34,34
+2018,1,2018-06-14,Belgium,Norway,27,43
+2018,1,2018-06-14,Portugal,Germany,26,29
+2018,1,2018-06-14,Switzerland,Slovenia,20,33
+2018,1,2018-06-14,Montenegro,Sweden,28,24
+2018,1,2018-06-14,Slovakia,Russia,24,25
+2018,1,2018-06-14,Netherlands,Denmark,24,36
+2018,1,2018-06-14,Czech Republic,Iceland,27,24
+2018,1,2018-06-14,Bosnia & Herzegovina,Spain,19,25
+2018,1,2018-06-14,Lithuania,France,25,26
+2018,1,2018-06-14,Finland,Austria,36,39
+2018,1,2018-06-14,Greece,Belgium,29,25
+2018,1,2018-06-14,Romania,Italy,44,25
+2018,2,2018-06-14,France,Denmark,29,29
+2018,1,2018-06-13,Estonia,Luxembourg,26,29
+2018,2,2018-06-13,Poland,Spain,30,31
+2018,2,2018-06-13,Japan,Germany,24,37
+2018,1,2018-06-10,Italy,Romania,22,28
+2018,1,2018-06-10,Belgium,Greece,30,25
+2018,1,2018-06-10,Luxembourg,Estonia,26,31
+2018,2,2018-06-10,France,Denmark,30,23
+2018,2,2018-06-09,Israel,Slovakia,30,36
+2018,2,2018-06-08,Israel,Slovakia,27,32
+2018,2,2018-06-06,Germany,Norway,25,30
+2018,2,2018-06-05,Denmark,Switzerland,29,22
+2018,2,2018-06-04,Belarus,Lithuania,38,36
+2018,2,2018-06-03,Belarus,Lithuania,28,32
+2018,1,2018-05-07,Iceland,North Macedonia,30,29
+2018,1,2018-05-07,Denmark,Hungary,35,27
+2018,1,2018-05-07,Bosnia & Herzegovina,Finland,34,23
+2018,1,2018-05-07,Serbia,Romania,27,22
+2018,1,2018-05-07,Poland,Belarus,27,27
+2018,1,2018-05-07,Lithuania,Belgium,33,28
+2018,1,2018-05-07,Portugal,Switzerland,27,22
+2018,1,2018-05-07,Netherlands,Latvia,25,24
+2018,1,2018-05-06,Montenegro,Slovakia,31,30
+2018,1,2018-05-06,Spain,Austria,35,24
+2018,1,2018-05-06,France,Norway,28,24
+2018,1,2018-05-06,Sweden,Russia,25,21
+2018,1,2018-05-06,Germany,Slovenia,25,20
+2018,1,2018-05-06,Czech Republic,Ukraine,32,25
+2018,1,2018-05-04,Hungary,Denmark,25,25
+2018,1,2018-05-04,North Macedonia,Iceland,30,25
+2018,1,2018-05-04,Romania,Serbia,22,23
+2018,1,2018-05-04,Switzerland,Portugal,25,27
+2018,1,2018-05-04,Finland,Bosnia & Herzegovina,27,32
+2018,1,2018-05-04,Belarus,Poland,32,23
+2018,1,2018-05-03,Belgium,Lithuania,29,33
+2018,1,2018-05-03,Austria,Spain,29,30
+2018,1,2018-05-03,Slovenia,Germany,23,32
+2018,1,2018-05-03,Latvia,Netherlands,27,29
+2018,1,2018-05-03,Norway,France,35,30
+2018,1,2018-05-03,Slovakia,Montenegro,27,27
+2018,1,2018-05-03,Russia,Sweden,21,29
+2018,1,2018-05-03,Ukraine,Czech Republic,26,23
+2018,1,2018-05-03,Italy,Kosovo,35,26
+2018,1,2018-05-03,Luxembourg,Georgia,29,20
+2018,1,2018-04-30,Georgia,Luxembourg,17,16
+2018,1,2018-04-29,Kosovo,Italy,22,29
+2018,1,2018-04-10,Romania,Israel,32,21
+2018,1,2018-04-09,Belgium,Turkey,29,22
+2018,1,2018-04-09,Finland,Luxembourg,27,29
+2018,2,2018-04-08,Slovenia,Belarus,27,23
+2018,2,2018-04-08,Hungary,Brazil,30,22
+2018,1,2018-04-07,Luxembourg,Finland,23,28
+2018,2,2018-04-07,Spain,Tunisia,33,18
+2018,2,2018-04-07,Slovenia,Belarus,35,29
+2018,2,2018-04-07,Brazil,Austria,29,27
+2018,2,2018-04-07,Sweden,Croatia,28,29
+2018,2,2018-04-07,Germany,Serbia,29,23
+2018,2,2018-04-07,Czech Republic,Poland,36,37
+2018,2,2018-04-07,North Macedonia,Russia,27,32
+2018,1,2018-04-06,Israel,Romania,27,30
+2018,1,2018-04-06,Turkey,Belgium,28,37
+2018,2,2018-04-06,Portugal,Switzerland,22,23
+2018,2,2018-04-06,Hungary,Austria,33,22
+2018,2,2018-04-06,Finland,Georgia,19,21
+2018,2,2018-04-05,Netherlands,Japan,28,23
+2018,2,2018-04-05,Sweden,Croatia,32,25
+2018,2,2018-04-05,Poland,Czech Republic,21,25
+2018,2,2018-04-05,Italy,Finland,35,28
+2018,2,2018-04-04,Portugal,Switzerland,27,28
+2018,2,2018-04-04,Germany,Serbia,26,19
+2018,1,2018-01-28,Spain,Sweden,29,23
+2018,1,2018-01-28,France,Denmark,32,29
+2018,1,2018-01-26,Denmark,Sweden,34,35
+2018,1,2018-01-26,France,Spain,23,27
+2018,1,2018-01-26,Croatia,Czech Republic,28,27
+2018,1,2018-01-24,Croatia,France,27,30
+2018,1,2018-01-24,Germany,Spain,27,31
+2018,1,2018-01-24,North Macedonia,Denmark,20,31
+2018,1,2018-01-24,Sweden,Norway,25,28
+2018,1,2018-01-24,Serbia,Belarus,27,32
+2018,1,2018-01-24,Slovenia,Czech Republic,26,26
+2018,1,2018-01-23,North Macedonia,Czech Republic,24,25
+2018,1,2018-01-23,Slovenia,Spain,31,26
+2018,1,2018-01-22,Sweden,Belarus,29,20
+2018,1,2018-01-22,Serbia,France,30,39
+2018,1,2018-01-21,North Macedonia,Spain,20,31
+2018,1,2018-01-21,Germany,Denmark,25,26
+2018,1,2018-01-20,Croatia,Norway,32,28
+2018,1,2018-01-20,Sweden,France,17,23
+2018,1,2018-01-19,Slovenia,Denmark,28,31
+2018,1,2018-01-19,Germany,Czech Republic,22,19
+2018,1,2018-01-18,Croatia,Belarus,25,23
+2018,1,2018-01-18,Serbia,Norway,27,32
+2018,1,2018-01-17,Montenegro,Slovenia,19,28
+2018,1,2018-01-17,Spain,Denmark,22,25
+2018,1,2018-01-17,Czech Republic,Hungary,33,27
+2018,1,2018-01-17,Germany,North Macedonia,25,25
+2018,1,2018-01-16,Croatia,Sweden,31,35
+2018,1,2018-01-16,Norway,Austria,39,28
+2018,1,2018-01-16,France,Belarus,32,25
+2018,1,2018-01-16,Serbia,Iceland,29,26
+2018,1,2018-01-15,Czech Republic,Denmark,28,27
+2018,1,2018-01-15,Montenegro,North Macedonia,28,29
+2018,1,2018-01-15,Hungary,Spain,25,27
+2018,1,2018-01-15,Slovenia,Germany,25,25
+2018,1,2018-01-14,Iceland,Croatia,22,29
+2018,1,2018-01-14,Norway,Belarus,33,28
+2018,1,2018-01-14,Austria,France,26,33
+2018,1,2018-01-14,Serbia,Sweden,25,30
+2018,1,2018-01-13,Denmark,Hungary,32,25
+2018,1,2018-01-13,North Macedonia,Slovenia,25,24
+2018,1,2018-01-13,Spain,Czech Republic,32,15
+2018,1,2018-01-13,Germany,Montenegro,32,19
+2018,1,2018-01-12,Croatia,Serbia,32,22
+2018,1,2018-01-12,France,Norway,32,31
+2018,1,2018-01-12,Belarus,Austria,27,26
+2018,1,2018-01-12,Sweden,Iceland,24,26
+2018,2,2018-01-10,Slovenia,Serbia,33,25
+2018,2,2018-01-10,Iran,Algeria,31,28
+2018,2,2018-01-09,Slovenia,Serbia,36,32
+2018,2,2018-01-09,Portugal,Argentina,30,25
+2018,2,2018-01-09,Qatar,Iran,33,28
+2018,2,2018-01-08,Sweden,Hungary,31,29
+2018,2,2018-01-07,Spain,Poland,37,22
+2018,2,2018-01-07,Belarus,Argentina,29,22
+2018,2,2018-01-07,Czech Republic,Austria,35,21
+2018,2,2018-01-07,Germany,Iceland,30,21
+2018,2,2018-01-06,Spain,Argentina,31,28
+2018,2,2018-01-06,Portugal,Romania,23,26
+2018,2,2018-01-06,Poland,Belarus,28,27
+2018,2,2018-01-06,Tunisia,Bahrain,24,25
+2018,2,2018-01-06,Bosnia & Herzegovina,Saudi Arabia,22,27
+2018,2,2018-01-06,Sweden,Hungary,29,29
+2018,2,2018-01-06,Cuba,Algeria,20,32
+2018,2,2018-01-05,Croatia,Montenegro,25,22
+2018,2,2018-01-05,Austria,Czech Republic,23,26
+2018,2,2018-01-05,Romania,Bahrain,29,20
+2018,2,2018-01-05,Spain,Belarus,35,30
+2018,2,2018-01-05,Germany,Iceland,36,29
+2018,2,2018-01-05,Bosnia & Herzegovina,Saudi Arabia,29,26
+2018,2,2018-01-05,Serbia,North Macedonia,29,32
+2018,2,2018-01-05,Portugal,Tunisia,33,29
+2018,2,2018-01-05,Argentina,Poland,29,24
+2018,2,2018-01-05,Qatar,Algeria,40,21
+2018,2,2018-01-04,Slovenia,Iran,31,19
+2018,2,2018-01-04,Qatar,Cuba,48,16
+2018,2,2018-01-03,Iceland,Japan,42,25
+2017,2,2017-12-30,Serbia,Romania,21,28
+2017,2,2017-12-30,Switzerland,Russia,29,30
+2017,2,2017-12-29,Romania,Russia,18,25
+2017,2,2017-12-29,Greece,Italy,28,27
+2017,2,2017-12-29,Poland,Belarus,26,22
+2017,2,2017-12-29,Switzerland,Serbia,32,28
+2017,2,2017-12-29,Czech Republic,Slovakia,34,20
+2017,2,2017-12-29,Japan,Bahrain,22,37
+2017,2,2017-12-29,Latvia,Egypt,26,26
+2017,2,2017-12-29,Estonia,Netherlands,21,37
+2017,2,2017-12-28,Poland,Bahrain,26,18
+2017,2,2017-12-28,Latvia,Estonia,25,22
+2017,2,2017-12-28,Greece,Italy,27,27
+2017,2,2017-12-28,Japan,Belarus,27,31
+2017,2,2017-12-28,Slovakia,Czech Republic,27,27
+2017,2,2017-12-28,Netherlands,Egypt,21,24
+2017,2,2017-12-27,Latvia,Netherlands,24,29
+2017,2,2017-12-27,Egypt,Estonia,31,22
+2017,4,2017-11-08,Lithuania,Bosnia & Herzegovina,27,27
+2017,4,2017-11-08,Romania,Italy,35,22
+2017,4,2017-11-08,Ukraine,Latvia,18,23
+2017,4,2017-11-07,Belgium,Czech Republic,32,36
+2017,4,2017-11-07,Luxembourg,Netherlands,30,34
+2017,4,2017-11-07,Portugal,Israel,36,21
+2017,4,2017-11-07,Slovakia,Kosovo,38,20
+2017,4,2017-11-07,Estonia,Georgia,25,25
+2017,4,2017-11-07,Finland,Austria,29,32
+2017,4,2017-11-06,Georgia,Portugal,22,37
+2017,4,2017-11-06,Estonia,Israel,25,28
+2017,4,2017-11-05,Israel,Georgia,27,19
+2017,4,2017-11-05,Portugal,Estonia,28,28
+2017,4,2017-11-04,Austria,Romania,27,24
+2017,4,2017-11-04,Bosnia & Herzegovina,Slovakia,29,25
+2017,4,2017-11-04,Italy,Finland,27,19
+2017,4,2017-11-04,Netherlands,Luxembourg,26,20
+2017,4,2017-11-04,Kosovo,Lithuania,26,30
+2017,4,2017-11-04,Latvia,Greece,31,22
+2017,4,2017-11-04,Czech Republic,Belgium,34,32
+2017,2,2017-10-29,Germany,Spain,28,24
+2017,2,2017-10-28,Austria,Serbia,38,38
+2017,2,2017-10-28,Croatia,Slovenia,21,20
+2017,2,2017-10-28,Montenegro,Czech Republic,23,22
+2017,2,2017-10-28,Israel,Ukraine,30,29
+2017,2,2017-10-28,Belarus,Switzerland,34,23
+2017,2,2017-10-28,Iceland,Sweden,24,27
+2017,2,2017-10-28,Germany,Spain,24,26
+2017,2,2017-10-27,Portugal,Romania,27,22
+2017,2,2017-10-27,Montenegro,Czech Republic,26,28
+2017,2,2017-10-27,Belarus,Switzerland,36,31
+2017,2,2017-10-27,Israel,Ukraine,24,28
+2017,2,2017-10-26,Iceland,Sweden,31,29
+2017,2,2017-10-26,Austria,Serbia,32,34
+2017,2,2017-10-26,Israel,Ukraine,25,25
+2017,2,2017-10-26,Slovenia,Croatia,26,26
+2017,2,2017-10-25,Portugal,Romania,29,24
+2017,2,2017-08-14,Tunisia,Iran,30,23
+2017,4,2017-06-16,Portugal,Iceland,21,20
+2017,4,2017-06-15,Austria,Denmark,20,23
+2017,4,2017-06-15,Bosnia & Herzegovina,Sweden,27,27
+2017,4,2017-06-15,Hungary,Serbia,30,25
+2017,4,2017-06-15,North Macedonia,Czech Republic,34,27
+2017,4,2017-06-15,Netherlands,Poland,25,24
+2017,4,2017-06-15,Norway,Slovenia,29,27
+2017,4,2017-06-15,Latvia,Belarus,28,26
+2017,4,2017-06-15,Montenegro,Russia,19,29
+2017,4,2017-06-12,Denmark,Austria,35,27
+2017,4,2017-06-12,Iceland,Portugal,26,23
+2017,4,2017-06-12,Belarus,Latvia,26,24
+2017,4,2017-06-12,Russia,Montenegro,29,22
+2017,4,2017-06-12,Sweden,Bosnia & Herzegovina,27,19
+2017,2,2017-06-11,Norway,Poland,41,22
+2017,2,2017-06-11,Sweden,Iceland,23,23
+2017,4,2017-06-11,Poland,Netherlands,27,21
+2017,4,2017-06-11,Slovenia,Norway,24,18
+2017,4,2017-06-11,Czech Republic,North Macedonia,28,22
+2017,2,2017-06-10,Lithuania,Latvia,36,23
+2017,4,2017-06-10,Serbia,Hungary,25,26
+2017,2,2017-06-09,Norway,Sweden,22,21
+2017,2,2017-06-09,Slovenia,Montenegro,33,24
+2017,2,2017-06-09,Iceland,Poland,24,21
+2017,2,2017-06-09,Lithuania,Latvia,40,30
+2017,2,2017-06-09,Belarus,Ukraine,24,21
+2017,2,2017-06-08,Norway,Iceland,36,30
+2017,2,2017-06-08,Slovenia,Montenegro,38,24
+2017,2,2017-06-08,Poland,Sweden,27,33
+2017,2,2017-06-08,Belarus,Ukraine,31,32
+2017,2,2017-03-19,Germany,Sweden,25,25
+2017,2,2017-03-19,Switzerland,Belarus,31,31
+2017,2,2017-03-18,Switzerland,Belarus,32,28
+2017,2,2017-03-18,Sweden,Germany,27,25
+2017,4,2017-01-29,France,Norway,33,26
+2017,4,2017-01-28,Slovenia,Croatia,31,30
+2017,4,2017-01-27,Croatia,Norway,25,28
+2017,4,2017-01-26,France,Slovenia,31,25
+2017,4,2017-01-24,Slovenia,Qatar,32,30
+2017,4,2017-01-24,Spain,Croatia,29,30
+2017,4,2017-01-24,France,Sweden,33,30
+2017,4,2017-01-24,Norway,Hungary,31,28
+2017,4,2017-01-23,Poland,Argentina,24,22
+2017,4,2017-01-23,Tunisia,Saudi Arabia,39,30
+2017,4,2017-01-23,Japan,Chile,29,35
+2017,4,2017-01-22,Croatia,Egypt,21,19
+2017,4,2017-01-22,Germany,Qatar,20,21
+2017,4,2017-01-22,Belarus,Sweden,22,41
+2017,4,2017-01-22,Hungary,Denmark,27,25
+2017,4,2017-01-22,Saudi Arabia,Argentina,22,24
+2017,4,2017-01-22,Chile,Bahrain,35,30
+2017,4,2017-01-21,Brazil,Spain,27,28
+2017,4,2017-01-21,Russia,Slovenia,26,32
+2017,4,2017-01-21,France,Iceland,31,25
+2017,4,2017-01-21,Norway,North Macedonia,34,24
+2017,4,2017-01-21,Poland,Tunisia,28,26
+2017,4,2017-01-20,Belarus,Hungary,27,25
+2017,4,2017-01-20,Qatar,Denmark,29,32
+2017,4,2017-01-20,Germany,Croatia,28,21
+2017,4,2017-01-20,Sweden,Egypt,33,26
+2017,4,2017-01-20,Bahrain,Argentina,17,26
+2017,4,2017-01-20,Chile,Saudi Arabia,25,26
+2017,4,2017-01-19,Japan,Norway,23,38
+2017,4,2017-01-19,Spain,Slovenia,36,26
+2017,4,2017-01-19,France,Poland,26,25
+2017,4,2017-01-19,North Macedonia,Iceland,27,27
+2017,4,2017-01-19,Russia,Brazil,28,24
+2017,4,2017-01-18,Croatia,Chile,37,22
+2017,4,2017-01-18,North Macedonia,Spain,25,29
+2017,4,2017-01-18,Sweden,Qatar,36,25
+2017,4,2017-01-18,Belarus,Germany,25,31
+2017,4,2017-01-18,Denmark,Bahrain,30,26
+2017,4,2017-01-18,Argentina,Egypt,26,31
+2017,4,2017-01-18,Saudi Arabia,Hungary,24,37
+2017,4,2017-01-17,Russia,France,24,35
+2017,4,2017-01-17,Germany,Saudi Arabia,38,24
+2017,4,2017-01-17,Poland,Japan,26,25
+2017,4,2017-01-17,Qatar,Argentina,21,17
+2017,4,2017-01-17,Slovenia,Tunisia,28,28
+2017,4,2017-01-17,Norway,Brazil,39,26
+2017,4,2017-01-17,Bosnia & Herzegovina,Lithuania,31,22
+2017,4,2017-01-17,Kosovo,Slovakia,22,26
+2017,4,2017-01-17,Austria,Finland,32,20
+2017,4,2017-01-17,Latvia,Ukraine,22,21
+2017,4,2017-01-17,Netherlands,Switzerland,34,21
+2017,4,2017-01-16,Croatia,Belarus,31,25
+2017,4,2017-01-16,Denmark,Sweden,27,25
+2017,4,2017-01-16,Poland,Russia,20,24
+2017,4,2017-01-16,Egypt,Bahrain,31,29
+2017,4,2017-01-16,Hungary,Chile,34,29
+2017,4,2017-01-16,Slovenia,North Macedonia,29,22
+2017,4,2017-01-16,Czech Republic,Turkey,34,28
+2017,4,2017-01-16,Italy,Romania,28,30
+2017,2,2017-01-15,Finland,Netherlands,23,35
+2017,4,2017-01-15,Brazil,Japan,27,24
+2017,4,2017-01-15,Saudi Arabia,Belarus,26,29
+2017,4,2017-01-15,Bahrain,Qatar,22,32
+2017,4,2017-01-15,France,Norway,31,28
+2017,4,2017-01-15,Argentina,Sweden,17,35
+2017,4,2017-01-15,Chile,Germany,14,35
+2017,4,2017-01-15,Iceland,Tunisia,22,22
+2017,2,2017-01-14,Finland,Netherlands,28,28
+2017,2,2017-01-14,Austria,Switzerland,31,29
+2017,4,2017-01-14,Egypt,Denmark,28,35
+2017,4,2017-01-14,Hungary,Croatia,28,31
+2017,4,2017-01-14,Norway,Russia,28,24
+2017,4,2017-01-14,Tunisia,Spain,21,26
+2017,4,2017-01-14,Brazil,Poland,28,24
+2017,4,2017-01-14,Iceland,Slovenia,25,26
+2017,4,2017-01-14,Romania,Austria,32,29
+2017,2,2017-01-13,Finland,Netherlands,17,34
+2017,2,2017-01-13,Czech Republic,Switzerland,28,27
+2017,4,2017-01-13,Croatia,Saudi Arabia,28,23
+2017,4,2017-01-13,Denmark,Argentina,33,22
+2017,4,2017-01-13,Germany,Hungary,27,23
+2017,4,2017-01-13,Japan,France,19,31
+2017,4,2017-01-13,Sweden,Bahrain,33,16
+2017,4,2017-01-13,Belarus,Chile,28,32
+2017,4,2017-01-13,Qatar,Egypt,20,22
+2017,4,2017-01-13,Switzerland,Netherlands,21,24
+2017,4,2017-01-13,Lithuania,Kosovo,42,23
+2017,4,2017-01-13,Slovakia,Bosnia & Herzegovina,24,26
+2017,4,2017-01-13,Turkey,Czech Republic,27,24
+2017,4,2017-01-13,Finland,Italy,26,25
+2017,4,2017-01-13,Greece,Latvia,23,23
+2017,2,2017-01-12,Austria,Czech Republic,26,30
+2017,4,2017-01-12,Poland,Norway,20,22
+2017,4,2017-01-12,Spain,Iceland,27,21
+2017,4,2017-01-12,North Macedonia,Tunisia,34,30
+2017,4,2017-01-12,Russia,Japan,39,29
+2017,4,2017-01-11,France,Brazil,31,16
+2017,4,2017-01-10,Romania,Finland,36,29
+2017,4,2017-01-10,Turkey,Belgium,31,28
+2017,4,2017-01-10,Greece,Ukraine,21,27
+2017,2,2017-01-09,Sweden,Chile,38,21
+2017,2,2017-01-09,Germany,Austria,33,16
+2017,2,2017-01-09,Croatia,Montenegro,24,22
+2017,2,2017-01-09,Bosnia & Herzegovina,Saudi Arabia,36,35
+2017,4,2017-01-09,Austria,Italy,30,19
+2017,4,2017-01-09,Bosnia & Herzegovina,Kosovo,41,25
+2017,4,2017-01-09,Switzerland,Luxembourg,30,18
+2017,4,2017-01-09,Slovakia,Lithuania,31,27
+2017,2,2017-01-08,Denmark,Iceland,34,26
+2017,2,2017-01-08,Croatia,Tunisia,35,30
+2017,2,2017-01-08,Egypt,Hungary,26,32
+2017,2,2017-01-08,Bosnia & Herzegovina,Saudi Arabia,28,22
+2017,2,2017-01-08,France,Slovenia,33,26
+2017,2,2017-01-08,Switzerland,Brazil,27,25
+2017,2,2017-01-08,Romania,Slovakia,30,26
+2017,2,2017-01-08,Spain,Qatar,32,27
+2017,2,2017-01-08,Poland,Argentina,26,26
+2017,2,2017-01-07,Sweden,Norway,27,25
+2017,2,2017-01-07,Switzerland,Romania,25,19
+2017,2,2017-01-07,Montenegro,Tunisia,31,31
+2017,2,2017-01-07,Spain,Argentina,38,25
+2017,2,2017-01-07,Slovakia,Brazil,20,30
+2017,2,2017-01-07,Poland,Qatar,25,26
+2017,2,2017-01-07,Portugal,Austria,32,25
+2017,2,2017-01-07,Russia,Belarus,27,22
+2017,4,2017-01-07,Lithuania,Slovakia,18,18
+2017,4,2017-01-07,Ukraine,Greece,25,27
+2017,2,2017-01-06,Brazil,Romania,25,24
+2017,2,2017-01-06,Denmark,Egypt,36,26
+2017,2,2017-01-06,France,Slovenia,29,27
+2017,2,2017-01-06,Spain,Poland,30,20
+2017,2,2017-01-06,Switzerland,Slovakia,29,18
+2017,2,2017-01-06,Greece,Turkey,30,22
+2017,2,2017-01-06,Iceland,Hungary,27,30
+2017,2,2017-01-06,Argentina,Qatar,25,30
+2017,2,2017-01-06,Sweden,Norway,37,29
+2017,2,2017-01-06,Russia,Belarus,31,26
+2017,4,2017-01-06,Belgium,Turkey,24,31
+2017,4,2017-01-06,Luxembourg,Switzerland,23,36
+2017,4,2017-01-06,Kosovo,Bosnia & Herzegovina,29,33
+2017,4,2017-01-06,Italy,Austria,27,40
+2017,4,2017-01-06,Finland,Romania,21,34
+2017,2,2017-01-05,Denmark,Hungary,24,21
+2017,2,2017-01-05,Portugal,Austria,34,28
+2017,2,2017-01-05,Greece,Turkey,24,22
+2017,2,2017-01-05,Egypt,Iceland,27,30
+2017,2,2017-01-03,Germany,Romania,30,21
+2017,2,2017-01-03,North Macedonia,Bosnia & Herzegovina,28,24
+2016,2,2016-12-30,Slovenia,Saudi Arabia,31,18
+2016,2,2016-12-30,Hungary,Czech Republic,34,25
+2016,2,2016-12-30,Bahrain,Slovakia,28,26
+2016,2,2016-12-29,Hungary,Slovakia,35,26
+2016,2,2016-12-29,Czech Republic,Bahrain,28,23
+2016,2,2016-12-29,Latvia,Egypt,20,30
+2016,2,2016-12-29,Belarus,Russia,21,28
+2016,2,2016-12-28,Latvia,Russia,19,27
+2016,2,2016-12-28,Belarus,Egypt,28,27
+2016,2,2016-12-27,Latvia,Belarus,23,20
+2016,2,2016-12-27,Russia,Egypt,24,23
+2016,3,2016-11-27,Iran,Qatar,19,28
+2016,3,2016-11-26,Saudi Arabia,Japan,27,38
+2016,3,2016-11-25,Bahrain,Iran,30,35
+2016,3,2016-11-25,Iraq,Saudi Arabia,31,33
+2016,3,2016-11-22,Iran,Saudi Arabia,30,24
+2016,3,2016-11-20,Iran,Qatar,17,32
+2016,3,2016-11-19,Bahrain,Iraq,35,16
+2016,3,2016-11-18,Qatar,Saudi Arabia,29,23
+2016,3,2016-11-18,Iran,Japan,31,27
+2016,3,2016-11-16,Japan,Qatar,19,36
+2016,3,2016-11-14,Japan,Saudi Arabia,27,19
+2016,1,2016-11-03,Belgium,Estonia,24,31
+2016,1,2016-11-03,Italy,Greece,25,31
+2016,1,2016-11-02,Bosnia & Herzegovina,Denmark,23,25
+2016,1,2016-11-02,Israel,Serbia,22,26
+2016,1,2016-11-02,Austria,Germany,24,28
+2016,1,2016-11-02,Montenegro,Iceland,25,24
+2016,1,2016-11-02,Portugal,Russia,29,34
+2016,1,2016-11-02,Ukraine,Hungary,20,33
+2016,1,2016-11-02,Lithuania,Belarus,28,30
+2016,1,2016-11-02,Turkey,Croatia,22,32
+2016,1,2016-11-02,Switzerland,France,24,33
+2016,1,2016-11-02,Netherlands,Norway,22,30
+2016,1,2016-11-02,Czech Republic,North Macedonia,27,27
+2016,2,2016-11-02,Greece,Israel,30,22
+2016,1,2016-11-01,Slovakia,Sweden,23,33
+2016,1,2016-11-01,Finland,Spain,27,34
+2016,1,2016-11-01,Latvia,Slovenia,28,39
+2016,2,2016-11-01,Greece,Israel,31,23
+2016,1,2016-10-31,Finland,Luxembourg,28,21
+2016,1,2016-10-31,Greece,Great Britain,43,14
+2016,1,2016-10-30,Denmark,Lithuania,31,21
+2016,1,2016-10-30,France,Czech Republic,41,25
+2016,1,2016-10-30,Croatia,Netherlands,35,24
+2016,1,2016-10-30,Sweden,Latvia,33,23
+2016,1,2016-10-29,Hungary,Portugal,31,30
+2016,1,2016-10-29,Iceland,Israel,36,19
+2016,1,2016-10-29,Slovenia,Slovakia,31,25
+2016,1,2016-10-29,Spain,Austria,27,16
+2016,1,2016-10-29,Germany,Finland,30,18
+2016,1,2016-10-29,Serbia,Montenegro,25,21
+2016,1,2016-10-29,Norway,Turkey,36,27
+2016,1,2016-10-29,North Macedonia,Switzerland,27,20
+2016,1,2016-10-29,Belarus,Bosnia & Herzegovina,25,25
+2016,2,2016-09-07,Belarus,Switzerland,27,27
+2016,2,2016-09-06,Belarus,Switzerland,24,30
+2016,3,2016-08-21,Denmark,France,28,26
+2016,3,2016-08-21,Poland,Germany,25,31
+2016,3,2016-08-19,Poland,Denmark,28,29
+2016,3,2016-08-19,France,Germany,29,28
+2016,3,2016-08-17,Croatia,Poland,27,30
+2016,3,2016-08-17,Denmark,Slovenia,37,30
+2016,3,2016-08-17,Germany,Qatar,34,22
+2016,3,2016-08-17,Brazil,France,27,34
+2016,3,2016-08-16,Qatar,Argentina,22,18
+2016,3,2016-08-15,Croatia,Tunisia,41,26
+2016,3,2016-08-15,Sweden,Brazil,30,19
+2016,3,2016-08-15,France,Denmark,33,30
+2016,3,2016-08-15,Germany,Egypt,31,25
+2016,3,2016-08-15,Poland,Slovenia,20,25
+2016,3,2016-08-14,Argentina,Tunisia,23,21
+2016,3,2016-08-13,Sweden,Poland,24,25
+2016,3,2016-08-13,Egypt,Brazil,27,27
+2016,3,2016-08-13,Denmark,Qatar,26,25
+2016,3,2016-08-13,Croatia,France,29,28
+2016,3,2016-08-13,Slovenia,Germany,25,28
+2016,3,2016-08-12,France,Argentina,31,24
+2016,3,2016-08-11,Slovenia,Sweden,29,24
+2016,3,2016-08-11,Brazil,Germany,33,30
+2016,3,2016-08-11,Denmark,Croatia,24,27
+2016,3,2016-08-11,Poland,Egypt,33,25
+2016,3,2016-08-11,Tunisia,Qatar,25,25
+2016,3,2016-08-10,Argentina,Croatia,26,27
+2016,3,2016-08-09,Egypt,Sweden,26,25
+2016,3,2016-08-09,Brazil,Slovenia,28,31
+2016,3,2016-08-09,Tunisia,Denmark,23,31
+2016,3,2016-08-09,Germany,Poland,32,29
+2016,3,2016-08-09,Qatar,France,20,35
+2016,3,2016-08-08,Slovenia,Egypt,27,26
+2016,3,2016-08-07,France,Tunisia,25,23
+2016,3,2016-08-07,Poland,Brazil,32,34
+2016,3,2016-08-07,Denmark,Argentina,25,19
+2016,3,2016-08-07,Sweden,Germany,29,32
+2016,3,2016-08-07,Croatia,Qatar,23,30
+2016,2,2016-08-04,Slovenia,Denmark,22,21
+2016,2,2016-08-04,Argentina,Sweden,11,20
+2016,2,2016-07-29,Argentina,Egypt,25,23
+2016,2,2016-07-27,Argentina,Egypt,23,23
+2016,2,2016-07-26,Croatia,Slovenia,22,20
+2016,2,2016-07-24,Qatar,Poland,29,26
+2016,2,2016-07-24,France,Denmark,29,25
+2016,2,2016-07-24,Egypt,Germany,27,30
+2016,2,2016-07-22,Germany,Denmark,19,25
+2016,2,2016-07-22,France,Egypt,30,26
+2016,2,2016-07-22,Slovenia,Croatia,27,25
+2016,2,2016-07-22,Qatar,Poland,24,20
+2016,2,2016-07-17,Slovenia,Tunisia,39,24
+2016,2,2016-07-16,Croatia,Sweden,25,25
+2016,2,2016-07-16,Denmark,Brazil,26,26
+2016,2,2016-07-16,Slovenia,Tunisia,33,25
+2016,2,2016-07-14,Croatia,Sweden,26,24
+2016,2,2016-07-13,Germany,Tunisia,38,32
+2016,1,2016-06-16,Estonia,Belgium,32,23
+2016,1,2016-06-15,Greece,Italy,29,27
+2016,1,2016-06-14,Denmark,Bosnia & Herzegovina,26,25
+2016,1,2016-06-14,Iceland,Montenegro,34,22
+2016,1,2016-06-14,Serbia,Israel,32,23
+2016,1,2016-06-14,Norway,Netherlands,38,24
+2016,1,2016-06-14,North Macedonia,Czech Republic,32,28
+2016,1,2016-06-14,Croatia,Turkey,40,26
+2016,1,2016-06-14,Sweden,Slovakia,27,22
+2016,1,2016-06-14,Germany,Austria,31,29
+2016,1,2016-06-14,Belarus,Lithuania,31,24
+2016,1,2016-06-14,Russia,Portugal,35,33
+2016,1,2016-06-13,Slovenia,Latvia,37,20
+2016,1,2016-06-13,Spain,Finland,39,16
+2016,1,2016-06-13,Hungary,Ukraine,32,28
+2016,1,2016-06-13,France,Switzerland,31,23
+2016,1,2016-06-12,Italy,Great Britain,37,26
+2016,2,2016-06-12,Slovakia,Switzerland,29,25
+2016,1,2016-06-11,Bosnia & Herzegovina,Belarus,22,22
+2016,1,2016-06-11,Ukraine,Russia,28,30
+2016,2,2016-06-11,Slovakia,Switzerland,19,27
+2016,1,2016-06-10,Portugal,Hungary,25,26
+2016,1,2016-06-10,Austria,Spain,24,30
+2016,1,2016-06-10,Montenegro,Serbia,23,23
+2016,1,2016-06-10,Netherlands,Croatia,24,27
+2016,1,2016-06-10,Switzerland,North Macedonia,17,26
+2016,1,2016-06-10,Finland,Germany,20,34
+2016,1,2016-06-10,Israel,Iceland,24,34
+2016,1,2016-06-10,Latvia,Sweden,14,33
+2016,1,2016-06-10,Czech Republic,France,24,34
+2016,1,2016-06-10,Lithuania,Denmark,25,31
+2016,1,2016-06-10,Turkey,Norway,22,26
+2016,1,2016-06-10,Russia,Ukraine,27,22
+2016,1,2016-06-10,Slovakia,Slovenia,20,26
+2016,2,2016-06-08,Portugal,Qatar,27,22
+2016,2,2016-06-08,Germany,Russia,25,27
+2016,2,2016-06-07,Norway,Belarus,33,26
+2016,2,2016-06-04,Norway,Belarus,36,33
+2016,1,2016-05-03,Montenegro,Israel,33,27
+2016,1,2016-05-03,Serbia,Iceland,25,25
+2016,1,2016-05-03,Slovenia,Sweden,28,28
+2016,1,2016-05-03,Croatia,Norway,31,25
+2016,1,2016-05-03,France,North Macedonia,35,24
+2016,1,2016-05-03,Portugal,Ukraine,34,24
+2016,1,2016-05-03,Spain,Germany,26,20
+2016,1,2016-05-03,Lithuania,Bosnia & Herzegovina,19,15
+2016,1,2016-05-03,Netherlands,Turkey,31,21
+2016,1,2016-05-02,Austria,Finland,29,22
+2016,1,2016-05-02,Denmark,Belarus,32,23
+2016,1,2016-05-02,Slovakia,Latvia,22,23
+2016,1,2016-05-02,Czech Republic,Switzerland,29,25
+2016,1,2016-05-02,Hungary,Russia,29,25
+2016,1,2016-04-30,Bosnia & Herzegovina,Lithuania,26,23
+2016,1,2016-04-30,Israel,Montenegro,19,22
+2016,1,2016-04-30,Belarus,Denmark,27,36
+2016,1,2016-04-30,Russia,Hungary,23,27
+2016,1,2016-04-30,Ukraine,Portugal,26,32
+2016,1,2016-04-29,Iceland,Serbia,38,22
+2016,1,2016-04-29,North Macedonia,France,25,27
+2016,1,2016-04-29,Switzerland,Czech Republic,26,30
+2016,1,2016-04-29,Sweden,Slovenia,28,24
+2016,1,2016-04-29,Norway,Croatia,27,26
+2016,1,2016-04-29,Latvia,Slovakia,25,18
+2016,1,2016-04-29,Germany,Spain,29,28
+2016,1,2016-04-29,Turkey,Netherlands,23,30
+2016,1,2016-04-29,Finland,Austria,23,26
+2016,2,2016-04-10,Portugal,Slovakia,33,23
+2016,3,2016-04-10,Bahrain,Denmark,24,26
+2016,3,2016-04-10,Tunisia,Poland,24,28
+2016,3,2016-04-10,Slovenia,Iran,33,17
+2016,3,2016-04-10,Croatia,Norway,27,21
+2016,3,2016-04-10,North Macedonia,Chile,30,27
+2016,3,2016-04-10,Sweden,Spain,23,25
+2016,2,2016-04-09,Slovakia,Netherlands,24,28
+2016,2,2016-04-09,Serbia,Russia,27,25
+2016,2,2016-04-09,France,Hungary,28,25
+2016,2,2016-04-09,Czech Republic,Austria,26,23
+2016,3,2016-04-09,Denmark,Norway,25,25
+2016,3,2016-04-09,Poland,Chile,35,27
+2016,3,2016-04-09,Slovenia,Sweden,23,24
+2016,3,2016-04-09,Croatia,Bahrain,33,22
+2016,3,2016-04-09,North Macedonia,Tunisia,26,32
+2016,3,2016-04-09,Spain,Iran,37,23
+2016,2,2016-04-08,Portugal,Netherlands,36,24
+2016,2,2016-04-08,Serbia,Russia,28,23
+2016,3,2016-04-08,Denmark,Croatia,28,24
+2016,3,2016-04-08,Poland,North Macedonia,25,20
+2016,3,2016-04-08,Iran,Sweden,19,34
+2016,3,2016-04-08,Chile,Tunisia,29,35
+2016,3,2016-04-08,Norway,Bahrain,35,29
+2016,3,2016-04-08,Spain,Slovenia,21,24
+2016,1,2016-04-07,Great Britain,Greece,20,32
+2016,2,2016-04-07,Austria,Czech Republic,26,27
+2016,2,2016-04-07,Qatar,Brazil,30,28
+2016,2,2016-04-07,Portugal,Netherlands,31,25
+2016,1,2016-04-06,Luxembourg,Finland,24,24
+2016,1,2016-04-05,Bosnia & Herzegovina,Greece,27,22
+2016,1,2016-04-05,Finland,Romania,32,29
+2016,2,2016-04-05,Norway,Iceland,34,27
+2016,2,2016-04-05,Qatar,Argentina,33,19
+2016,1,2016-04-04,Switzerland,Estonia,31,32
+2016,1,2016-04-04,Great Britain,Italy,23,47
+2016,2,2016-04-04,Argentina,Brazil,20,24
+2016,2,2016-04-03,Norway,Iceland,29,25
+2016,2,2016-04-03,Germany,Austria,26,20
+2016,1,2016-04-02,Estonia,Switzerland,26,34
+2016,1,2016-04-02,Romania,Finland,32,30
+2016,1,2016-04-02,Greece,Bosnia & Herzegovina,23,28
+2016,2,2016-04-02,Germany,Denmark,33,26
+2016,2,2016-03-13,Germany,Qatar,24,26
+2016,2,2016-03-11,Germany,Qatar,32,17
+2016,1,2016-01-31,Germany,Spain,24,17
+2016,1,2016-01-31,Norway,Croatia,24,31
+2016,1,2016-01-29,Spain,Croatia,33,29
+2016,1,2016-01-29,Norway,Germany,33,34
+2016,1,2016-01-29,France,Denmark,29,26
+2016,1,2016-01-29,Poland,Sweden,26,24
+2016,1,2016-01-27,Poland,Croatia,23,37
+2016,1,2016-01-27,Spain,Russia,25,23
+2016,1,2016-01-27,France,Norway,24,29
+2016,1,2016-01-27,Germany,Denmark,25,23
+2016,1,2016-01-27,North Macedonia,Belarus,29,30
+2016,1,2016-01-27,Sweden,Hungary,22,14
+2016,1,2016-01-26,Sweden,Denmark,28,28
+2016,1,2016-01-26,Spain,Hungary,31,29
+2016,1,2016-01-25,Poland,Belarus,32,27
+2016,1,2016-01-25,North Macedonia,Norway,31,31
+2016,1,2016-01-24,Spain,Denmark,23,27
+2016,1,2016-01-24,Germany,Russia,30,29
+2016,1,2016-01-23,Poland,Norway,28,30
+2016,1,2016-01-23,France,Croatia,32,24
+2016,1,2016-01-22,Sweden,Russia,28,28
+2016,1,2016-01-22,Germany,Hungary,29,19
+2016,1,2016-01-21,North Macedonia,Croatia,24,34
+2016,1,2016-01-21,France,Belarus,34,23
+2016,1,2016-01-20,Denmark,Hungary,30,22
+2016,1,2016-01-20,Spain,Sweden,24,22
+2016,1,2016-01-20,Germany,Slovenia,25,21
+2016,1,2016-01-20,Russia,Montenegro,28,21
+2016,1,2016-01-19,Croatia,Iceland,37,28
+2016,1,2016-01-19,France,Poland,25,31
+2016,1,2016-01-19,Belarus,Norway,27,29
+2016,1,2016-01-19,North Macedonia,Serbia,27,27
+2016,1,2016-01-18,Germany,Sweden,27,26
+2016,1,2016-01-18,Montenegro,Denmark,28,30
+2016,1,2016-01-18,Slovenia,Spain,24,24
+2016,1,2016-01-18,Russia,Hungary,27,26
+2016,1,2016-01-17,North Macedonia,Poland,23,24
+2016,1,2016-01-17,Norway,Croatia,34,31
+2016,1,2016-01-17,Serbia,France,26,36
+2016,1,2016-01-17,Belarus,Iceland,39,38
+2016,1,2016-01-16,Sweden,Slovenia,23,21
+2016,1,2016-01-16,Denmark,Russia,31,25
+2016,1,2016-01-16,Spain,Germany,32,29
+2016,1,2016-01-16,Hungary,Montenegro,32,27
+2016,1,2016-01-15,Poland,Serbia,29,28
+2016,1,2016-01-15,Iceland,Norway,26,25
+2016,1,2016-01-15,France,North Macedonia,30,23
+2016,1,2016-01-15,Croatia,Belarus,27,21
+2016,2,2016-01-11,North Macedonia,Montenegro,29,26
+2016,2,2016-01-10,North Macedonia,Montenegro,35,28
+2016,2,2016-01-10,Hungary,Serbia,25,25
+2016,2,2016-01-10,Germany,Iceland,24,27
+2016,2,2016-01-10,Russia,Belarus,28,28
+2016,2,2016-01-10,Spain,Poland,26,12
+2016,2,2016-01-10,Argentina,Netherlands,17,28
+2016,2,2016-01-10,Brazil,Sweden,28,25
+2016,2,2016-01-09,Spain,Brazil,37,30
+2016,2,2016-01-09,Serbia,Hungary,24,22
+2016,2,2016-01-09,Slovenia,Croatia,32,17
+2016,2,2016-01-09,Sweden,Poland,26,28
+2016,2,2016-01-09,Germany,Iceland,26,25
+2016,2,2016-01-09,Russia,Argentina,30,24
+2016,2,2016-01-09,Belarus,Netherlands,34,34
+2016,2,2016-01-08,Spain,Sweden,32,22
+2016,2,2016-01-08,Croatia,Slovenia,31,30
+2016,2,2016-01-08,Poland,Brazil,27,23
+2016,2,2016-01-08,Russia,Netherlands,35,28
+2016,2,2016-01-08,Argentina,Belarus,29,28
+2016,2,2016-01-07,Iceland,Portugal,26,25
+2016,2,2016-01-06,Iceland,Portugal,28,32
+2016,2,2016-01-05,Germany,Tunisia,37,30
+2016,2,2016-01-05,Slovenia,North Macedonia,23,23
+2016,2,2016-01-05,Sweden,Czech Republic,29,27
+2016,2,2016-01-04,Sweden,Czech Republic,34,28
+2016,2,2016-01-04,Slovenia,North Macedonia,28,28
+2016,2,2016-01-03,Switzerland,Tunisia,29,37
+2016,2,2016-01-03,Austria,Portugal,34,30
+2016,2,2016-01-02,Switzerland,Portugal,33,31
+2016,2,2016-01-02,Tunisia,Austria,34,29
+2015,2,2015-12-30,Luxembourg,Lithuania,28,32
+2015,2,2015-12-29,Poland,Czech Republic,37,33
+2015,2,2015-12-29,Serbia,Romania,30,30
+2015,2,2015-12-29,Montenegro,Algeria,22,24
+2015,2,2015-12-29,Iran,Ukraine,25,21
+2015,2,2015-12-28,Poland,Ukraine,29,19
+2015,2,2015-12-28,Czech Republic,Iran,38,32
+2015,2,2015-12-28,Montenegro,Algeria,24,19
+2015,2,2015-12-28,Belarus,Egypt,25,28
+2015,2,2015-12-28,Latvia,Russia,19,30
+2015,2,2015-12-27,Latvia,Egypt,29,24
+2015,2,2015-12-27,Russia,Belarus,34,24
+2015,2,2015-12-26,Latvia,Belarus,26,28
+2015,2,2015-12-26,Russia,Egypt,31,24
+2015,2,2015-11-08,Poland,Spain,20,23
+2015,2,2015-11-08,Sweden,Russia,32,28
+2015,2,2015-11-08,Croatia,Montenegro,28,23
+2015,2,2015-11-08,Germany,Slovenia,31,28
+2015,2,2015-11-08,Hungary,Argentina,28,15
+2015,2,2015-11-08,Brazil,Serbia,32,29
+2015,2,2015-11-07,North Macedonia,Montenegro,30,30
+2015,2,2015-11-07,Brazil,Slovenia,27,38
+2015,2,2015-11-07,Poland,Russia,27,21
+2015,2,2015-11-07,Tunisia,Switzerland,31,26
+2015,2,2015-11-07,Germany,Serbia,37,26
+2015,2,2015-11-07,Algeria,Iran,33,27
+2015,2,2015-11-07,Spain,Sweden,32,27
+2015,2,2015-11-07,Hungary,Belarus,32,20
+2015,2,2015-11-06,Belarus,Argentina,23,30
+2015,2,2015-11-06,Serbia,Slovenia,21,23
+2015,2,2015-11-06,Croatia,North Macedonia,29,21
+2015,2,2015-11-06,Tunisia,Algeria,29,19
+2015,2,2015-11-06,Germany,Brazil,29,20
+2015,2,2015-11-06,Qatar,Bahrain,29,22
+2015,2,2015-11-06,Switzerland,Iran,28,24
+2015,2,2015-11-05,Sweden,Russia,30,21
+2015,2,2015-11-05,Tunisia,Iran,32,23
+2015,2,2015-11-05,Switzerland,Algeria,32,20
+2015,2,2015-11-04,Saudi Arabia,Qatar,22,32
+2015,2,2015-11-02,Saudi Arabia,Bahrain,22,30
+2015,2,2015-10-20,Qatar,Saudi Arabia,24,31
+2015,2,2015-10-17,Saudi Arabia,Bahrain,33,31
+2015,2,2015-10-16,Qatar,Bahrain,25,31
+2015,2,2015-06-20,Poland,Denmark,23,26
+2015,2,2015-06-06,Lithuania,Estonia,26,26
+2015,2,2015-06-04,Montenegro,Saudi Arabia,24,18
+2015,2,2015-06-03,Montenegro,Saudi Arabia,33,21
+2015,2,2015-05-03,Poland,Brazil,24,25
+2015,2,2015-05-03,Egypt,Romania,21,28
+2015,2,2015-05-02,Poland,Egypt,27,20
+2015,2,2015-05-02,Romania,Brazil,28,30
+2015,2,2015-05-01,Poland,Romania,27,24
+2015,2,2015-05-01,Egypt,Brazil,23,28
+2015,2,2015-04-26,Germany,Switzerland,30,18
+2015,2,2015-04-24,Greece,Israel,26,31
+2015,2,2015-02-10,Israel,Italy,35,22
+2015,2,2015-02-09,Israel,Italy,28,28
+2015,2,2015-01-18,Norway,Serbia,25,28
+2015,2,2015-01-17,Norway,Hungary,31,27
+2015,2,2015-01-16,Serbia,Hungary,30,26
+2015,2,2015-01-12,France,Austria,30,28
+2015,2,2015-01-11,Denmark,Sweden,28,19
+2015,2,2015-01-11,Iceland,Slovenia,32,32
+2015,2,2015-01-11,Spain,Poland,33,28
+2015,2,2015-01-11,Norway,Hungary,28,26
+2015,2,2015-01-10,Spain,Norway,38,20
+2015,2,2015-01-10,Denmark,Iceland,29,30
+2015,2,2015-01-10,Croatia,Serbia,34,30
+2015,2,2015-01-10,France,North Macedonia,30,20
+2015,2,2015-01-10,Hungary,Poland,25,35
+2015,2,2015-01-10,Slovenia,Sweden,23,29
+2015,2,2015-01-10,Germany,Czech Republic,27,22
+2015,2,2015-01-10,Argentina,Algeria,21,20
+2015,2,2015-01-09,Algeria,North Macedonia,20,32
+2015,2,2015-01-09,Germany,Czech Republic,32,24
+2015,2,2015-01-09,Sweden,Iceland,30,24
+2015,2,2015-01-09,Spain,Hungary,27,25
+2015,2,2015-01-09,Denmark,Slovenia,36,26
+2015,2,2015-01-09,France,Argentina,33,19
+2015,2,2015-01-09,Croatia,Serbia,35,28
+2015,2,2015-01-09,Poland,Norway,25,30
+2015,2,2015-01-09,Greece,Slovakia,21,24
+2015,2,2015-01-08,Austria,Switzerland,38,28
+2015,2,2015-01-08,Greece,Slovakia,17,29
+2015,2,2015-01-06,Austria,Switzerland,32,23
+2015,2,2015-01-05,Iceland,Germany,25,24
+2015,2,2015-01-05,Sweden,Denmark,23,24
+2015,2,2015-01-04,Iceland,Germany,24,31
+2015,2,2015-01-04,Switzerland,Tunisia,24,26
+2015,2,2015-01-04,Belarus,Slovakia,29,34
+2015,2,2015-01-03,Switzerland,Belarus,26,25
+2015,2,2015-01-03,Slovakia,Tunisia,27,28
+2015,2,2015-01-02,Tunisia,Belarus,34,30
+2015,2,2015-01-02,Switzerland,Slovakia,31,29
