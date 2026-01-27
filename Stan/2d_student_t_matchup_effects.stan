@@ -127,9 +127,8 @@ parameters {
   real<lower=-1, upper=1> rho;            // Correlation between home and away goals
 
   // Matchup-Specific Parameters
-  simplex[K] style_off;
-  simplex[K] style_def;
-  real<lower = 0> style_scale;
+  sum_to_zero_vector[K] style_off;
+  sum_to_zero_vector[K] style_def;
 }
 
 /**
@@ -226,7 +225,6 @@ model {
   // Prior for matchup-specific parameters
   style_off ~ std_normal();
   style_def ~ std_normal();
-  style_scale ~ exponential(10);
 
   for (n in 1:N) {
     vector[2] off;
@@ -255,13 +253,11 @@ model {
 
     int i = team1[n];
     int j = team2[n];
-
-    real matchup = style_scale * (style_off[i] * style_def[j] - style_off[j] * style_def[i]);
     
 
     // Expected goals
-    mu[1] = mean_goals[season[n]] + off[1] - def[2] + matchup;
-    mu[2] = mean_goals[season[n]] + off[2] - def[1] - matchup;
+    mu[1] = mean_goals[season[n]] + off[1] - def[2] + style_off[i] * style_def[j];
+    mu[2] = mean_goals[season[n]] + off[2] - def[1] + style_off[j] * style_def[i];
     
 
     // Create game-specific covariance matrix using team sigmas
@@ -330,10 +326,8 @@ generated quantities {
     int i = team1_pred[n];
     int j = team2_pred[n];
 
-    real matchup = style_scale * (style_off[i] * style_def[j] - style_off[j] * style_def[i]);
-
-    mu[1] = mean_goals[N_seasons] + off[1] - def[2] + matchup;  
-    mu[2] = mean_goals[N_seasons] + off[2] - def[1] - matchup;
+    mu[1] = mean_goals[N_seasons] + off[1] - def[2] + style_off[i] * style_def[j];  
+    mu[2] = mean_goals[N_seasons] + off[2] - def[1] + style_off[j] * style_def[i];
     
     // Create game-specific covariance matrix using team sigmas
     Sigma[1,1] = square(sigma_team[team1_pred[n]]);

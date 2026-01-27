@@ -8,10 +8,10 @@ sex <- "male"
 
 fit_handball_model(
   sex = sex,
-  model_name = "2d_student_t_matchup_effects.stan",
+  # model_name = "2d_student_t_matchup_effects.stan",
   refresh = 100,
-  iter_warmup = 200,
-  iter_sampling = 200,
+  iter_warmup = 1000,
+  iter_sampling = 1000,
   end_date = end_date
 )
 
