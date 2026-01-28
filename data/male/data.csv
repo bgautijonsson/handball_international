@@ -1,4 +1,7 @@
 season,division,date,home,away,home_goals,away_goals
+2026,1,2026-01-27,Sweden,Hungary,32,32
+2026,1,2026-01-27,Slovenia,Croatia,25,29
+2026,1,2026-01-27,Switzerland,Iceland,38,38
 2026,1,2026-01-26,Germany,Denmark,26,31
 2026,1,2026-01-26,Spain,France,36,32
 2026,1,2026-01-26,Portugal,Norway,35,35
@@ -208,14 +211,6 @@ season,division,date,home,away,home_goals,away_goals
 2026,1,2025-03-13,Georgia,Bosnia & Herzegovina,28,26
 2025,4,2025-03-13,Belgium,Italy,25,29
 2025,4,2025-03-13,Estonia,Ukraine,32,29
-2026,1,2025-03-12,Faroe Islands,Netherlands,32,32
-2026,1,2025-03-12,North Macedonia,Slovenia,26,32
-2026,1,2025-03-12,Luxembourg,Belgium,22,32
-2026,1,2025-03-12,Turkey,Switzerland,34,38
-2026,1,2025-03-12,Czech Republic,Croatia,29,35
-2026,1,2025-03-12,Estonia,Lithuania,20,30
-2026,1,2025-03-12,Greece,Iceland,25,34
-2026,1,2025-03-12,Montenegro,Hungary,26,29
 2025,4,2025-02-02,Croatia,Denmark,26,32
 2025,4,2025-02-02,France,Portugal,35,34
 2025,4,2025-01-31,Denmark,Portugal,40,27
