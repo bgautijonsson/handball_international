@@ -75,7 +75,7 @@ plot_dat |>
     team %in%
       c(
         "Iceland",
-        "Switzerland"
+        "Slovenia"
       )
   ) |>
   mutate(
@@ -88,6 +88,7 @@ plot_dat |>
       team == "Croatia" ~ "Króatía",
       team == "Sweden" ~ "Svíþjóð",
       team == "Switzerland" ~ "Sviss",
+      team == "Slovenia" ~ "Slóvenía",
       TRUE ~ team
     )
   ) |>
@@ -154,7 +155,8 @@ plot_dat |>
       "Ungverjaland" = "#477050",
       "Króatía" = "#ff0000",
       "Sviss" = "#DA291C",
-      "Svíþjóð" = "#fd8d3c"
+      "Svíþjóð" = "#fd8d3c",
+      "Slóvenía" = "#FF0000"
       
     )
   ) +
@@ -167,7 +169,8 @@ plot_dat |>
       "Pólland" = 0.74,
       "Sviss" = 0.5,
       "Svíþjóð" = 0.3,
-      "Ungverjaland" = 0.15
+      "Ungverjaland" = 0.15,
+      "Slóvenía" = 0.2
     )
   ) +
   facet_wrap(
@@ -178,8 +181,8 @@ plot_dat |>
     legend.position = "none"
   ) +
   labs(
-    title = "Þróun styrks landsliða Íslands og Sviss í Handbolta karla",
-    subtitle = "Bæði lið hafa bætt sóknarleik sinn en Ísland hefur bætt vörnina meira en Sviss",
+    title = "Þróun styrks landsliða Íslands og Slóveníu í Handbolta karla",
+    subtitle = "Á meðan íslenska vörnin hefur bætt sig hefur sú slóvenska versnað síðasta áratuginn",
     x = NULL,
     y = "Samanburður við lönd sem hafa spilað á EM eða HM",
     col = NULL,
@@ -187,7 +190,7 @@ plot_dat |>
   )
 
 ggsave(
-  filename = here("results", "male", "evolution_iceland_switzerland.png"),
+  filename = here("results", "male", "evolution_iceland_slovenia.png"),
   width = 8,
   height = 0.8 * 8,
   scale = 1.2
