@@ -307,11 +307,11 @@ generate_model_results <- function(sex = "female", end_date = Sys.Date()) {
       "next_round_predictions.png"
     ),
     width = 8,
-    height = 0.8 * 8,
+    height = 0.4 * 8,
     scale = 1.2
   )
   
-  #### Iceland Games Predictions ####
+   #### Iceland Games Predictions ####
   
   plot_dat <- posterior_goals |>
     mutate(
@@ -996,53 +996,9 @@ generate_model_results <- function(sex = "female", end_date = Sys.Date()) {
     arrange(group, desc(mean_points)) |>
     select(-lower_pos, -upper_pos)
   
-  cro_win <- 0.53
-  cro_draw <- 0.08
-  cro_lose <- 0.39
-  swe_win <- 0.92
-  swe_draw <- 0.02
-  swe_lose <- 0.06
-  ice_win <- 0.68
-  ice_draw <- 0.07
-  ice_lose <- 0.25
-  slo_win <- 0.25
-  slo_draw <- 0.07
-  slo_lose <- 0.68
-  
-  cro_top <- cro_win + 
-    cro_draw * (ice_win * (swe_draw + swe_lose) + ice_draw + ice_lose) +
-    cro_lose * (ice_win * swe_lose + ice_draw * swe_draw + ice_lose)
-  
-  ice_top <- ice_win +
-    ice_draw * (swe_draw + swe_lose)
-  
-  swe_top <- swe_win * (ice_win * (cro_draw + cro_lose) + ice_draw + ice_lose) +
-    swe_draw * (ice_draw * cro_lose + ice_lose)
-  
-  slo_top <- slo_win * (swe_lose)
-  
-  cro_top + ice_top + swe_top + slo_top
-  
-  top_ps <- c(
-    1,
-    0.34,
-    0.66,
-    0,
-    0,
-    0,
-    ######
-    cro_top,
-    swe_top,
-    ice_top,
-    slo_top,
-    0,
-    0
-  )
-  
   p_top |>
     mutate(
-      group = str_c(group, "-riðill"),
-      p_top = top_ps
+      group = str_c(group, "-riðill")
     ) |> 
     group_by(group) |>
     gt() |>

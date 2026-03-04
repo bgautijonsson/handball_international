@@ -13,5 +13,5 @@ download_data$update_current_schedule(
 process_data$process_schedule(
   sex = "male",
   division_name = "ehf-euro",
-  division_number = 1
+  division_number = 3
 )

@@ -75,7 +75,7 @@ plot_dat |>
     team %in%
       c(
         "Iceland",
-        "Slovenia"
+        "Denmark"
       )
   ) |>
   mutate(
@@ -89,6 +89,7 @@ plot_dat |>
       team == "Sweden" ~ "Svíþjóð",
       team == "Switzerland" ~ "Sviss",
       team == "Slovenia" ~ "Slóvenía",
+      team == "Denmark" ~ "Danmörk",
       TRUE ~ team
     )
   ) |>
@@ -148,29 +149,31 @@ plot_dat |>
   ) +
   scale_colour_manual(
     values = c(
-      "Ísland" = "#02529C",
       "Belgía" = "#2D2926",
-      "Pólland" = "#DC143C",
+      "Danmörk" = "#C8102E",
+      "Ísland" = "#02529C",
       "Ítalía" = "#008C45",
-      "Ungverjaland" = "#477050",
       "Króatía" = "#ff0000",
+      "Pólland" = "#DC143C",
+      "Slóvenía" = "#FF0000",
       "Sviss" = "#DA291C",
       "Svíþjóð" = "#fd8d3c",
-      "Slóvenía" = "#FF0000"
+      "Ungverjaland" = "#477050"
       
     )
   ) +
   scale_hjust_manual(
     values = c(
       "Belgía" = 0.5,
+      "Danmörk" = 0.5,
       "Ísland" = 0.15,
       "Ítalía" = 0.5,
       "Króatía" = 0.25,
       "Pólland" = 0.74,
+      "Slóvenía" = 0.2,
       "Sviss" = 0.5,
       "Svíþjóð" = 0.3,
-      "Ungverjaland" = 0.15,
-      "Slóvenía" = 0.2
+      "Ungverjaland" = 0.15
     )
   ) +
   facet_wrap(
@@ -181,8 +184,8 @@ plot_dat |>
     legend.position = "none"
   ) +
   labs(
-    title = "Þróun styrks landsliða Íslands og Slóveníu í Handbolta karla",
-    subtitle = "Á meðan íslenska vörnin hefur bætt sig hefur sú slóvenska versnað síðasta áratuginn",
+    title = "Þróun styrks landsliða Íslands og Danmerkur í Handbolta karla",
+    subtitle = "Bæði liðin hafa bætt sig undanfarinn áratug",
     x = NULL,
     y = "Samanburður við lönd sem hafa spilað á EM eða HM",
     col = NULL,
@@ -190,7 +193,7 @@ plot_dat |>
   )
 
 ggsave(
-  filename = here("results", "male", "evolution_iceland_slovenia.png"),
+  filename = here("results", "male", "evolution_iceland_denmark.png"),
   width = 8,
   height = 0.8 * 8,
   scale = 1.2
